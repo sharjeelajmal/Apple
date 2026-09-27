@@ -1,0 +1,42 @@
+import "server-only";
+import type { ObjectId } from "mongodb";
+import type { CartItem } from "@/context/CartContext";
+import type { CardSummary, CheckoutContact, Order, OrderAddress, OrderStatus, PaymentMethod } from "@/types/order";
+import { db } from "./mongodb";
+
+export type OrderDocument = {
+  _id?: ObjectId;
+  orderNumber: string;
+  userId: string | null;
+  items: CartItem[];
+  subtotal: number;
+  paymentMethod: PaymentMethod;
+  status: OrderStatus;
+  createdAt: Date;
+  estimatedDelivery: Date;
+  contact?: CheckoutContact;
+  shippingAddress?: OrderAddress;
+  billingAddress?: OrderAddress;
+  card?: CardSummary | null;
+};
+
+export const ordersCollection = db.collection<OrderDocument>("orders");
+
+export const toOrder = (document: OrderDocument): Order => ({
+  id: document.orderNumber,
+  items: document.items,
+  subtotal: document.subtotal,
+  paymentMethod: document.paymentMethod,
+  status: document.status,
+  placedAt: document.createdAt.toISOString(),
+  estimatedDelivery: document.estimatedDelivery.toISOString(),
+  contact: document.contact,
+  shippingAddress: document.shippingAddress,
+  billingAddress: document.billingAddress,
+  card: document.card ?? null,
+});
+
+export const getOrdersForUser = async (userId: string) => {
+  const documents = await ordersCollection.find({ userId }).sort({ createdAt: -1 }).toArray();
+  return documents.map(toOrder);
+};

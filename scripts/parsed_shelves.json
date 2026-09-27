@@ -1,0 +1,900 @@
+[
+  {
+    "title": "The latest.",
+    "subtitle": "Take a look at what’s new, right now.",
+    "cards": [
+      {
+        "link": "https://www.apple.com/shop/buy-iphone/iphone-17-pro",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "desc": "All out Pro.",
+        "price": "From $1099 or $45.79 /mo.",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/buy-mac/macbook-neo",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "desc": "The magic of Mac at a surprising&nbsp;price.",
+        "price": "From $699 or $58.25 /mo.",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/browse/home/education_routing",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "https://www.apple.com/shop/buy-iphone/iphone-17e",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "desc": "Feature&nbsp;stacked. Value&nbsp;packed.",
+        "price": "From $599 or $24.95 /mo.",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/buy-airpods/airpods-max-2",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "desc": "New intelligent features. More immersive listening.",
+        "price": "$549 or $91.50 /mo.",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/buy-mac/macbook-pro",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "desc": "Now with M5, M5&nbsp;Pro, and M5&nbsp;Max.",
+        "price": "From $1999 or $166.58 /mo.",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/buy-mac/macbook-air/macbook-air-with-m5-chip",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "desc": "Now supercharged by&nbsp;M5.",
+        "price": "From $1299 or $108.25 /mo.",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/buy-ipad/ipad-air",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "desc": "Now supercharged by&nbsp;M4.",
+        "price": "From $749 or $62.41 /mo.",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/buy-watch/apple-watch",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "desc": "The ultimate way to&nbsp;watch&nbsp;your&nbsp;health.",
+        "price": "From $399",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "https://www.apple.com/shop/buy-iphone/iphone-17",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "desc": "Magichromatic.",
+        "price": "From $799 or $33.29 /mo.",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "https://www.apple.com/shop/buy-iphone/iphone-air",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "desc": "The thinnest iPhone&nbsp;ever.",
+        "price": "From $999 or $41.62 /mo.",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/buy-mac/studio-display",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "desc": "A sight to be bold.",
+        "price": "From $1599 or $133.25 /mo.",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/buy-mac/studio-display-xdr",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "desc": "Pixel sharpener.",
+        "price": "From $3299 or $274.91 /mo.",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/buy-watch/apple-watch-se",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "desc": "Walk&nbsp;it. Talk&nbsp;it. Track&nbsp;it. Love&nbsp;it.",
+        "price": "Buy from $249",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      }
+    ]
+  },
+  {
+    "title": "Help is here.",
+    "subtitle": "Whenever and however you need it.",
+    "cards": [
+      {
+        "link": "/shop/browse/overlay/store/specialist",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "https://contactretail.apple.com/?c=us&amp;ag=SWSOV&amp;pg=iphone_storemain&amp;l=en&amp;ap=com",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "https://www.apple.com/today/event/spotlight-apple-intelligence?cid=rem-us-taa-store-consumer-spotlight-ai",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "https://www.apple.com/today/calendar?sessions=skills&amp;topics=daily-sessions&amp;cid=rem-us-taa-store-fundm-cal",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/browse/overlay/store/personal",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/browse/overlay/store/genius",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      }
+    ]
+  },
+  {
+    "title": "The Apple Store difference.",
+    "subtitle": "Even more reasons to shop with us.",
+    "cards": [
+      {
+        "link": "/shop/browse/overlay/store/tradein",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/browse/overlay/store/delivery",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/browse/overlay/store/financing",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/browse/overlay/store/personalized_shopping",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/browse/overlay/store/engraving",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/browse/overlay/store/cto",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "#linearGradient2904",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      }
+    ]
+  },
+  {
+    "title": "Accessories.",
+    "subtitle": "Essentials that pair perfectly with your favorite devices.",
+    "cards": [
+      {
+        "link": "/shop/accessories/all/new-arrivals",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/accessories/all",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      }
+    ]
+  },
+  {
+    "title": "Elevated home theater sound.",
+    "subtitle": "Just in time for Ted’s return.",
+    "cards": [
+      {
+        "link": "https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy?itscg=10000&amp;itsct=tvwebstore_appleexp_tryfree",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy?itscg=10000&amp;itsct=tvwebstore_appleexp_tryfree",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      }
+    ]
+  },
+  {
+    "title": "The Apple experience.",
+    "subtitle": "Do even more with Apple products and services.",
+    "cards": [
+      {
+        "link": "https://www.apple.com/apple-intelligence",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "https://www.apple.com/macos/continuity",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/browse/overlay/store/handled_with_applecare",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/browse/overlay/store/asa_digital_gifting",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "https://www.apple.com/apple-one",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "https://www.apple.com/apple-pay",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "https://www.apple.com/ios/home",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      }
+    ]
+  },
+  {
+    "title": "Savings and offers.",
+    "subtitle": "Exclusive deals, special stores and more.",
+    "cards": [
+      {
+        "link": "/shop/buy-iphone/carrier-offers",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/education-pricing",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "/shop/refurbished",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "https://www.apple.com/business/small-business",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "http://www.apple.com/r/store/government",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "link": "http://www.apple.com/shop/browse/home/veterans_military",
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      },
+      {
+        "isDark": false
+      }
+    ]
+  }
+]

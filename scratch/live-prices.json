@@ -1,0 +1,234 @@
+{
+  "MHQK4": {
+    "name": "Mac mini",
+    "price": 899
+  },
+  "IPHONE16": {
+    "name": "iPhone 16",
+    "price": 799
+  },
+  "IPHONE17": {
+    "name": "iPhone 17",
+    "price": 899
+  },
+  "IPHONE18PROMAX": {
+    "name": "iPhone 18 Pro",
+    "price": 1299
+  },
+  "MACBOOKPRO_M5_MAIN_2026": {
+    "name": "MacBook Pro",
+    "price": 1999
+  },
+  "IPADAIR11_2026_5G": {
+    "name": "11-inch iPad Air",
+    "price": 899
+  },
+  "IPADAIR13_2026_5G": {
+    "name": "13-inch iPad Air",
+    "price": 1099
+  },
+  "IPAD2025_WIFI": {
+    "name": "iPad",
+    "price": 449
+  },
+  "MK1F4": {
+    "name": "iPhone Duo 256GB Night Sky",
+    "price": 1999
+  },
+  "MK1H4": {
+    "name": "iPhone Duo 512GB Night Sky",
+    "price": 2199
+  },
+  "MG1L4": {
+    "name": "iPhone Air 1TB Space Black",
+    "price": 1699
+  },
+  "WS12_A_AL_DB_C": {
+    "name": "Apple Watch Series 12",
+    "price": 499
+  },
+  "MHRN4": {
+    "name": "iPhone 17e 256GB Black",
+    "price": 699
+  },
+  "IPADPRO13_5G_2025": {
+    "name": "13-inch iPad Pro",
+    "price": 1699
+  },
+  "MK1L4": {
+    "name": "iPhone Duo 1TB Night Sky",
+    "price": 2599
+  },
+  "MHRR4": {
+    "name": "iPhone 17e 512GB Black",
+    "price": 899
+  },
+  "MJWH4": {
+    "name": "iPhone 18 Pro Max 2TB Black",
+    "price": 2499
+  },
+  "MDV94": {
+    "name": "15-inch MacBook Air - Silver",
+    "price": 1499
+  },
+  "WSE5_A_AL_SL_G": {
+    "name": "Apple Watch SE 3",
+    "price": 249
+  },
+  "MJWD4": {
+    "name": "iPhone 18 Pro Max 1TB Black",
+    "price": 1899
+  },
+  "WATCH_UL_4_TI_C49": {
+    "name": "Apple Watch Ultra 4",
+    "price": 799
+  },
+  "WSE5_A_AL_SL_C": {
+    "name": "Apple Watch SE 3",
+    "price": 299
+  },
+  "WS12_A_AL_DB_G": {
+    "name": "Apple Watch Series 12",
+    "price": 399
+  },
+  "IMAC2024_MAIN": {
+    "name": "24-inch iMac",
+    "price": 1499
+  },
+  "IPADMINI2024_WIFI": {
+    "name": "iPad mini",
+    "price": 599
+  },
+  "MGDQ4": {
+    "name": "14-inch MacBook Pro - Silver",
+    "price": 4099
+  },
+  "IPADAIR11_2026_WI": {
+    "name": "11-inch iPad Air",
+    "price": 749
+  },
+  "MJW84": {
+    "name": "iPhone 18 Pro Max 512GB Black",
+    "price": 1499
+  },
+  "MG4E4": {
+    "name": "iPhone 17 512GB Black",
+    "price": 1099
+  },
+  "IPHONE18PRO_MAIN": {
+    "name": "iPhone 18 Pro",
+    "price": 1199
+  },
+  "IPHONEAIR": {
+    "name": "iPhone Air",
+    "price": 1099
+  },
+  "MJW44": {
+    "name": "iPhone 18 Pro Max 256GB Black",
+    "price": 1299
+  },
+  "IPADAIR13_2026_WI": {
+    "name": "13-inch iPad Air",
+    "price": 949
+  },
+  "IPADPRO11_5G_2025": {
+    "name": "11-inch iPad Pro",
+    "price": 1399
+  },
+  "IPHONEDUO": {
+    "name": "iPhone Duo",
+    "price": 1999
+  },
+  "IPHONE17E": {
+    "name": "iPhone 17e",
+    "price": 699
+  },
+  "MG464": {
+    "name": "iPhone 17 256GB Black",
+    "price": 899
+  },
+  "IPADPRO13_WI_2025": {
+    "name": "13-inch iPad Pro",
+    "price": 1499
+  },
+  "MBN_2026_MAIN": {
+    "name": "MacBook Neo",
+    "price": 699
+  },
+  "MWUU3": {
+    "name": "Silver iMac",
+    "price": 1699
+  },
+  "MG184": {
+    "name": "iPhone Air 256GB Space Black",
+    "price": 1099
+  },
+  "MGDN4": {
+    "name": "14-inch MacBook Pro - Silver",
+    "price": 2499
+  },
+  "MHL64": {
+    "name": "Mac Studio",
+    "price": 2499
+  },
+  "MGE74": {
+    "name": "16-inch MacBook Pro - Silver",
+    "price": 4399
+  },
+  "IPADPRO11_WI_2025": {
+    "name": "11-inch iPad Pro",
+    "price": 1199
+  },
+  "MYAP3": {
+    "name": "iPhone 16 128GB Black",
+    "price": 799
+  },
+  "MHQN4": {
+    "name": "Mac mini",
+    "price": 1699
+  },
+  "IPADMINI2024_4G": {
+    "name": "iPad mini",
+    "price": 749
+  },
+  "MJQ34": {
+    "name": "iPhone 18 Pro 256GB Black",
+    "price": 1199
+  },
+  "MK1R4": {
+    "name": "iPhone Duo 2TB Night Sky",
+    "price": 3199
+  },
+  "MJQ74": {
+    "name": "iPhone 18 Pro 512GB Black",
+    "price": 1399
+  },
+  "MHL74": {
+    "name": "Mac Studio",
+    "price": 5499
+  },
+  "IPAD2025_5G": {
+    "name": "iPad",
+    "price": 599
+  },
+  "MDH74": {
+    "name": "13-inch MacBook Air - Silver",
+    "price": 1299
+  },
+  "MGE44": {
+    "name": "16-inch MacBook Pro - Silver",
+    "price": 2999
+  },
+  "MG1E4": {
+    "name": "iPhone Air 512GB Space Black",
+    "price": 1299
+  },
+  "MJQC4": {
+    "name": "iPhone 18 Pro 1TB Black",
+    "price": 1799
+  },
+  "MJQG4": {
+    "name": "iPhone 18 Pro 2TB Black",
+    "price": 2399
+  }
+}

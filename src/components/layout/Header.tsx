@@ -1,97 +1,183 @@
-import Link from "next/link";
+"use client";
+
+import { useState, useEffect } from "react";
 import Image from "next/image";
-import NavLinks from "./header/NavLinks";
-import MobileNav from "./header/MobileNav";
-import CartIndicator from "./header/CartIndicator";
+import Link from "next/link";
+import { Search, User, Heart, ShoppingBag, Menu, X } from "lucide-react";
+import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter, FaYoutube } from "react-icons/fa";
+import SearchOverlay from "./SearchOverlay";
+import { useWishlist } from "@/context/WishlistContext";
+import { useCart } from "@/context/CartContext";
 
 export default function Header() {
+  const [isSticky, setIsSticky] = useState(false);
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [isSearchOpen, setIsSearchOpen] = useState(false);
+  
+  const { wishlistItems } = useWishlist();
+  const [bounceWishlist, setBounceWishlist] = useState(false);
+
+  const { totalItems } = useCart();
+  const [bounceCart, setBounceCart] = useState(false);
+
+  useEffect(() => {
+    const handleWishlistUpdate = () => {
+      setBounceWishlist(true);
+      setTimeout(() => setBounceWishlist(false), 300);
+    };
+    window.addEventListener('wishlist-updated', handleWishlistUpdate);
+    return () => window.removeEventListener('wishlist-updated', handleWishlistUpdate);
+  }, []);
+
+  useEffect(() => {
+    const handleCartUpdate = () => {
+      setBounceCart(true);
+      setTimeout(() => setBounceCart(false), 300);
+    };
+    window.addEventListener('cart-updated', handleCartUpdate);
+    return () => window.removeEventListener('cart-updated', handleCartUpdate);
+  }, []);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > 150) {
+        setIsSticky(true);
+      } else {
+        setIsSticky(false);
+      }
+    };
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
   return (
-    <header className="sticky top-0 z-50 w-full h-[44px] bg-white/70 backdrop-blur-md backdrop-saturate-150 border-b border-gray-200/50 transition-colors duration-300">
-      <div className="mx-auto flex h-full max-w-[996px] items-center justify-between px-4 lg:px-0">
-        <nav aria-label="Global" className="hidden md:flex h-full w-full mx-auto">
-          <ul
-            id="globalnav-list"
-            className="flex flex-row items-center w-full justify-between h-full m-0 p-0 list-none"
-          >
-            {/* Apple Logo */}
-            <li className="flex items-center justify-center px-2 h-full">
-              <Link
-                href="/"
-                aria-label="Apple"
-                className="flex items-center text-[#1d1d1f]/80 hover:text-[#1d1d1f] transition-colors h-full"
+    <>
+      <header className="w-full relative z-50">
+        {/* Top Header */}
+        <div className="hidden md:block py-2 border-b border-gray-100 text-[#333333] text-sm">
+          <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
+            <div className="flex items-center gap-4">
+              <div className="relative group cursor-pointer">
+                <span>USD</span>
+              </div>
+              <span className="text-gray-300">|</span>
+              <div>
+                Order Online Call Us <a href="tel:0123456789" className="font-semibold">(0123) 456789</a>
+              </div>
+            </div>
+            <div className="flex items-center gap-4 text-gray-500">
+              <a href="#" className="hover:text-[#d3122a] transition-colors"><FaTwitter size={14} /></a>
+              <a href="#" className="hover:text-[#d3122a] transition-colors"><FaInstagram size={14} /></a>
+              <a href="#" className="hover:text-[#d3122a] transition-colors"><FaLinkedin size={14} /></a>
+              <a href="#" className="hover:text-[#d3122a] transition-colors"><FaYoutube size={14} /></a>
+              <a href="#" className="hover:text-[#d3122a] transition-colors"><FaFacebook size={14} /></a>
+            </div>
+          </div>
+        </div>
+
+        {/* Main Header */}
+        <div className={`w-full transition-all duration-300 z-50 ${isSticky ? "fixed top-0 left-0 shadow-sm py-3 bg-white/80 backdrop-blur-lg" : "py-5 bg-white"}`}>
+          <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
+            {/* Mobile Menu Trigger & Logo */}
+            <div className="flex items-center gap-4">
+              <button 
+                className="lg:hidden text-gray-800"
+                onClick={() => setMobileMenuOpen(true)}
               >
-                <Image
-                  src="/Header/applelogo.png"
-                  alt="Apple Logo"
-                  width={32}
-                  height={32}
-                  className="w-[28px] h-auto object-contain"
+                <Menu size={24} />
+              </button>
+              <Link href="/">
+                <Image 
+                  src="/Header/applelogo.png" 
+                  alt="Astor" 
+                  width={150} 
+                  height={40} 
+                  className="w-[120px] md:w-[150px]"
                 />
               </Link>
-            </li>
+            </div>
 
-            {/* Nav Links */}
-            <NavLinks />
+            {/* Desktop Navigation */}
+            <nav className="hidden lg:flex items-center gap-8 text-[14px] font-semibold text-[#333333]">
+              <Link href="/" className="hover:text-[#d3122a] transition-colors uppercase">Home</Link>
+              <Link href="/collections/macbook" className="hover:text-[#d3122a] transition-colors uppercase">Mac</Link>
+              <Link href="/collections/iphone" className="hover:text-[#d3122a] transition-colors uppercase">iPhone</Link>
+              <Link href="/pages/about" className="hover:text-[#d3122a] transition-colors uppercase">About Us</Link>
+              <Link href="/pages/contact" className="hover:text-[#d3122a] transition-colors uppercase">Contact</Link>
+            </nav>
 
-            {/* Search Icon */}
-            <li className="flex items-center justify-center px-2 h-full">
-              <button
-                aria-label="Search apple.com"
-                className="flex items-center text-[#1d1d1f]/80 hover:text-[#1d1d1f] transition-colors h-full"
+            {/* Icons */}
+            <div className="flex items-center gap-4 md:gap-6 text-gray-800">
+              <button 
+                onClick={() => setIsSearchOpen(true)}
+                className="hover:text-[#d3122a] transition-colors"
+                aria-label="Search"
               >
-                <Image
-                  src="/Header/search.png"
-                  alt="Search"
-                  width={16}
-                  height={16}
-                  className="w-[15px] h-auto object-contain"
-                />
+                <Search size={22} />
               </button>
-            </li>
+              <Link href="/account" aria-label="Account" className="hover:text-[#d3122a] transition-colors hidden sm:block"><User size={22} /></Link>
+              <Link href="/wishlist" className="relative hover:text-[#d3122a] transition-colors hidden sm:block">
+                <Heart id="header-wishlist-icon" size={22} />
+                {wishlistItems.length > 0 && (
+                  <span className={`absolute -top-2 -right-2 bg-[#d3122a] text-white text-[10px] w-4 h-4 rounded-full flex items-center justify-center font-bold transition-transform ${bounceWishlist ? "scale-125" : "scale-100"}`}>
+                    {wishlistItems.length}
+                  </span>
+                )}
+              </Link>
+              <Link href="/cart" className="relative hover:text-[#d3122a] transition-colors">
+                <ShoppingBag id="header-cart-icon" size={22} />
+                {totalItems > 0 && (
+                  <span className={`absolute -top-2 -right-2 bg-[#d3122a] text-white text-[10px] w-4 h-4 rounded-full flex items-center justify-center font-bold transition-transform ${bounceCart ? "scale-125" : "scale-100"}`}>
+                    {totalItems}
+                  </span>
+                )}
+              </Link>
+            </div>
+          </div>
+        </div>
+      </header>
 
-            {/* Bag Icon */}
-            <li className="flex items-center justify-center px-2 h-full">
-              <CartIndicator />
-            </li>
-          </ul>
-        </nav>
-        
-        {/* Mobile Layout (only shown on small screens) */}
-        <div className="flex md:hidden items-center justify-between h-full w-full">
-          {/* Logo on Left */}
-          <Link
-            href="/"
-            aria-label="Apple"
-            className="flex items-center text-[#1d1d1f]/80 hover:text-[#1d1d1f] transition-colors h-[44px]"
-          >
-            <Image
-              src="/Header/applelogo.png"
-              alt="Apple Logo"
-              width={32}
-              height={32}
-              className="w-[28px] h-auto object-contain"
-            />
-          </Link>
-          
-          {/* Right Icons: Search, Bag, Hamburger */}
-          <div className="flex items-center h-full space-x-5">
-            <button
-              aria-label="Search apple.com"
-              className="flex items-center text-[#1d1d1f]/80 hover:text-[#1d1d1f] transition-colors h-[44px]"
-            >
-              <Image
-                src="/Header/search.png"
-                alt="Search"
-                width={18}
-                height={18}
-                className="w-[18px] h-auto object-contain"
-              />
-            </button>
-            <CartIndicator />
-            <MobileNav />
+      <SearchOverlay isOpen={isSearchOpen} onClose={() => setIsSearchOpen(false)} />
+
+      {/* Mobile Offcanvas Menu */}
+      <div className={`fixed inset-0 bg-black/50 z-[60] transition-opacity duration-300 ${mobileMenuOpen ? "opacity-100 visible" : "opacity-0 invisible"}`} onClick={() => setMobileMenuOpen(false)}>
+        <div 
+          className={`fixed top-0 left-0 h-full w-[300px] bg-white transform transition-transform duration-300 overflow-y-auto ${mobileMenuOpen ? "translate-x-0" : "-translate-x-full"}`}
+          onClick={(e) => e.stopPropagation()}
+        >
+          <div className="p-5">
+            <div className="flex justify-between items-center mb-8 border-b pb-4">
+              <button 
+                onClick={() => {
+                  setMobileMenuOpen(false);
+                  setTimeout(() => setIsSearchOpen(true), 300);
+                }}
+                className="flex-1 flex items-center bg-gray-100 rounded-md overflow-hidden text-gray-500 hover:bg-gray-200 transition-colors py-2 px-3"
+              >
+                <Search size={16} />
+                <span className="ml-2 text-sm">Search products...</span>
+              </button>
+              <button className="ml-4 text-gray-800" onClick={() => setMobileMenuOpen(false)}>
+                <X size={24} />
+              </button>
+            </div>
+            <nav className="flex flex-col gap-4 text-sm font-semibold text-[#333333]">
+              <Link href="/" className="border-b pb-3 uppercase">Home</Link>
+              <Link href="/collections/macbook" className="border-b pb-3 uppercase">Mac</Link>
+              <Link href="/collections/iphone" className="border-b pb-3 uppercase">iPhone</Link>
+              <Link href="/pages/about" className="border-b pb-3 uppercase">About Us</Link>
+              <Link href="/pages/contact" className="border-b pb-3 uppercase">Contact</Link>
+            </nav>
+            <div className="mt-8 flex justify-center gap-4 text-gray-500">
+              <a href="#"><FaTwitter size={18} /></a>
+              <a href="#"><FaInstagram size={18} /></a>
+              <a href="#"><FaLinkedin size={18} /></a>
+              <a href="#"><FaYoutube size={18} /></a>
+              <a href="#"><FaFacebook size={18} /></a>
+            </div>
           </div>
         </div>
       </div>
-    </header>
+    </>
   );
 }

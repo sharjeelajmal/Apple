@@ -1,0 +1,835 @@
+{
+  "products": [
+    {
+      "_id": "6ab91fac59d74ddd82e9b57c",
+      "title": "Astor iMac Pro",
+      "handle": "apple-imac-pro",
+      "category": "macbook",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 1199,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/6_74c1abfb-fc57-41a3-b6d6-d083b48f3fb8_800x.png?v=1643606138",
+        "https://bigon-6.myshopify.com/cdn/shop/products/9_036495cb-64bc-44a5-9238-dcfb6fb5cc30_800x.jpg?v=1643606138"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 1199,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/6_74c1abfb-fc57-41a3-b6d6-d083b48f3fb8_800x.png?v=1643606138"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b57d",
+      "title": "Apple iPhone 13",
+      "handle": "apple-iphone-13",
+      "category": "iphone",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 999,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/12_c626eb19-b68e-4f38-8ca0-6e4695dd1341_800x.jpg?v=1643605822",
+        "https://bigon-6.myshopify.com/cdn/shop/products/9_036495cb-64bc-44a5-9238-dcfb6fb5cc30_800x.jpg?v=1643605822"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 999,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/12_c626eb19-b68e-4f38-8ca0-6e4695dd1341_800x.jpg?v=1643605822"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b57e",
+      "title": "Astor iMac 27-inch",
+      "handle": "apple-imac-27-inch",
+      "category": "macbook",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 999,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/9_ca0435ce-c591-4cf4-91f8-be582f3c7348_800x.jpg?v=1643605802",
+        "https://bigon-6.myshopify.com/cdn/shop/products/8_800x.png?v=1643605802"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 999,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/9_ca0435ce-c591-4cf4-91f8-be582f3c7348_800x.jpg?v=1643605802"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b57f",
+      "title": "Astor iPad Pro",
+      "handle": "apple-ipad-pro",
+      "category": "apple-ipad",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 999,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/21_93080ff0-bde6-4e5a-a309-ddff805d259e_800x.png?v=1643605794",
+        "https://bigon-6.myshopify.com/cdn/shop/products/19_30f40d02-0c06-4bba-957f-1dcdfe8dd8c9_800x.png?v=1643605794"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 999,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/21_93080ff0-bde6-4e5a-a309-ddff805d259e_800x.png?v=1643605794"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b580",
+      "title": "Macbook Air - 13-inch",
+      "handle": "macbook-air-13-inch",
+      "category": "macbook",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 199,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/8_57a41ec5-fb8d-4a1e-8e8e-cba1dcd79fc0_800x.png?v=1643605655",
+        "https://bigon-6.myshopify.com/cdn/shop/products/7_e652431b-10f7-4148-bd06-bb24cde8b749_800x.jpg?v=1643605655"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 199,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/8_57a41ec5-fb8d-4a1e-8e8e-cba1dcd79fc0_800x.png?v=1643605655"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b581",
+      "title": "Macbook Pro - 16-inch",
+      "handle": "macbook-pro-16-inch",
+      "category": "macbook",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 999,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/5_a0f6a29e-c85d-4f1f-a3ff-243bc595d2c4_800x.png?v=1643605814",
+        "https://bigon-6.myshopify.com/cdn/shop/products/4_7621cba3-f25b-430c-ab5e-b8cd5db5dbfa_800x.png?v=1643605814"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 999,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/5_a0f6a29e-c85d-4f1f-a3ff-243bc595d2c4_800x.png?v=1643605814"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b582",
+      "title": "iPad Air 2020 12.9 Inch",
+      "handle": "ipad-air-2020-12-9-inch",
+      "category": "apple-ipad",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 599,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/20_6ae7f889-3719-42e9-b10d-a5a44b07a83b_800x.jpg?v=1643628035",
+        "https://bigon-6.myshopify.com/cdn/shop/products/22_c0e91f1e-3e84-48c6-b8c6-4776749b07b2_800x.jpg?v=1643628035"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 599,
+          "inventory": 0,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/20_6ae7f889-3719-42e9-b10d-a5a44b07a83b_800x.jpg?v=1643628035"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b583",
+      "title": "Astor iPad Pro 12.9 Inch",
+      "handle": "apple-ipad-pro-12-9-inch",
+      "category": "apple-ipad",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 599,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/22_8f56deb1-a60c-4bb8-8451-e92d1ecac721_800x.jpg?v=1643627967",
+        "https://bigon-6.myshopify.com/cdn/shop/products/18_59783586-b453-4753-b41f-403c4e6e1000_800x.jpg?v=1643627967"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 599,
+          "inventory": 0,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/22_8f56deb1-a60c-4bb8-8451-e92d1ecac721_800x.jpg?v=1643627967"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b584",
+      "title": "Astor iPad Pro 11 Inch",
+      "handle": "apple-ipad-pro-11-inch",
+      "category": "apple-ipad",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 999,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/18_800x.jpg?v=1643627742",
+        "https://bigon-6.myshopify.com/cdn/shop/products/20_800x.jpg?v=1643627742"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 999,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/18_800x.jpg?v=1643627742"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b585",
+      "title": "Apple Watch Series 6",
+      "handle": "apple-watch",
+      "category": "apple-watch",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 399,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/2_30595353-85b2-4dff-bc8d-bf3ebffb74b1_800x.jpg?v=1643627196",
+        "https://bigon-6.myshopify.com/cdn/shop/products/5_ecbe3311-2eb9-4c6e-827c-95b77c5f8dfb_800x.jpg?v=1643627196"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 399,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/2_30595353-85b2-4dff-bc8d-bf3ebffb74b1_800x.jpg?v=1643627196"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b586",
+      "title": "Astor iPhone 13 Pro",
+      "handle": "apple-iphone-13-pro",
+      "category": "iphone",
+      "status": "active",
+      "vendor": "otobi",
+      "type": "assorted",
+      "basePrice": 150,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/9_1f747b29-001e-450f-8939-d619d6479bca_1024x1024.jpg?v=1643606162",
+        "https://bigon-6.myshopify.com/cdn/shop/products/11_466b7e59-bd93-4b4d-bfbb-cef9994ea83a_1024x1024.jpg?v=1643606162",
+        "https://bigon-6.myshopify.com/cdn/shop/products/12_6d5acf4b-1896-495e-8f2d-396a58f95ff6_1024x1024.jpg?v=1643606162",
+        "https://bigon-6.myshopify.com/cdn/shop/products/10_14171a3c-970c-462d-8c28-6ec483df7031_1024x1024.jpg?v=1643606109"
+      ],
+      "rating": 5,
+      "totalReviews": 24,
+      "availableStorages": [
+        "128GB",
+        "256GB"
+      ],
+      "availableColors": [
+        {
+          "name": "gray",
+          "hex": "gray",
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/11_466b7e59-bd93-4b4d-bfbb-cef9994ea83a_100x100_crop_center.jpg?v=1643606162"
+        },
+        {
+          "name": "purple",
+          "hex": "purple",
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/12_6d5acf4b-1896-495e-8f2d-396a58f95ff6_100x100_crop_center.jpg?v=1643606162"
+        },
+        {
+          "name": "pink",
+          "hex": "pink",
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/10_14171a3c-970c-462d-8c28-6ec483df7031_100x100_crop_center.jpg?v=1643606109"
+        }
+      ],
+      "variants": [
+        {
+          "id": "39988850294843",
+          "storage": "128GB",
+          "color": {
+            "name": "gray",
+            "hex": "gray"
+          },
+          "price": 150,
+          "inventory": 65,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/11_466b7e59-bd93-4b4d-bfbb-cef9994ea83a_1024x1024.jpg?v=1643606162"
+        },
+        {
+          "id": "39988850327611",
+          "storage": "128GB",
+          "color": {
+            "name": "purple",
+            "hex": "purple"
+          },
+          "price": 150,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/12_6d5acf4b-1896-495e-8f2d-396a58f95ff6_1024x1024.jpg?v=1643606162"
+        },
+        {
+          "id": "39988850360379",
+          "storage": "128GB",
+          "color": {
+            "name": "pink",
+            "hex": "pink"
+          },
+          "price": 150,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/10_14171a3c-970c-462d-8c28-6ec483df7031_1024x1024.jpg?v=1643606109"
+        },
+        {
+          "id": "39988850393147",
+          "storage": "256GB",
+          "color": {
+            "name": "gray",
+            "hex": "gray"
+          },
+          "price": 150,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/11_466b7e59-bd93-4b4d-bfbb-cef9994ea83a_1024x1024.jpg?v=1643606162"
+        },
+        {
+          "id": "39988850425915",
+          "storage": "256GB",
+          "color": {
+            "name": "purple",
+            "hex": "purple"
+          },
+          "price": 150,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/12_6d5acf4b-1896-495e-8f2d-396a58f95ff6_1024x1024.jpg?v=1643606162"
+        },
+        {
+          "id": "39988850458683",
+          "storage": "256GB",
+          "color": {
+            "name": "pink",
+            "hex": "pink"
+          },
+          "price": 150,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/10_14171a3c-970c-462d-8c28-6ec483df7031_1024x1024.jpg?v=1643606109"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b587",
+      "title": "Apple iPhone 12 Pro",
+      "handle": "apple-iphone-12-pro",
+      "category": "iphone",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 999,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/10_63a40498-8ec4-4f40-8b1e-ccf8a0bcda6d_800x.jpg?v=1643605809",
+        "https://bigon-6.myshopify.com/cdn/shop/products/11_e9621370-1282-4f0f-8b27-5264b9ab06cc_800x.jpg?v=1643605809"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 999,
+          "inventory": 0,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/10_63a40498-8ec4-4f40-8b1e-ccf8a0bcda6d_800x.jpg?v=1643605809"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b588",
+      "title": "Astor iPhone 13 mini",
+      "handle": "apple-iphone-13-mini",
+      "category": "iphone",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 999,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/7_e86b0337-0ea8-4038-ba09-245ed8b01235_800x.jpg?v=1643605742",
+        "https://bigon-6.myshopify.com/cdn/shop/products/9_9eb6a132-dfc7-45ba-bc5d-6c84131575ce_800x.jpg?v=1643605742"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 999,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/7_e86b0337-0ea8-4038-ba09-245ed8b01235_800x.jpg?v=1643605742"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b589",
+      "title": "Astor Watch Series 4",
+      "handle": "apple-watch-series-4",
+      "category": "apple-watch",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 999,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/25_800x.png?v=1643625406",
+        "https://bigon-6.myshopify.com/cdn/shop/products/24_01357c15-0fe7-4bb6-9db6-6307952f5c71_800x.png?v=1643625406"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 999,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/25_800x.png?v=1643625406"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b58a",
+      "title": "Watch Gold Series 4",
+      "handle": "watch-gold-series-4",
+      "category": "apple-watch",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 999,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/24_76420093-07fc-490e-bdbd-38c71a4d8016_800x.png?v=1643625337",
+        "https://bigon-6.myshopify.com/cdn/shop/products/29_ac493aff-5c05-465b-b996-0ad24093cb4a_800x.png?v=1643625337"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 999,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/24_76420093-07fc-490e-bdbd-38c71a4d8016_800x.png?v=1643625337"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b58b",
+      "title": "New Watch Series Black",
+      "handle": "new-watch-series-black",
+      "category": "apple-watch",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 999,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/29_3969ab5c-333c-4712-bc11-c1e60510367d_800x.png?v=1643625211",
+        "https://bigon-6.myshopify.com/cdn/shop/products/28_b79dc524-d48e-404d-8384-0358251f2d03_800x.png?v=1643625211"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 999,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/29_3969ab5c-333c-4712-bc11-c1e60510367d_800x.png?v=1643625211"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b58c",
+      "title": "Astor Watch Series 5",
+      "handle": "apple-watch-series-5",
+      "category": "apple-watch",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 999,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/28_800x.png?v=1643625055",
+        "https://bigon-6.myshopify.com/cdn/shop/products/30_36b460e7-db63-4a6d-af3c-1eab7c3d27be_800x.png?v=1643625055"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 999,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/28_800x.png?v=1643625055"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b58d",
+      "title": "Astor Macbook Pro 16 inch",
+      "handle": "apple-macbook-pro-16-inch",
+      "category": "macbook",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 1999,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/15_86068dcd-90b3-4151-b997-f1400617b87e_800x.png?v=1643627552",
+        "https://bigon-6.myshopify.com/cdn/shop/products/16_e8db5b39-5435-4176-8b16-919dd19d0bfa_800x.png?v=1643627552"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 1999,
+          "inventory": 25,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/15_86068dcd-90b3-4151-b997-f1400617b87e_800x.png?v=1643627552"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab91fac59d74ddd82e9b58e",
+      "title": "MacBook Pro 13 with M1",
+      "handle": "macbook-pro-13-with-m1",
+      "category": "macbook",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "Device",
+      "basePrice": 1299,
+      "description": "Designed to be powerful, beautiful, and easy to use. Backed by the full manufacturer warranty and our expert support.",
+      "images": [
+        "https://bigon-6.myshopify.com/cdn/shop/products/16_f8424338-3405-4676-a0cc-e77fb7aa9b11_800x.png?v=1643608986",
+        "https://bigon-6.myshopify.com/cdn/shop/products/13_47c37337-7e7f-41be-8a58-069394f58861_800x.png?v=1643608986"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [],
+      "availableColors": [],
+      "variants": [
+        {
+          "id": "default",
+          "storage": "",
+          "color": {
+            "name": "",
+            "hex": ""
+          },
+          "price": 1299,
+          "inventory": 0,
+          "image": "https://bigon-6.myshopify.com/cdn/shop/products/16_f8424338-3405-4676-a0cc-e77fb7aa9b11_800x.png?v=1643608986"
+        }
+      ],
+      "createdAt": "2026-09-27T13:52:44.103Z",
+      "updatedAt": "2026-09-27T13:52:44.103Z"
+    },
+    {
+      "_id": "6ab94aea262ee6de1d86d6e1",
+      "title": "iPhone 18 Pro Max",
+      "handle": "iphone-18-pro-max",
+      "category": "iphone",
+      "status": "active",
+      "vendor": "Apple",
+      "type": "",
+      "basePrice": 1100,
+      "description": "Black, Silver, Glacier, Burgundy\n\nAluminum unibody design\nCeramic Shield 2 front\nCeramic Shield back",
+      "images": [
+        "https://res.cloudinary.com/glo0rcfg/image/upload/v1790527997/apple-store/ww3rvolelog1b5uoggak.jpg",
+        "https://res.cloudinary.com/glo0rcfg/image/upload/v1790528354/apple-store/vgcuhmme5welyaktnill.webp"
+      ],
+      "rating": 5,
+      "totalReviews": 0,
+      "availableStorages": [
+        "128gb",
+        "256gb",
+        "1Tb"
+      ],
+      "availableColors": [
+        {
+          "name": "Gray",
+          "hex": "#d4d4d4",
+          "image": "https://res.cloudinary.com/glo0rcfg/image/upload/v1790528068/apple-store/vgblsbf6txpbicmabbqt.jpg"
+        },
+        {
+          "name": "Golden",
+          "hex": "#a9c478",
+          "image": "https://res.cloudinary.com/glo0rcfg/image/upload/v1790528137/apple-store/lzppukqc9yzp2ephg18w.webp"
+        }
+      ],
+      "variants": [
+        {
+          "id": "128gb-gray",
+          "storage": "128gb",
+          "color": {
+            "name": "Gray",
+            "hex": "#d4d4d4"
+          },
+          "price": 1200,
+          "inventory": 4,
+          "image": "https://res.cloudinary.com/glo0rcfg/image/upload/v1790528068/apple-store/vgblsbf6txpbicmabbqt.jpg"
+        },
+        {
+          "id": "128gb-golden",
+          "storage": "128gb",
+          "color": {
+            "name": "Golden",
+            "hex": "#a9c478"
+          },
+          "price": 2400,
+          "inventory": 5,
+          "image": "https://res.cloudinary.com/glo0rcfg/image/upload/v1790528137/apple-store/lzppukqc9yzp2ephg18w.webp"
+        },
+        {
+          "id": "256gb-gray",
+          "storage": "256gb",
+          "color": {
+            "name": "Gray",
+            "hex": "#d4d4d4"
+          },
+          "price": 1500,
+          "inventory": 5,
+          "image": "https://res.cloudinary.com/glo0rcfg/image/upload/v1790528068/apple-store/vgblsbf6txpbicmabbqt.jpg"
+        },
+        {
+          "id": "256gb-golden",
+          "storage": "256gb",
+          "color": {
+            "name": "Golden",
+            "hex": "#a9c478"
+          },
+          "price": 1600,
+          "inventory": 5,
+          "image": "https://res.cloudinary.com/glo0rcfg/image/upload/v1790528137/apple-store/lzppukqc9yzp2ephg18w.webp"
+        },
+        {
+          "id": "1tb-gray",
+          "storage": "1Tb",
+          "color": {
+            "name": "Gray",
+            "hex": "#d4d4d4"
+          },
+          "price": 1300,
+          "inventory": 5,
+          "image": "https://res.cloudinary.com/glo0rcfg/image/upload/v1790528068/apple-store/vgblsbf6txpbicmabbqt.jpg"
+        },
+        {
+          "id": "1tb-golden",
+          "storage": "1Tb",
+          "color": {
+            "name": "Golden",
+            "hex": "#a9c478"
+          },
+          "price": 1100,
+          "inventory": 4,
+          "image": "https://res.cloudinary.com/glo0rcfg/image/upload/v1790528137/apple-store/lzppukqc9yzp2ephg18w.webp"
+        }
+      ],
+      "createdAt": "2026-09-27T16:57:14.024Z",
+      "updatedAt": "2026-09-27T17:00:01.993Z"
+    }
+  ],
+  "cms": {
+    "_id": "home",
+    "content": {},
+    "updatedAt": "2026-09-27T13:53:53.268Z"
+  }
+}

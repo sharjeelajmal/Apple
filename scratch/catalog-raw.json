@@ -1,0 +1,4763 @@
+{
+  "iphone": [
+    {
+      "index": 0,
+      "name": "iPhone Duo",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Star White",
+          "hex": "#fafafa",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone_duo_star_white__f2s3n9ds95ay_large_2x.jpg",
+          "imageKey": "iphone-duo-star-white"
+        },
+        {
+          "name": "Night Sky",
+          "hex": "#3c4042",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone_duo_night_sky__l4khpo7rqpeu_large_2x.jpg",
+          "imageKey": "iphone-duo-night-sky"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB"
+      ],
+      "priceToken": "IPHONEDUO",
+      "specs": [
+        "7.6″",
+        "7.6-inch Super Retina XDR folding display with nano-texture",
+        "5.4-inch Super Retina XDR outer display",
+        "ProMotion technology",
+        "Always-On display",
+        "Dynamic Island",
+        "Titanium frame and hinge cover",
+        "Camera Control for faster access to photo and video tools",
+        "Ceramic Shield 2 front, 3x better scratch resistance",
+        "Ceramic Shield back",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A20 Pro chip",
+        "6-core CPU",
+        "7-core GPU with Neural Accelerators",
+        "Dual 16-core Neural Engine",
+        "Hardware-accelerated ray tracing",
+        "Up to 31 hours video playback when using the inner display",
+        "Up to 44 hours video playback when using the outer display",
+        "12MP Center Stage front camera",
+        "Tap to zoom and rotate",
+        "Center Stage for photos",
+        "Ultra-stabilized video",
+        "Dual Capture",
+        "Center Stage for video calls",
+        "Under-display FaceTime camera",
+        "48MP Dual Fusion camera system 48MP Fusion Main 48MP Fusion Ultra Wide",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Smart Take",
+        "Duo Preview",
+        "Photographic Styles 3",
+        "Dolby Vision up to 4K at 120 fps",
+        "Cinematic mode effects from video (Fusion Main)",
+        "Improved low-light video",
+        "Next-generation portraits with Focus and Depth Control",
+        "Macro photography",
+        "zoom, 0.5x, 1x, 2x",
+        "Optical zoom options",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 3 for up to 20x faster transfers",
+        "MagSafe wireless charging up to 25W with 30W adapter or higher",
+        "Compatible with MagSafe cases, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "iPhone 18 Pro Max",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Burgundy",
+          "hex": "#4d1821",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone_18_pro_max_burgundy__dcz67l4005oy_large_2x.jpg",
+          "imageKey": "iphone-18-pro-max-burgundy"
+        },
+        {
+          "name": "Glacier",
+          "hex": "#e8f2ff",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone_18_pro_max_glacier__f6f28qwmryuu_large_2x.jpg",
+          "imageKey": "iphone-18-pro-max-glacier"
+        },
+        {
+          "name": "Silver",
+          "hex": "#f7f7f7",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone_18_pro_max_silver__bkvexz4dqd36_large_2x.jpg",
+          "imageKey": "iphone-18-pro-max-silver"
+        },
+        {
+          "name": "Black",
+          "hex": "#3c3c3c",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone_18_pro_max_black__s6eln189sr2u_large_2x.jpg",
+          "imageKey": "iphone-18-pro-max-black"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB"
+      ],
+      "priceToken": "IPHONE18PROMAX",
+      "specs": [
+        "6.9″",
+        "Super Retina XDR display",
+        "ProMotion technology",
+        "Always-On display",
+        "Dynamic Island",
+        "Aluminum unibody",
+        "Action button",
+        "Camera Control for faster access to photo and video tools",
+        "Ceramic Shield 2 front, 3x better scratch resistance",
+        "Ceramic Shield back",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A20 Pro chip",
+        "6-core CPU",
+        "7-core GPU with Neural Accelerators",
+        "Dual 16-core Neural Engine",
+        "Hardware-accelerated ray tracing",
+        "Up to 45 hours video playback",
+        "18MP Center Stage front camera",
+        "Tap to zoom and rotate",
+        "Center Stage for photos",
+        "Ultra-stabilized video",
+        "Dual Capture",
+        "Center Stage for video calls",
+        "48MP Pro Fusion camera system 48MP Fusion Main with variable aperture 48MP Fusion Ultra Wide 48MP Fusion Telephoto",
+        "Pro controls",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Photographic Styles 3",
+        "Dolby Vision up to 4K at 120 fps",
+        "Cinematic mode effects from video (Fusion Main)",
+        "Improved low-light video",
+        "Apple Reference Image (Fusion Main)",
+        "Next-generation portraits with Focus and Depth Control",
+        "Macro photography",
+        "zoom, 0.5x, 1x, 2x, 4x, 8x",
+        "Optical zoom options",
+        "ƒ/1.48, ƒ/1.8, ƒ/2.8, ƒ/4.0 variable aperture options (Fusion Main)",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 3 for up to 20x faster transfers",
+        "MagSafe wireless charging up to 25W with 30W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "iPhone 18 Pro",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Burgundy",
+          "hex": "#4d1821",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone_18_pro_burgundy__mdv9ns7r6oa6_large_2x.jpg",
+          "imageKey": "iphone-18-pro-burgundy"
+        },
+        {
+          "name": "Glacier",
+          "hex": "#e8f2ff",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone_18_pro_glacier__f830jkql73iy_large_2x.jpg",
+          "imageKey": "iphone-18-pro-glacier"
+        },
+        {
+          "name": "Silver",
+          "hex": "#f7f7f7",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone_18_pro_silver__w26x0ab2ln6a_large_2x.jpg",
+          "imageKey": "iphone-18-pro-silver"
+        },
+        {
+          "name": "Black",
+          "hex": "#3c3c3c",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone_18_pro_black__f7t3q1k8wfiq_large_2x.jpg",
+          "imageKey": "iphone-18-pro-black"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB"
+      ],
+      "priceToken": "IPHONE18PRO_MAIN",
+      "specs": [
+        "6.3″",
+        "Super Retina XDR display",
+        "ProMotion technology",
+        "Always-On display",
+        "Dynamic Island",
+        "Aluminum unibody",
+        "Action button",
+        "Camera Control for faster access to photo and video tools",
+        "Ceramic Shield 2 front, 3x better scratch resistance",
+        "Ceramic Shield back",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A20 Pro chip",
+        "6-core CPU",
+        "7-core GPU with Neural Accelerators",
+        "Dual 16-core Neural Engine",
+        "Hardware-accelerated ray tracing",
+        "Up to 36 hours video playback",
+        "18MP Center Stage front camera",
+        "Tap to zoom and rotate",
+        "Center Stage for photos",
+        "Ultra-stabilized video",
+        "Dual Capture",
+        "Center Stage for video calls",
+        "48MP Pro Fusion camera system 48MP Fusion Main with variable aperture 48MP Fusion Ultra Wide 48MP Fusion Telephoto",
+        "Pro controls",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Photographic Styles 3",
+        "Dolby Vision up to 4K at 120 fps",
+        "Cinematic mode effects from video (Fusion Main)",
+        "Improved low-light video",
+        "Apple Reference Image (Fusion Main)",
+        "Next-generation portraits with Focus and Depth Control",
+        "Macro photography",
+        "zoom, 0.5x, 1x, 2x, 4x, 8x",
+        "Optical zoom options",
+        "ƒ/1.48, ƒ/1.8, ƒ/2.8, ƒ/4.0 variable aperture options (Fusion Main)",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 3 for up to 20x faster transfers",
+        "MagSafe wireless charging up to 25W with 30W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "iPhone 17 Pro",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Cosmic Orange",
+          "hex": "#F77E2D",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone17_pro_cosmic_orange__dm1qripnvq82_large_2x.jpg",
+          "imageKey": "iphone-17-pro-cosmicorange"
+        },
+        {
+          "name": "Deep Blue",
+          "hex": "#32374a",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone17_pro_deep_blue__dz8sfcp4h742_large_2x.jpg",
+          "imageKey": "iphone-17-pro-deepblue"
+        },
+        {
+          "name": "Silver",
+          "hex": "#f5f5f5",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone17_pro_silver__c7bbt5uwieye_large_2x.jpg",
+          "imageKey": "iphone-17-pro-silver"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "6.3″",
+        "Super Retina XDR display",
+        "ProMotion technology",
+        "Always-On display",
+        "Dynamic Island",
+        "Aluminum unibody",
+        "Action button",
+        "Camera Control for faster access to photo and video tools",
+        "Ceramic Shield 2 front, 3x better scratch resistance",
+        "Ceramic Shield back",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A19 Pro chip",
+        "6-core CPU",
+        "6-core GPU with Neural Accelerators",
+        "16-core Neural Engine",
+        "Hardware-accelerated ray tracing",
+        "Up to 33 hours video playback",
+        "18MP Center Stage front camera",
+        "Tap to zoom and rotate",
+        "Center Stage for photos",
+        "Ultra-stabilized video",
+        "Dual Capture",
+        "Center Stage for video calls",
+        "48MP Pro Fusion camera system 48MP Fusion Main 48MP Fusion Ultra Wide 48MP Fusion Telephoto",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Photographic Styles 2",
+        "Dolby Vision up to 4K at 120 fps",
+        "Next-generation portraits with Focus and Depth Control",
+        "Macro photography",
+        "zoom, 0.5x, 1x, 2x, 4x, 8x",
+        "Optical zoom options",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 3 for up to 20x faster transfers",
+        "MagSafe wireless charging up to 25W with 30W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "iPhone 17 Pro Max",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Cosmic Orange",
+          "hex": "#F77E2D",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone17_pro_max_cosmic_orange__d7yolstz8cmu_large_2x.jpg",
+          "imageKey": "iphone-17-pro-max-cosmicorange"
+        },
+        {
+          "name": "Deep Blue",
+          "hex": "#32374a",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone17_pro_max_deep_blue__frgcd836v866_large_2x.jpg",
+          "imageKey": "iphone-17-pro-max-deepblue"
+        },
+        {
+          "name": "Silver",
+          "hex": "#f5f5f5",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone17_pro_max_silver__dtw5i9e8osmu_large_2x.jpg",
+          "imageKey": "iphone-17-pro-max-silver"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "6.9″",
+        "Super Retina XDR display",
+        "ProMotion technology",
+        "Always-On display",
+        "Dynamic Island",
+        "Aluminum unibody",
+        "Action button",
+        "Camera Control for faster access to photo and video tools",
+        "Ceramic Shield 2 front, 3x better scratch resistance",
+        "Ceramic Shield back",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A19 Pro chip",
+        "6-core CPU",
+        "6-core GPU with Neural Accelerators",
+        "16-core Neural Engine",
+        "Hardware-accelerated ray tracing",
+        "Up to 39 hours video playback",
+        "18MP Center Stage front camera",
+        "Tap to zoom and rotate",
+        "Center Stage for photos",
+        "Ultra-stabilized video",
+        "Dual Capture",
+        "Center Stage for video calls",
+        "48MP Pro Fusion camera system 48MP Fusion Main 48MP Fusion Ultra Wide 48MP Fusion Telephoto",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Photographic Styles 2",
+        "Dolby Vision up to 4K at 120 fps",
+        "Next-generation portraits with Focus and Depth Control",
+        "Macro photography",
+        "zoom, 0.5x, 1x, 2x, 4x, 8x",
+        "Optical zoom options",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 3 for up to 20x faster transfers",
+        "MagSafe wireless charging up to 25W with 30W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "iPhone Air",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Sky Blue",
+          "hex": "#f0f9ff",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone_air_sky_blue__kvm15b10x6qa_large_2x.jpg",
+          "imageKey": "iphone-air-skyblue"
+        },
+        {
+          "name": "Light Gold",
+          "hex": "#fffcf5",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone_air_light_gold__c1s3ly3yjuc2_large_2x.jpg",
+          "imageKey": "iphone-air-lightgold"
+        },
+        {
+          "name": "Cloud White",
+          "hex": "#fcfcfc",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone_air_cloud_white__fay39sc7sru6_large_2x.jpg",
+          "imageKey": "iphone-air-cloudwhite"
+        },
+        {
+          "name": "Space Black",
+          "hex": "#000000",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone_air_space_black__erjeo9fa6oa6_large_2x.jpg",
+          "imageKey": "iphone-air-spaceblack"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB"
+      ],
+      "priceToken": "IPHONEAIR",
+      "specs": [
+        "6.5″",
+        "Super Retina XDR display",
+        "ProMotion technology",
+        "Always-On display",
+        "Dynamic Island",
+        "Titanium frame",
+        "Action button",
+        "Camera Control for faster access to photo and video tools",
+        "Ceramic Shield 2 front, 3x better scratch resistance",
+        "Ceramic Shield back",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A19 Pro chip",
+        "6-core CPU",
+        "5-core GPU with Neural Accelerators",
+        "16-core Neural Engine",
+        "Hardware-accelerated ray tracing",
+        "Up to 27 hours video playback",
+        "18MP Center Stage front camera",
+        "Tap to zoom and rotate",
+        "Center Stage for photos",
+        "Ultra-stabilized video",
+        "Dual Capture",
+        "Center Stage for video calls",
+        "48MP Fusion camera system 48MP Fusion Main",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Photographic Styles 2",
+        "Dolby Vision up to 4K at 60 fps",
+        "Next-generation portraits with Focus and Depth Control",
+        "zoom, 1x, 2x",
+        "Optical zoom options",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 2",
+        "MagSafe wireless charging up to 20W with 30W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "iPhone 17",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Lavender",
+          "hex": "#dfceea",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone17_lavender__etuerbkei0ya_large_2x.jpg",
+          "imageKey": "iphone-17-lavender"
+        },
+        {
+          "name": "Sage",
+          "hex": "#a9b689",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone17_sage__edsxj53vsn0i_large_2x.jpg",
+          "imageKey": "iphone-17-sage"
+        },
+        {
+          "name": "Mist Blue",
+          "hex": "#96aed1",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone17_mist_blue__fjf0c9euujee_large_2x.jpg",
+          "imageKey": "iphone-17-mistblue"
+        },
+        {
+          "name": "White",
+          "hex": "#fafafa",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone17_white__cddjqf5mzlaq_large_2x.jpg",
+          "imageKey": "iphone-17-white"
+        },
+        {
+          "name": "Black",
+          "hex": "#32374A",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone17_black__epmfmcpap0sy_large_2x.jpg",
+          "imageKey": "iphone-17-black"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB"
+      ],
+      "priceToken": "IPHONE17",
+      "specs": [
+        "6.3″",
+        "Super Retina XDR display",
+        "ProMotion technology",
+        "Always-On display",
+        "Dynamic Island",
+        "Aluminum frame",
+        "Action button",
+        "Camera Control for faster access to photo and video tools",
+        "Ceramic Shield 2 front, 3x better scratch resistance",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A19 chip",
+        "6-core CPU",
+        "5-core GPU with Neural Accelerators",
+        "16-core Neural Engine",
+        "Hardware-accelerated ray tracing",
+        "Up to 30 hours video playback",
+        "18MP Center Stage front camera",
+        "Tap to zoom and rotate",
+        "Center Stage for photos",
+        "Ultra-stabilized video",
+        "Dual Capture",
+        "Center Stage for video calls",
+        "48MP Dual Fusion camera system 48MP Fusion Main 48MP Fusion Ultra Wide",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Photographic Styles 2",
+        "Dolby Vision up to 4K at 60 fps",
+        "Next-generation portraits with Focus and Depth Control",
+        "Macro photography",
+        "zoom, 0.5x, 1x, 2x",
+        "Optical zoom options",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 2",
+        "MagSafe wireless charging up to 25W with 30W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "iPhone 17e",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Soft Pink",
+          "hex": "#fce7e6",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone17e_pink__bj426l1s94gi_large_2x.jpg",
+          "imageKey": "iphone-17e-softpink"
+        },
+        {
+          "name": "White",
+          "hex": "#fafafa",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone17e_white__dznzme1jxvki_large_2x.jpg",
+          "imageKey": "iphone-17e-white"
+        },
+        {
+          "name": "Black",
+          "hex": "#3c4042",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone17e_black__f8ox5biet3au_large_2x.jpg",
+          "imageKey": "iphone-17e-black"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB"
+      ],
+      "priceToken": "IPHONE17E",
+      "specs": [
+        "6.1″",
+        "Super Retina XDR display",
+        "Aluminum frame",
+        "Action button",
+        "Ceramic Shield 2 front, 3x better scratch resistance",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A19 chip",
+        "6-core CPU",
+        "4-core GPU with Neural Accelerators",
+        "16-core Neural Engine",
+        "Hardware-accelerated ray tracing",
+        "Up to 26 hours video playback",
+        "12MP TrueDepth camera",
+        "Tap to zoom",
+        "48MP Fusion camera system 48MP Fusion Main",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Photographic Styles",
+        "Dolby Vision up to 4K at 60 fps",
+        "Next-generation portraits with Focus and Depth Control",
+        "zoom, 1x, 2x",
+        "Optical zoom options",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 2",
+        "MagSafe wireless charging up to 15W with 20W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "iPhone 16 Pro",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Desert Titanium",
+          "hex": "#bfa48f",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_pro_desert_titanium__ftixjyyve6qi_large_2x.jpg",
+          "imageKey": "iphone-16-pro-deserttitanium"
+        },
+        {
+          "name": "Natural Titanium",
+          "hex": "#c2bcb2",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_pro_natural_titanium__b58sfb3hvv36_large_2x.jpg",
+          "imageKey": "iphone-16-pro-naturaltitanium"
+        },
+        {
+          "name": "White Titanium",
+          "hex": "#f2f1ed",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_pro_white_titanium__mjfjda73w72q_large_2x.jpg",
+          "imageKey": "iphone-16-pro-whitetitanium"
+        },
+        {
+          "name": "Black Titanium",
+          "hex": "#3c3c3d",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_pro_black_titanium__c7t71uah5qky_large_2x.jpg",
+          "imageKey": "iphone-16-pro-blacktitanium"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "6.3″",
+        "Super Retina XDR display",
+        "ProMotion technology",
+        "Always-On display",
+        "Dynamic Island",
+        "Titanium frame",
+        "Action button",
+        "Camera Control for faster access to photo and video tools",
+        "Ceramic Shield front",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A18 Pro chip",
+        "6-core CPU",
+        "6-core GPU",
+        "16-core Neural Engine",
+        "Hardware-accelerated ray tracing",
+        "Up to 27 hours video playback",
+        "12MP TrueDepth camera",
+        "Tap to zoom",
+        "Pro camera system 48MP Fusion Main 48MP Ultra Wide Telephoto",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Photographic Styles 2",
+        "Dolby Vision up to 4K at 120 fps",
+        "Next-generation portraits with Focus and Depth Control",
+        "Macro photography",
+        "zoom, 0.5x, 1x, 2x, 5x",
+        "Optical zoom options",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 3 for up to 20x faster transfers",
+        "MagSafe wireless charging up to 22W with 30W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "iPhone 16 Pro Max",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Desert Titanium",
+          "hex": "#bfa48f",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_pro_max_desert_titanium__f8058hcu01ua_large_2x.jpg",
+          "imageKey": "iphone-16-pro-max-deserttitanium"
+        },
+        {
+          "name": "Natural Titanium",
+          "hex": "#c2bcb2",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_pro_max_natural_titanium__finz5cbww0mm_large_2x.jpg",
+          "imageKey": "iphone-16-pro-max-naturaltitanium"
+        },
+        {
+          "name": "White Titanium",
+          "hex": "#f2f1ed",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_pro_max_white_titanium__nrwzujp5v762_large_2x.jpg",
+          "imageKey": "iphone-16-pro-max-whitetitanium"
+        },
+        {
+          "name": "Black Titanium",
+          "hex": "#3c3c3d",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_pro_max_black_titanium__evlilxt8g2mq_large_2x.jpg",
+          "imageKey": "iphone-16-pro-max-blacktitanium"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "6.9″",
+        "Super Retina XDR display",
+        "ProMotion technology",
+        "Always-On display",
+        "Dynamic Island",
+        "Titanium frame",
+        "Action button",
+        "Camera Control for faster access to photo and video tools",
+        "Ceramic Shield front",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A18 Pro chip",
+        "6-core CPU",
+        "6-core GPU",
+        "16-core Neural Engine",
+        "Hardware-accelerated ray tracing",
+        "Up to 33 hours video playback",
+        "12MP TrueDepth camera",
+        "Tap to zoom",
+        "Pro camera system 48MP Fusion Main 48MP Ultra Wide Telephoto",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Photographic Styles 2",
+        "Dolby Vision up to 4K at 120 fps",
+        "Next-generation portraits with Focus and Depth Control",
+        "Macro photography",
+        "zoom, 0.5x, 1x, 2x, 5x",
+        "Optical zoom options",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 3 for up to 20x faster transfers",
+        "MagSafe wireless charging up to 25W with 30W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "iPhone 16",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Ultramarine",
+          "hex": "#9aadf6",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_ultramarine__sr260qois4am_large_2x.jpg",
+          "imageKey": "iphone-16-ultramarine"
+        },
+        {
+          "name": "Teal",
+          "hex": "#b0d4d2",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_teal__fkzqehm57iai_large_2x.jpg",
+          "imageKey": "iphone-16-teal"
+        },
+        {
+          "name": "Pink",
+          "hex": "#f2adda",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_pink__fzr1z22a7m2q_large_2x.jpg",
+          "imageKey": "iphone-16-pink"
+        },
+        {
+          "name": "White",
+          "hex": "#fafafa",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_white__dcn5vobxo7ki_large_2x.jpg",
+          "imageKey": "iphone-16-white"
+        },
+        {
+          "name": "Black",
+          "hex": "#3c4042",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_black__bedc0hlw316q_large_2x.jpg",
+          "imageKey": "iphone-16-black"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB"
+      ],
+      "priceToken": "IPHONE16",
+      "specs": [
+        "6.1″",
+        "Super Retina XDR display",
+        "Dynamic Island",
+        "Aluminum frame",
+        "Action button",
+        "Camera Control for faster access to photo and video tools",
+        "Ceramic Shield front",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A18 chip",
+        "6-core CPU",
+        "5-core GPU",
+        "16-core Neural Engine",
+        "Hardware-accelerated ray tracing",
+        "Up to 22 hours video playback",
+        "12MP TrueDepth camera",
+        "Tap to zoom",
+        "Advanced dual-camera system 48MP Fusion Main 12MP Ultra Wide",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Photographic Styles 2",
+        "Dolby Vision up to 4K at 60 fps",
+        "Next-generation portraits with Focus and Depth Control",
+        "Macro photography",
+        "zoom, 0.5x, 1x, 2x",
+        "Optical zoom options",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 2",
+        "MagSafe wireless charging up to 22W with 30W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "iPhone 16 Plus",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Ultramarine",
+          "hex": "#9aadf6",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_plus_ultramarine__fedlzqf2pmqi_large_2x.jpg",
+          "imageKey": "iphone-16-plus-ultramarine"
+        },
+        {
+          "name": "Teal",
+          "hex": "#b0d4d2",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_plus_teal__fd5m157o5h6y_large_2x.jpg",
+          "imageKey": "iphone-16-plus-teal"
+        },
+        {
+          "name": "Pink",
+          "hex": "#f2adda",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_plus_pink__egpda1o8qu82_large_2x.jpg",
+          "imageKey": "iphone-16-plus-pink"
+        },
+        {
+          "name": "White",
+          "hex": "#fafafa",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_plus_white__rqden70u9uqi_large_2x.jpg",
+          "imageKey": "iphone-16-plus-white"
+        },
+        {
+          "name": "Black",
+          "hex": "#3c4042",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16_plus_black__fzb15ieuikey_large_2x.jpg",
+          "imageKey": "iphone-16-plus-black"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "6.7″",
+        "Super Retina XDR display",
+        "Dynamic Island",
+        "Aluminum frame",
+        "Action button",
+        "Camera Control for faster access to photo and video tools",
+        "Ceramic Shield front",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A18 chip",
+        "6-core CPU",
+        "5-core GPU",
+        "16-core Neural Engine",
+        "Hardware-accelerated ray tracing",
+        "Up to 27 hours video playback",
+        "12MP TrueDepth camera",
+        "Tap to zoom",
+        "Advanced dual-camera system 48MP Fusion Main 12MP Ultra Wide",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Photographic Styles 2",
+        "Dolby Vision up to 4K at 60 fps",
+        "Next-generation portraits with Focus and Depth Control",
+        "Macro photography",
+        "zoom, 0.5x, 1x, 2x",
+        "Optical zoom options",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 2",
+        "MagSafe wireless charging up to 25W with 30W adapter or higher<",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "iPhone 16e",
+      "hero": null,
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#fafafa",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16e_white__qfwztyphaj2u_large_2x.jpg",
+          "imageKey": "iphone-16e-white"
+        },
+        {
+          "name": "Black",
+          "hex": "#3c4042",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone16e_black__folwa2rvc3ma_large_2x.jpg",
+          "imageKey": "iphone-16e-black"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "6.1″",
+        "Super Retina XDR display",
+        "Aluminum frame",
+        "Action button",
+        "Ceramic Shield front",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A18 chip",
+        "6-core CPU",
+        "4-core GPU",
+        "16-core Neural Engine",
+        "Hardware-accelerated ray tracing",
+        "Up to 26 hours video playback",
+        "12MP TrueDepth camera",
+        "Tap to zoom",
+        "2-in-1 camera system 48MP Fusion Main",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Photographic Styles",
+        "Dolby Vision up to 4K at 60 fps",
+        "Portrait mode with Depth Control",
+        "zoom, 1x, 2x",
+        "Optical zoom options",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 2",
+        "Qi wireless charging up to 7.5W"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "iPhone 15 Pro",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Natural Titanium",
+          "hex": "#837f7d",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_pro_natural_titanium__scqfo7q20n2i_large_2x.jpg",
+          "imageKey": "iphone-15-pro-naturaltitanium"
+        },
+        {
+          "name": "Blue Titanium",
+          "hex": "#2f4452",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_pro_blue_titanium__bima7n6vpb0i_large_2x.jpg",
+          "imageKey": "iphone-15-pro-bluetitanium"
+        },
+        {
+          "name": "White Titanium",
+          "hex": "#dddddd",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_pro_white_titanium__gnb53137x2um_large_2x.jpg",
+          "imageKey": "iphone-15-pro-whitetitanium"
+        },
+        {
+          "name": "Black Titanium",
+          "hex": "#1b1b1b",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_pro_black_titanium__etz96gq8ruoi_large_2x.jpg",
+          "imageKey": "iphone-15-pro-blacktitanium"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "6.1″",
+        "Super Retina XDR display",
+        "ProMotion technology",
+        "Always-On display",
+        "Dynamic Island",
+        "Titanium frame",
+        "Action button",
+        "Ceramic Shield front",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A17 Pro chip",
+        "6-core CPU",
+        "6-core GPU",
+        "16-core Neural Engine",
+        "Hardware-accelerated ray tracing",
+        "Up to 23 hours video playback",
+        "12MP TrueDepth camera",
+        "Tap to zoom",
+        "Pro camera system 48MP Main Ultra Wide Telephoto",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Photographic Styles",
+        "Dolby Vision up to 4K at 60 fps",
+        "Next-generation portraits with Focus and Depth Control",
+        "Macro photography",
+        "zoom, 0.5x, 1x, 2x, 3x",
+        "Optical zoom options",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 3 for up to 20x faster transfers",
+        "MagSafe wireless charging up to 15W with 20W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "iPhone 15 Pro Max",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Natural Titanium",
+          "hex": "#837f7d",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_pro_max_natural_titanium__byvhspupwiuq_large_2x.jpg",
+          "imageKey": "iphone-15-pro-max-naturaltitanium"
+        },
+        {
+          "name": "Blue Titanium",
+          "hex": "#2f4452",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_pro_max_blue_titanium__c8xeminnbm82_large_2x.jpg",
+          "imageKey": "iphone-15-pro-max-bluetitanium"
+        },
+        {
+          "name": "White Titanium",
+          "hex": "#dddddd",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_pro_max_white_titanium__citdiqo2e0gi_large_2x.jpg",
+          "imageKey": "iphone-15-pro-max-whitetitanium"
+        },
+        {
+          "name": "Black Titanium",
+          "hex": "#1b1b1b",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_pro_max_black_titanium__djidfm1dcmie_large_2x.jpg",
+          "imageKey": "iphone-15-pro-max-blacktitanium"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "6.7″",
+        "Super Retina XDR display",
+        "ProMotion technology",
+        "Always-On display",
+        "Dynamic Island",
+        "Titanium frame",
+        "Action button",
+        "Ceramic Shield front",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A17 Pro chip",
+        "6-core CPU",
+        "6-core GPU",
+        "16-core Neural Engine",
+        "Hardware-accelerated ray tracing",
+        "Up to 29 hours video playback",
+        "12MP TrueDepth camera",
+        "Tap to zoom",
+        "Pro camera system 48MP Main Ultra Wide Telephoto",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Photographic Styles",
+        "Dolby Vision up to 4K at 60 fps",
+        "Next-generation portraits with Focus and Depth Control",
+        "Macro photography",
+        "zoom, 0.5x, 1x, 2x, 5x",
+        "Optical zoom options",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 3 for up to 20x faster transfers",
+        "MagSafe wireless charging up to 15W with 20W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "iPhone 15",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Pink",
+          "hex": "#E3C8CA",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_pink__d2gop48s2aye_large_2x.jpg",
+          "imageKey": "iphone-15-pink"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#E6E0C1",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_yellow__bqka09cyvqia_large_2x.jpg",
+          "imageKey": "iphone-15-yellow"
+        },
+        {
+          "name": "Green",
+          "hex": "#CAD4C5",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_green__f6r83449uoyi_large_2x.jpg",
+          "imageKey": "iphone-15-green"
+        },
+        {
+          "name": "Blue",
+          "hex": "#CED5D9",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_blue__cq4qefddyl8i_large_2x.jpg",
+          "imageKey": "iphone-15-blue"
+        },
+        {
+          "name": "Black",
+          "hex": "#35393B",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_black__eer8kwdkdjyq_large_2x.jpg",
+          "imageKey": "iphone-15-black"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "6.1″",
+        "Super Retina XDR display",
+        "Dynamic Island",
+        "Aluminum frame",
+        "Ring/Silent switch",
+        "Ceramic Shield front",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A16 Bionic chip",
+        "6-core CPU",
+        "5-core GPU",
+        "16-core Neural Engine",
+        "Up to 20 hours video playback",
+        "12MP TrueDepth camera",
+        "Tap to zoom",
+        "Dual-camera system 48MP Main Ultra Wide",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Photographic Styles",
+        "Dolby Vision up to 4K at 60 fps",
+        "Next-generation portraits with Focus and Depth Control",
+        "zoom, 0.5x, 1x, 2x",
+        "Optical zoom options",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 2",
+        "MagSafe wireless charging up to 15W with 20W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "iPhone 15 Plus",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Pink",
+          "hex": "#E3C8CA",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_plus_pink__fai0b9il6cq6_large_2x.jpg",
+          "imageKey": "iphone-15-plus-pink"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#E6E0C1",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_plus_yellow__bqpclyoi3muu_large_2x.jpg",
+          "imageKey": "iphone-15-plus-yellow"
+        },
+        {
+          "name": "Green",
+          "hex": "#CAD4C5",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_plus_green__c2dkb4wvkgae_large_2x.jpg",
+          "imageKey": "iphone-15-plus-green"
+        },
+        {
+          "name": "Blue",
+          "hex": "#CED5D9",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_plus_blue__9fcof0t4lk2i_large_2x.jpg",
+          "imageKey": "iphone-15-plus-blue"
+        },
+        {
+          "name": "Black",
+          "hex": "#35393B",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone15_plus_black__chh9za6pd2vm_large_2x.jpg",
+          "imageKey": "iphone-15-plus-black"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "6.7″",
+        "Super Retina XDR display",
+        "Dynamic Island",
+        "Aluminum frame",
+        "Ring/Silent switch",
+        "Ceramic Shield front",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A16 Bionic chip",
+        "6-core CPU",
+        "5-core GPU",
+        "16-core Neural Engine",
+        "Up to 26 hours video playback",
+        "12MP TrueDepth camera",
+        "Tap to zoom",
+        "Dual-camera system 48MP Main Ultra Wide",
+        "Super-high-resolution photos (24MP and 48MP)",
+        "Photographic Styles",
+        "Dolby Vision up to 4K at 60 fps",
+        "Next-generation portraits with Focus and Depth Control",
+        "zoom, 0.5x, 1x, 2x",
+        "Optical zoom options",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "USB-C Supports USB 2",
+        "MagSafe wireless charging up to 15W with 20W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "iPhone 14 Pro",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Deep Purple",
+          "hex": "#594f63",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone14_pro_deep_purple__p5fjz0npooiq_large_2x.jpg",
+          "imageKey": "iphone-14-pro-deeppurple"
+        },
+        {
+          "name": "Gold",
+          "hex": "#f4e8ce",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone14_pro_gold__cqyq3tm1zuxe_large_2x.jpg",
+          "imageKey": "iphone-14-pro-gold"
+        },
+        {
+          "name": "Silver",
+          "hex": "#f0f2f2",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone14_pro_silver__knexgp9cr5m6_large_2x.jpg",
+          "imageKey": "iphone-14-pro-silver"
+        },
+        {
+          "name": "Space Black",
+          "hex": "#403e3d",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone14_pro_space_black__dym2kqku7n6u_large_2x.jpg",
+          "imageKey": "iphone-14-pro-spaceblack"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "6.1″",
+        "Super Retina XDR display",
+        "ProMotion technology",
+        "Always-On display",
+        "Dynamic Island",
+        "Stainless steel frame",
+        "Ring/Silent switch",
+        "Ceramic Shield front",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A16 Bionic chip",
+        "6-core CPU",
+        "5-core GPU",
+        "16-core Neural Engine",
+        "Up to 23 hours video playback",
+        "12MP TrueDepth camera",
+        "Tap to zoom",
+        "Pro camera system 48MP Main Ultra Wide Telephoto",
+        "Super-high-resolution photos (48MP)",
+        "Photographic Styles",
+        "Dolby Vision up to 4K at 60 fps",
+        "Portrait mode with Focus and Depth Control",
+        "Macro photography",
+        "zoom, 0.5x, 1x, 2x, 3x",
+        "Optical zoom options",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "Lightning Supports USB 2",
+        "MagSafe wireless charging up to 15W with 20W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "iPhone 14 Pro Max",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Deep Purple",
+          "hex": "#594f63",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone14_pro_max_deep_purple__r2k8f3zaymi6_large_2x.jpg",
+          "imageKey": "iphone-14-pro-max-deeppurple"
+        },
+        {
+          "name": "Gold",
+          "hex": "#f4e8ce",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone14_pro_max_gold__ssb2j2q92mi6_large_2x.jpg",
+          "imageKey": "iphone-14-pro-max-gold"
+        },
+        {
+          "name": "Silver",
+          "hex": "#f0f2f2",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone14_pro_max_silver__esuba240yvqu_large_2x.jpg",
+          "imageKey": "iphone-14-pro-max-silver"
+        },
+        {
+          "name": "Space Black",
+          "hex": "#403e3d",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone14_pro_max_space_black__dve23pjslceq_large_2x.jpg",
+          "imageKey": "iphone-14-pro-max-spaceblack"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "6.7″",
+        "Super Retina XDR display",
+        "ProMotion technology",
+        "Always-On display",
+        "Dynamic Island",
+        "Stainless steel frame",
+        "Ring/Silent switch",
+        "Ceramic Shield front",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A16 Bionic chip",
+        "6-core CPU",
+        "5-core GPU",
+        "16-core Neural Engine",
+        "Up to 29 hours video playback",
+        "12MP TrueDepth camera",
+        "Tap to zoom",
+        "Pro camera system 48MP Main Ultra Wide Telephoto",
+        "Super-high-resolution photos (48MP)",
+        "Photographic Styles",
+        "Dolby Vision up to 4K at 60 fps",
+        "Portrait mode with Focus and Depth Control",
+        "Macro photography",
+        "zoom, 0.5x, 1x, 2x, 3x",
+        "Optical zoom options",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "Lightning Supports USB 2",
+        "MagSafe wireless charging up to 15W with 20W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "iPhone 14",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Blue",
+          "hex": "#a0b4c7",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone14_blue__c9pjeddi2qye_large_2x.jpg",
+          "imageKey": "iphone-14-blue"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e6ddeb",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone14_purple__cjajxy1iclg2_large_2x.jpg",
+          "imageKey": "iphone-14-purple"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#f9e479",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone14_yellow__fvyq7k2nn4ya_large_2x.jpg",
+          "imageKey": "iphone-14-yellow"
+        },
+        {
+          "name": "Midnight",
+          "hex": "#222930",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone14_midnight__bvwj36frtody_large_2x.jpg",
+          "imageKey": "iphone-14-midnight"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#faf6f2",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone14_starlight__f6rbukewn0mu_large_2x.jpg",
+          "imageKey": "iphone-14-starlight"
+        },
+        {
+          "name": "Product Red",
+          "hex": "#fc0324",
+          "image": "https://www.apple.com/v/iphone/compare/am/images/overview/compare_iphone14_red__bu1vzrxdbf7m_large_2x.jpg",
+          "imageKey": "iphone-14-red"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "6.1″",
+        "Super Retina XDR display",
+        "Aluminum frame",
+        "Ring/Silent switch",
+        "Ceramic Shield front",
+        "Water resistant to a depth of 6 meters for up to 30 minutes",
+        "A15 Bionic chip",
+        "6-core CPU",
+        "5-core GPU",
+        "16-core Neural Engine",
+        "Up to 20 hours video playback",
+        "12MP TrueDepth camera",
+        "Tap to zoom",
+        "Dual-camera system 12MP Main Ultra Wide",
+        "Photographic Styles",
+        "Dolby Vision up to 4K at 60 fps",
+        "Portrait mode with Focus and Depth Control",
+        "zoom, 0.5x, 1x",
+        "Optical zoom options",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "Roadside Assistance via satellite",
+        "Messages via satellite",
+        "Lightning Supports USB 2",
+        "MagSafe wireless charging up to 15W with 20W adapter or higher",
+        "Compatible with MagSafe cases, wallets, wireless chargers, and more"
+      ]
+    }
+  ],
+  "ipad": [
+    {
+      "index": 0,
+      "name": "iPad Pro 13-in. (M5)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_pro_13_m5_spaceblack__eim4xjmegeuu_large_2x.jpg",
+          "imageKey": "ipad-pro-13-m5-spaceblack"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_pro_13_m5_silver__dyubev4o3s8y_large_2x.jpg",
+          "imageKey": "ipad-pro-13-m5-silver"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "13″",
+        "Ultra Retina XDR display",
+        "ProMotion technology",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "Nano-texture display glass option on 1TB and 2TB models",
+        "M5 chip",
+        "Up to 10-core CPU",
+        "10-core GPU",
+        "16-core Neural Engine",
+        "Apple Intelligence",
+        "Siri AI",
+        "12MP Wide camera",
+        "4K video, ProRes",
+        "Landscape 12MP Center Stage camera",
+        "Center Stage",
+        "TrueDepth camera system",
+        "USB‑C connector with support for Thunderbolt / USB 4",
+        "Face ID",
+        "Four speaker audio",
+        "Four studio-quality microphones",
+        "Wi-Fi 7",
+        "5G cellular",
+        "Supports Apple Pencil Pro",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Magic Keyboard for iPad Pro"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "iPad Pro 11‑in. (M5)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_pro_11_m4_spaceblack__eoez1rzzqmye_large_2x.jpg",
+          "imageKey": "ipad-pro-11-m5-spaceblack"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_pro_11_m4_silver__eowi3mx395qq_large_2x.jpg",
+          "imageKey": "ipad-pro-11-m5-silver"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "11″",
+        "Ultra Retina XDR display",
+        "ProMotion technology",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "Nano-texture display glass option on 1TB and 2TB models",
+        "M5 chip",
+        "Up to 10-core CPU",
+        "10-core GPU",
+        "16-core Neural Engine",
+        "Apple Intelligence",
+        "Siri AI",
+        "12MP Wide camera",
+        "4K video, ProRes",
+        "Landscape 12MP Center Stage camera",
+        "Center Stage",
+        "TrueDepth camera system",
+        "USB‑C connector with support for Thunderbolt / USB 4",
+        "Face ID",
+        "Four speaker audio",
+        "Four studio-quality microphones",
+        "Wi-Fi 7",
+        "5G cellular",
+        "Supports Apple Pencil Pro",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Magic Keyboard for iPad Pro"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "iPad Air 13-in. (M4)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_13_m4_spacegray__cfa9j5sb9amq_large_2x.jpg",
+          "imageKey": "ipad-air-13-m4-spacegray"
+        },
+        {
+          "name": "Blue",
+          "hex": "#d7e5e6",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_13_m4_blue__dvsjwapfvuc2_large_2x.jpg",
+          "imageKey": "ipad-air-13-m4-blue"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e3dee9",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_13_m4_purple__er7s81uf4s6e_large_2x.jpg",
+          "imageKey": "ipad-air-13-m4-purple"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_13_m4_starlight__eqw67ji419w2_large_2x.jpg",
+          "imageKey": "ipad-air-13-m4-starlight"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "13″",
+        "Liquid Retina display",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "M4 chip",
+        "8-core CPU",
+        "9-core GPU",
+        "16-core Neural Engine",
+        "Apple Intelligence",
+        "Siri AI",
+        "12MP Wide camera",
+        "4K video",
+        "Landscape 12MP Center Stage camera",
+        "Center Stage",
+        "USB‑C connector",
+        "Touch ID in top button",
+        "Landscape stereo speakers",
+        "Two microphones",
+        "Wi-Fi 7",
+        "5G cellular",
+        "Supports Apple Pencil Pro",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Magic Keyboard for iPad Air"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "iPad Air 11‑in. (M4)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_11_m4_spacegray__foa0ijnqpi2y_large_2x.jpg",
+          "imageKey": "ipad-air-11-m4-spacegray"
+        },
+        {
+          "name": "Blue",
+          "hex": "#d7e5e6",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_11_m4_blue__exgp5c6s4zgy_large_2x.jpg",
+          "imageKey": "ipad-air-11-m4-blue"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e3dee9",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_11_m4_purple__dc5imizwemwm_large_2x.jpg",
+          "imageKey": "ipad-air-11-m4-purple"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_11_m4_starlight__ckjmo75jgej6_large_2x.jpg",
+          "imageKey": "ipad-air-11-m4-starlight"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "11″",
+        "Liquid Retina display",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "M4 chip",
+        "8-core CPU",
+        "9-core GPU",
+        "16-core Neural Engine",
+        "Apple Intelligence",
+        "Siri AI",
+        "12MP Wide camera",
+        "4K video",
+        "Landscape 12MP Center Stage camera",
+        "Center Stage",
+        "USB‑C connector",
+        "Touch ID in top button",
+        "Landscape stereo speakers",
+        "Two microphones",
+        "Wi-Fi 7",
+        "5G cellular",
+        "Supports Apple Pencil Pro",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Magic Keyboard for iPad Air"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "iPad (A16)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Blue",
+          "hex": "#6480a3",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_11th_a16_blue__eyfta89o7eie_large_2x.jpg",
+          "imageKey": "ipad-11th-a16-blue"
+        },
+        {
+          "name": "Pink",
+          "hex": "#de6274",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_11th_a16_pink__fz6ag0ueptme_large_2x.jpg",
+          "imageKey": "ipad-11th-a16-pink"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#f0d95b",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_11th_a16_yellow__ef6aso27omye_large_2x.jpg",
+          "imageKey": "ipad-11th-a16-yellow"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_11th_a16_silver__cby9d710dnhy_large_2x.jpg",
+          "imageKey": "ipad-11th-a16-silver"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "11″",
+        "Liquid Retina display",
+        "sRGB color",
+        "True Tone",
+        "A16 chip",
+        "5-core CPU",
+        "4-core GPU",
+        "16-core Neural Engine",
+        "12MP Wide camera",
+        "4K video",
+        "Landscape 12MP Center Stage camera",
+        "Center Stage",
+        "USB‑C connector",
+        "Touch ID in top button",
+        "Landscape stereo speakers",
+        "Two microphones",
+        "Wi-Fi 6",
+        "5G cellular",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Apple Pencil (1st generation)",
+        "Supports Magic Keyboard Folio"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "iPad mini (A17 Pro)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_mini_a17pro_space_gray__fuoqzhobakmm_large_2x.jpg",
+          "imageKey": "ipad-mini-a17pro-spacegray"
+        },
+        {
+          "name": "Blue",
+          "hex": "#d7e5e6",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_mini_a17pro_blue__dts9gmhjopqq_large_2x.jpg",
+          "imageKey": "ipad-mini-a17pro-blue"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e3dee9",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_mini_a17pro_purple__fmynaicxwpiu_large_2x.jpg",
+          "imageKey": "ipad-mini-a17pro-purple"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_mini_a17pro_starlight__d4ys99orc88y_large_2x.jpg",
+          "imageKey": "ipad-mini-a17pro-starlight"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "8.3″",
+        "Liquid Retina display",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "A17 Pro chip",
+        "6-core CPU",
+        "5-core GPU",
+        "16-core Neural Engine",
+        "Apple Intelligence",
+        "Siri AI",
+        "12MP Wide camera",
+        "4K video",
+        "12MP Center Stage camera",
+        "Center Stage",
+        "USB‑C connector",
+        "Touch ID in top button",
+        "Landscape stereo speakers",
+        "Two microphones",
+        "Wi-Fi 6E",
+        "5G cellular",
+        "Supports Apple Pencil Pro",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Bluetooth keyboards"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "iPad Pro 13‑in. (M4)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_pro_13_m4_spaceblack__bq18ddlcrtaq_large_2x.jpg",
+          "imageKey": "ipad-pro-13-m4-spaceblack"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_pro_13_m4_silver__f6alcd7cbhe2_large_2x.jpg",
+          "imageKey": "ipad-pro-13-m4-silver"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "13″",
+        "Ultra Retina XDR display",
+        "ProMotion technology",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "Nano-texture display glass option on 1TB and 2TB models",
+        "M4 chip",
+        "Up to 10-core CPU",
+        "10-core GPU",
+        "16-core Neural Engine",
+        "Apple Intelligence",
+        "Siri AI",
+        "12MP Wide camera",
+        "4K video, ProRes",
+        "Landscape 12MP Center Stage camera",
+        "Center Stage",
+        "TrueDepth camera system",
+        "USB‑C connector with support for Thunderbolt / USB 4",
+        "Face ID",
+        "Four speaker audio",
+        "Four studio-quality microphones",
+        "Wi-Fi 6E",
+        "5G cellular",
+        "Supports Apple Pencil Pro",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Magic Keyboard for iPad Pro"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "iPad Pro 11‑in. (M4)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_pro_11_m4_spaceblack__eoez1rzzqmye_large_2x.jpg",
+          "imageKey": "ipad-pro-11-m4-spaceblack"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_pro_11_m4_silver__eowi3mx395qq_large_2x.jpg",
+          "imageKey": "ipad-pro-11-m4-silver"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "11″",
+        "Ultra Retina XDR display",
+        "ProMotion technology",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "Nano-texture display glass option on 1TB and 2TB models",
+        "M4 chip",
+        "Up to 10-core CPU",
+        "10-core GPU",
+        "16-core Neural Engine",
+        "Apple Intelligence",
+        "Siri AI",
+        "12MP Wide camera",
+        "4K video, ProRes",
+        "Landscape 12MP Center Stage camera",
+        "Center Stage",
+        "TrueDepth camera system",
+        "USB‑C connector with support for Thunderbolt / USB 4",
+        "Face ID",
+        "Four speaker audio",
+        "Four studio-quality microphones",
+        "Wi-Fi 6E",
+        "5G cellular",
+        "Supports Apple Pencil Pro",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Magic Keyboard for iPad Pro"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "iPad Air 13‑in. (M3)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_13_m3_spacegray__fu35tug8txua_large_2x.jpg",
+          "imageKey": "ipad-air-13-m3-spacegray"
+        },
+        {
+          "name": "Blue",
+          "hex": "#d7e5e6",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_13_m3_blue__gahhpn9r2pea_large_2x.jpg",
+          "imageKey": "ipad-air-13-m3-blue"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e3dee9",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_13_m3_purple__d86auskkzl4y_large_2x.jpg",
+          "imageKey": "ipad-air-13-m3-purple"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_13_m3_starlight__bs14uq1fwa4i_large_2x.jpg",
+          "imageKey": "ipad-air-13-m3-starlight"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "13″",
+        "Liquid Retina display",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "M3 chip",
+        "8-core CPU",
+        "9-core GPU",
+        "16-core Neural Engine",
+        "Apple Intelligence",
+        "Siri AI",
+        "12MP Wide camera",
+        "4K video",
+        "Landscape 12MP Center Stage camera",
+        "Center Stage",
+        "USB‑C connector",
+        "Touch ID in top button",
+        "Landscape stereo speakers",
+        "Two microphones",
+        "Wi-Fi 6E",
+        "5G cellular",
+        "Supports Apple Pencil Pro",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Magic Keyboard for iPad Air"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "iPad Air 11‑in. (M3)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_11_m3_spacegray__btc86zw1glbm_large_2x.jpg",
+          "imageKey": "ipad-air-11-m3-spacegray"
+        },
+        {
+          "name": "Blue",
+          "hex": "#d7e5e6",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_11_m3_blue__gbre4u4if6em_large_2x.jpg",
+          "imageKey": "ipad-air-11-m3-blue"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e3dee9",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_11_m3_purple__b6zq5qcxu9ci_large_2x.jpg",
+          "imageKey": "ipad-air-11-m3-purple"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_11_m3_starlight__dn8rod7w6cia_large_2x.jpg",
+          "imageKey": "ipad-air-11-m3-starlight"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "11″",
+        "Liquid Retina display",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "M3 chip",
+        "8-core CPU",
+        "9-core GPU",
+        "16-core Neural Engine",
+        "Apple Intelligence",
+        "Siri AI",
+        "12MP Wide camera",
+        "4K video",
+        "Landscape 12MP Center Stage camera",
+        "Center Stage",
+        "USB‑C connector",
+        "Touch ID in top button",
+        "Landscape stereo speakers",
+        "Two microphones",
+        "Wi-Fi 6E",
+        "5G cellular",
+        "Supports Apple Pencil Pro",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Magic Keyboard for iPad Air"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "iPad Air 13‑in. (M2)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_13_m2_spacegray__gcc85aj02pme_large_2x.jpg",
+          "imageKey": "ipad-air-13-m2-spacegray"
+        },
+        {
+          "name": "Blue",
+          "hex": "#d7e5e6",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_13_m2_blue__da7jlku5oe2q_large_2x.jpg",
+          "imageKey": "ipad-air-13-m2-blue"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e3dee9",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_13_m2_purple__o6um0g2o5eie_large_2x.jpg",
+          "imageKey": "ipad-air-13-m2-purple"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_13_m2_starlight__e7goijeag3wy_large_2x.jpg",
+          "imageKey": "ipad-air-13-m2-starlight"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "13″",
+        "Liquid Retina display",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "M2 chip",
+        "8-core CPU",
+        "9-core GPU",
+        "16-core Neural Engine",
+        "Apple Intelligence",
+        "Siri AI",
+        "12MP Wide camera",
+        "4K video",
+        "Landscape 12MP Center Stage camera",
+        "Center Stage",
+        "USB‑C connector",
+        "Touch ID in top button",
+        "Landscape stereo speakers",
+        "Two microphones",
+        "Wi-Fi 6E",
+        "5G cellular",
+        "Supports Apple Pencil Pro",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Magic Keyboard for iPad Air"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "iPad Air 11‑in. (M2)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_11_m2_spacegray__fxfqpx3pa8uq_large_2x.jpg",
+          "imageKey": "ipad-air-11-m2-spacegray"
+        },
+        {
+          "name": "Blue",
+          "hex": "#d7e5e6",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_11_m2_blue__ceyxgnf4v9yu_large_2x.jpg",
+          "imageKey": "ipad-air-11-m2-blue"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e3dee9",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_11_m2_purple__c0oyj0a77r8m_large_2x.jpg",
+          "imageKey": "ipad-air-11-m2-purple"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_11_m2_starlight__ckwaepn8ukdy_large_2x.jpg",
+          "imageKey": "ipad-air-11-m2-starlight"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "11″",
+        "Liquid Retina display",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "M2 chip",
+        "8-core CPU",
+        "9-core GPU",
+        "16-core Neural Engine",
+        "Apple Intelligence",
+        "Siri AI",
+        "12MP Wide camera",
+        "4K video",
+        "Landscape 12MP Center Stage camera",
+        "Center Stage",
+        "USB‑C connector",
+        "Touch ID in top button",
+        "Landscape stereo speakers",
+        "Two microphones",
+        "Wi-Fi 6E",
+        "5G cellular",
+        "Supports Apple Pencil Pro",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Magic Keyboard for iPad Air"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "iPad (10th generation)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Blue",
+          "hex": "#6480a3",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_10th_gen_blue__c37qgd892qie_large_2x.jpg",
+          "imageKey": "ipad-10th-gen-blue"
+        },
+        {
+          "name": "Pink",
+          "hex": "#de6274",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_10th_gen_pink__dz5vb33pwf42_large_2x.jpg",
+          "imageKey": "ipad-10th-gen-pink"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#f0d95b",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_10th_gen_yellow__cz7aie2nj1km_large_2x.jpg",
+          "imageKey": "ipad-10th-gen-yellow"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_10th_gen_silver__bcltqap7fxw2_large_2x.jpg",
+          "imageKey": "ipad-10th-gen-silver"
+        }
+      ],
+      "storages": [
+        "64GB",
+        "256GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "10.9″",
+        "Liquid Retina display",
+        "sRGB color",
+        "True Tone",
+        "A14 Bionic chip",
+        "6-core CPU",
+        "4-core GPU",
+        "16-core Neural Engine",
+        "12MP Wide camera",
+        "4K video",
+        "Landscape 12MP Center Stage camera",
+        "Center Stage",
+        "USB‑C connector",
+        "Touch ID in top button",
+        "Landscape stereo speakers",
+        "Two microphones",
+        "Wi-Fi 6",
+        "5G cellular",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Apple Pencil (1st generation)",
+        "Supports Magic Keyboard Folio"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "iPad Pro 12.9‑in. (6th generation)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#b1b2b7",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_pro_12_9_6th_gen_spacegray__er50uf4o1smu_large_2x.jpg",
+          "imageKey": "ipad-pro-12-9-6th-gen-spacegray"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_pro_12_9_6th_gen_silver__b6tr6m3qil6q_large_2x.jpg",
+          "imageKey": "ipad-pro-12-9-6th-gen-silver"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "12.9″",
+        "Liquid Retina XDR display",
+        "ProMotion technology",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "M2 chip",
+        "8-core CPU",
+        "10-core GPU",
+        "16-core Neural Engine",
+        "Apple Intelligence",
+        "Siri AI",
+        "12MP Wide camera",
+        "10MP Ultra Wide camera",
+        "4K video, ProRes",
+        "12MP Ultra Wide front camera",
+        "Center Stage",
+        "TrueDepth camera system",
+        "USB‑C connector with support for Thunderbolt / USB 4",
+        "Face ID",
+        "Four speaker audio",
+        "Five studio-quality microphones",
+        "Wi-Fi 6E",
+        "5G cellular",
+        "Supports Apple Pencil (2nd generation)",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Magic Keyboard",
+        "Supports Smart Keyboard Folio"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "iPad Pro 11‑in. (4th generation)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_pro_11_4th_gen_spacegray__fhanffq09pim_large_2x.jpg",
+          "imageKey": "ipad-pro-11-4th-gen-spacegray"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_pro_11_4th_gen_silver__bn1972i7xsdy_large_2x.jpg",
+          "imageKey": "ipad-pro-11-4th-gen-silver"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "11″",
+        "Liquid Retina display",
+        "ProMotion technology",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "M2 chip",
+        "8-core CPU",
+        "10-core GPU",
+        "16-core Neural Engine",
+        "Apple Intelligence",
+        "Siri AI",
+        "12MP Wide camera",
+        "10MP Ultra Wide camera",
+        "4K video, ProRes",
+        "12MP Ultra Wide front camera",
+        "Center Stage",
+        "TrueDepth camera system",
+        "USB‑C connector with support for Thunderbolt / USB 4",
+        "Face ID",
+        "Four speaker audio",
+        "Five studio-quality microphones",
+        "Wi-Fi 6E",
+        "5G cellular",
+        "Supports Apple Pencil (2nd generation)",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Magic Keyboard",
+        "Supports Smart Keyboard Folio"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "iPad mini (6th generation)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#b1b2b7",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_mini_6th_gen_space_gray__drlr5sd842s2_large_2x.jpg",
+          "imageKey": "ipad-mini-6th-gen-spacegray"
+        },
+        {
+          "name": "Pink",
+          "hex": "#e8d1cf",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_mini_6th_gen_pink__c5v2tacnu66a_large_2x.jpg",
+          "imageKey": "ipad-mini-6th-gen-pink"
+        },
+        {
+          "name": "Purple",
+          "hex": "#b9b8d1",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_mini_6th_gen_purple__u4m429tz2iaq_large_2x.jpg",
+          "imageKey": "ipad-mini-6th-gen-purple"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_mini_6th_gen_starlight__c6vtr8m12k8y_large_2x.jpg",
+          "imageKey": "ipad-mini-6th-gen-starlight"
+        }
+      ],
+      "storages": [
+        "64GB",
+        "256GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "8.3″",
+        "Liquid Retina display",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "A15 Bionic chip",
+        "6-core CPU",
+        "5-core GPU",
+        "16-core Neural Engine",
+        "12MP Wide camera",
+        "4K video",
+        "12MP Ultra Wide front camera",
+        "Center Stage",
+        "USB‑C connector",
+        "Touch ID in top button",
+        "Landscape stereo speakers",
+        "Two microphones",
+        "Wi-Fi 6",
+        "5G cellular",
+        "Supports Apple Pencil (2nd generation)",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Bluetooth keyboards"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "iPad Air (5th generation)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#b1b2b7",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_5th_gen_spacegray__7p68ktzxkwyi_large_2x.jpg",
+          "imageKey": "ipad-air-5th-gen-spacegray"
+        },
+        {
+          "name": "Blue",
+          "hex": "#88aebf",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_5th_gen_blue__bmwunk0isghe_large_2x.jpg",
+          "imageKey": "ipad-air-5th-gen-blue"
+        },
+        {
+          "name": "Pink",
+          "hex": "#e8d2cf",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_5th_gen_pink__d86xr05oa6mq_large_2x.jpg",
+          "imageKey": "ipad-air-5th-gen-pink"
+        },
+        {
+          "name": "Purple",
+          "hex": "#b9b8d1",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_5th_gen_purple__r3p809f7jgay_large_2x.jpg",
+          "imageKey": "ipad-air-5th-gen-purple"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e5e0d8",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_air_5th_gen_starlight__cl6foy5801jm_large_2x.jpg",
+          "imageKey": "ipad-air-5th-gen-starlight"
+        }
+      ],
+      "storages": [
+        "64GB",
+        "256GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "10.9″",
+        "Liquid Retina display",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "M1 chip",
+        "8-core CPU",
+        "8-core GPU",
+        "16-core Neural Engine",
+        "Apple Intelligence",
+        "Siri AI",
+        "12MP Wide camera",
+        "4K video",
+        "12MP Ultra Wide front camera",
+        "Center Stage",
+        "USB‑C connector",
+        "Touch ID in top button",
+        "Landscape stereo speakers",
+        "Two microphones",
+        "Wi-Fi 6",
+        "5G cellular",
+        "Supports Apple Pencil (2nd generation)",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Magic Keyboard for iPad Air",
+        "Supports Smart Keyboard Folio"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "iPad (9th generation)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696e",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_9th_gen_space_gray__e1ncy4snl6qa_large_2x.jpg",
+          "imageKey": "ipad-9th-gen-spacegray"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_9th_gen_silver__eo5exz90loae_large_2x.jpg",
+          "imageKey": "ipad-9th-gen-silver"
+        }
+      ],
+      "storages": [
+        "64GB",
+        "256GB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "10.2″",
+        "Retina display",
+        "sRGB color",
+        "True Tone",
+        "A13 Bionic chip",
+        "6-core CPU",
+        "4-core GPU",
+        "8-core Neural Engine",
+        "8MP Wide camera",
+        "1080p video",
+        "12MP Ultra Wide front camera",
+        "Center Stage",
+        "Lightning connector",
+        "Touch ID in Home button",
+        "Stereo speakers",
+        "Two microphones",
+        "Wi-Fi 802.11ac",
+        "4G LTE cellular",
+        "Supports Apple Pencil (1st generation)",
+        "Supports Smart Keyboard"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "iPad Pro 12.9‑in. (5th generation)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#b1b2b7",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_pro_12_9_5th_gen_spacegray__ds6wgu3af8ae_large_2x.jpg",
+          "imageKey": "ipad-pro-12-9-5th-gen-spacegray"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_pro_12_9_5th_gen_silver__eandh1wqe30i_large_2x.jpg",
+          "imageKey": "ipad-pro-12-9-5th-gen-silver"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "12.9″",
+        "Liquid Retina XDR display",
+        "ProMotion technology",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "M1 chip",
+        "8-core CPU",
+        "8-core GPU",
+        "16-core Neural Engine",
+        "Apple Intelligence",
+        "Siri AI",
+        "12MP Wide camera",
+        "10MP Ultra Wide camera",
+        "4K video",
+        "12MP Ultra Wide front camera",
+        "Center Stage",
+        "TrueDepth camera system",
+        "USB‑C connector with support for Thunderbolt / USB 4",
+        "Face ID",
+        "Four speaker audio",
+        "Five studio-quality microphones",
+        "Wi-Fi 6",
+        "5G cellular",
+        "Supports Apple Pencil (2nd generation)",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Magic Keyboard",
+        "Supports Smart Keyboard Folio"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "iPad Pro 11‑in. (3rd generation)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_pro_11_3rd_gen_spacegray__difyfijzvt8i_large_2x.jpg",
+          "imageKey": "ipad-pro-11-3rd-gen-spacegray"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4",
+          "image": "https://www.apple.com/v/ipad/compare/am/images/overview/ipad_pro_11_3rd_gen_silver__bdqora8nyhw2_large_2x.jpg",
+          "imageKey": "ipad-pro-11-3rd-gen-silver"
+        }
+      ],
+      "storages": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "11″",
+        "Liquid Retina display",
+        "ProMotion technology",
+        "P3 wide color",
+        "True Tone",
+        "Antireflective coating",
+        "M1 chip",
+        "8-core CPU",
+        "8-core GPU",
+        "16-core Neural Engine",
+        "Apple Intelligence",
+        "Siri AI",
+        "12MP Wide camera",
+        "10MP Ultra Wide camera",
+        "4K video",
+        "12MP Ultra Wide front camera",
+        "Center Stage",
+        "TrueDepth camera system",
+        "USB‑C connector with support for Thunderbolt / USB 4",
+        "Face ID",
+        "Four speaker audio",
+        "Five studio-quality microphones",
+        "Wi-Fi 6",
+        "5G cellular",
+        "Supports Apple Pencil (2nd generation)",
+        "Supports Apple Pencil (USB‑C)",
+        "Supports Magic Keyboard",
+        "Supports Smart Keyboard Folio"
+      ]
+    }
+  ],
+  "watch": [
+    {
+      "index": 0,
+      "name": "Apple Watch Series 12",
+      "hero": "https://www.apple.com/v/watch/compare/ai/images/overview/all_models_watch_series_12__frruw7eiuaqi_large_2x.jpg",
+      "colors": [
+        {
+          "name": "Dark Bronze Aluminum",
+          "hex": "#4b372a",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_12_aluminum_dark_bronze__cqx7nbas5n9e_large_2x.jpg",
+          "imageKey": "watch-series-12-aluminum-dark-bronze"
+        },
+        {
+          "name": "Light Gold Aluminum",
+          "hex": "#e3d2ba",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_12_aluminum_light_gold__dmowcelo88eq_large_2x.jpg",
+          "imageKey": "watch-series-12-aluminum-light-gold"
+        },
+        {
+          "name": "Black Aluminum",
+          "hex": "#24211f",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_12_aluminum_black__cs7x4nfsym82_large_2x.jpg",
+          "imageKey": "watch-series-12-aluminum-black"
+        },
+        {
+          "name": "Space Gray Aluminum",
+          "hex": "#727272",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_12_aluminum_space_gray__bjndutv91nv6_large_2x.jpg",
+          "imageKey": "watch-series-12-aluminum-space-gray"
+        },
+        {
+          "name": "Radiant Gold Titanium",
+          "hex": "#f2e1b6",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_12_titanium_radiant_gold__dgw923z4yuaa_large_2x.jpg",
+          "imageKey": "watch-series-12-titanium-radiant-gold"
+        },
+        {
+          "name": "Natural Titanium",
+          "hex": "#e3ddd7",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_12_titanium_natural__eci8n918x0mu_large_2x.jpg",
+          "imageKey": "watch-series-12-titanium-natural"
+        },
+        {
+          "name": "Pearl White Ceramic",
+          "hex": "#f0eae4",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_12_ceramic_pearl_white__ekzr97oigy6a_large_2x.jpg",
+          "imageKey": "watch-series-12-ceramic-pearl-white"
+        },
+        {
+          "name": "Night Blue Ceramic",
+          "hex": "#2a3040",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_12_ceramic_night_blue__hesnde1z82qa_large_2x.jpg",
+          "imageKey": "watch-series-12-ceramic-night-blue"
+        }
+      ],
+      "storages": [
+        "42mm",
+        "46mm"
+      ],
+      "priceToken": null,
+      "specs": [
+        "46mm or 42mm aluminum, titanium, or ceramic case",
+        "Always-On Retina display",
+        "Up to 2000 nits",
+        "Wide-angle OLED",
+        "LTPO3",
+        "Recovery HRV",
+        "High-frequency background heart rate tracking",
+        "Hypertension notifications",
+        "ECG app",
+        "High and low heart rate notifications",
+        "Irregular rhythm notifications",
+        "Low cardio fitness notifications",
+        "Blood Oxygen app",
+        "Sleep tracking",
+        "Sleep apnea notifications",
+        "Sleep score",
+        "Vitals app featuring heart rate, respiratory rate, wrist temperature, sleep duration, and HRV",
+        "Wrist temperature sensing",
+        "Cycle Tracking",
+        "Improved period predictions",
+        "Fertile window estimates",
+        "Retrospective ovulation estimates",
+        "Perimenopause and menopause support",
+        "Apple Intelligence",
+        "Audio Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "International emergency calling",
+        "Fall Detection and Crash Detection",
+        "Water resistant 50m",
+        "Swim, snorkel",
+        "Depth gauge to 6m",
+        "Water temperature sensor",
+        "Precision L1 GPS",
+        "Cellular options",
+        "5G capable",
+        "S11 chip",
+        "Wrist flick gesture",
+        "Single and double tap gestures",
+        "Precision Finding for iPhone",
+        "Up to 24 hours",
+        "Up to 38 hours in Low Power Mode",
+        "Fast-charge capable (0–80% in about 30 minutes; 15 minutes for up to 12 hours)"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "Apple Watch Ultra 4",
+      "hero": "https://www.apple.com/v/watch/compare/ai/images/overview/all_models_watch_ultra_4__6kl5k9cu75e2_large_2x.jpg",
+      "colors": [
+        {
+          "name": "Natural Titanium",
+          "hex": "#e3ddd7",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_ultra_4_titanium_natural__b82idzgac5aq_large_2x.jpg",
+          "imageKey": "watch-ultra-4-titanium-natural"
+        },
+        {
+          "name": "Black Titanium",
+          "hex": "#0f0e0e",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_ultra_4_titanium_black__emsqs9pgi5g2_large_2x.jpg",
+          "imageKey": "watch-ultra-4-titanium-black"
+        }
+      ],
+      "storages": [
+        "49mm"
+      ],
+      "priceToken": null,
+      "specs": [
+        "49mm titanium case",
+        "Always-On Retina display",
+        "Up to 3000 nits",
+        "Wide-angle OLED",
+        "LTPO3",
+        "Recovery HRV",
+        "High-frequency background heart rate tracking",
+        "Hypertension notifications",
+        "ECG app",
+        "High and low heart rate notifications",
+        "Irregular rhythm notifications",
+        "Low cardio fitness notifications",
+        "Blood Oxygen app",
+        "Sleep tracking",
+        "Sleep apnea notifications",
+        "Sleep score",
+        "Vitals app featuring heart rate, respiratory rate, wrist temperature, sleep duration, and HRV",
+        "Wrist temperature sensing",
+        "Cycle Tracking",
+        "Improved period predictions",
+        "Fertile window estimates",
+        "Retrospective ovulation estimates",
+        "Perimenopause and menopause support",
+        "Apple Intelligence",
+        "Audio Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "International emergency calling",
+        "Fall Detection and Crash Detection",
+        "Siren",
+        "Water resistant 100m",
+        "Swim, snorkel, scuba, high-speed water sports",
+        "Depth gauge to 40m",
+        "Water temperature sensor",
+        "Precision dual-frequency GPS",
+        "Cellular and satellite",
+        "5G capable",
+        "S11 chip",
+        "Wrist flick gesture",
+        "Single and double tap gestures",
+        "Precision Finding for iPhone",
+        "Up to 50 hours",
+        "Up to 84 hours in Low Power Mode",
+        "Fast-charge capable (0–80% in about 45 minutes; 15 minutes for up to 18 hours)"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "Apple Watch SE 3",
+      "hero": "https://www.apple.com/v/watch/compare/ai/images/overview/all_models_watch_se_3__fq7k96ijxt6q_large_2x.jpg",
+      "colors": [
+        {
+          "name": "Starlight Aluminum",
+          "hex": "#ded6d1",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_se_3_aluminum_starlight__berhf6s2b1bm_large_2x.jpg",
+          "imageKey": "watch-se-3-aluminum-starlight"
+        },
+        {
+          "name": "Midnight Aluminum",
+          "hex": "#1a2530",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_se_3_aluminum_midnight__cmsklrr1ariq_large_2x.jpg",
+          "imageKey": "watch-se-3-aluminum-midnight"
+        }
+      ],
+      "storages": [
+        "40mm",
+        "44mm"
+      ],
+      "priceToken": null,
+      "specs": [
+        "44mm or 40mm aluminum case",
+        "Always-On Retina display",
+        "Up to 1000 nits",
+        "OLED",
+        "LTPO",
+        "HRV",
+        "Heart rate tracking",
+        "High and low heart rate notifications",
+        "Irregular rhythm notifications",
+        "Low cardio fitness notifications",
+        "Sleep tracking",
+        "Sleep apnea notifications",
+        "Sleep score",
+        "Vitals app featuring heart rate, respiratory rate, wrist temperature, and sleep duration",
+        "Wrist temperature sensing",
+        "Cycle Tracking",
+        "Improved period predictions",
+        "Fertile window estimates",
+        "Retrospective ovulation estimates",
+        "Perimenopause and menopause support",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "International emergency calling",
+        "Fall Detection and Crash Detection",
+        "Water resistant 50m",
+        "Swim",
+        "GPS",
+        "Cellular options",
+        "5G capable",
+        "S10 chip",
+        "Wrist flick gesture",
+        "Single and double tap gestures",
+        "Find iPhone",
+        "Up to 18 hours",
+        "Up to 32 hours in Low Power Mode",
+        "Fast-charge capable (0–80% in about 45 minutes; 15 minutes for up to 8 hours)"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "Apple Watch Series 11",
+      "hero": "https://www.apple.com/v/watch/compare/ai/images/overview/all_models_watch_series_11__dozfocm8kv0i_large_2x.jpg",
+      "colors": [
+        {
+          "name": "Rose Gold Aluminum",
+          "hex": "#eacfc8",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_11_aluminum_rose_gold__teqtd20c3f2q_large_2x.jpg",
+          "imageKey": "watch-series-11-aluminum-rose-gold"
+        },
+        {
+          "name": "Silver Aluminum",
+          "hex": "#e0e0e0",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_11_aluminum_silver__cg9kl6knvy2q_large_2x.jpg",
+          "imageKey": "watch-series-11-aluminum-silver"
+        },
+        {
+          "name": "Space Gray Aluminum",
+          "hex": "#727272",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_11_aluminum_space_gray__e9a6tq118vue_large_2x.jpg",
+          "imageKey": "watch-series-11-aluminum-space-gray"
+        },
+        {
+          "name": "Jet Black Aluminum",
+          "hex": "#010203",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_11_aluminum_jet_black__e6e4ueftosgi_large_2x.jpg",
+          "imageKey": "watch-series-11-aluminum-jet-black"
+        },
+        {
+          "name": "Natural Titanium",
+          "hex": "#e3ddd7",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_11_titanium_natural__bz7e5yloh9qq_large_2x.jpg",
+          "imageKey": "watch-series-11-titanium-natural"
+        },
+        {
+          "name": "Gold Titanium",
+          "hex": "#f4dec8",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_11_titanium_gold__eytpefpwnfsm_large_2x.jpg",
+          "imageKey": "watch-series-11-titanium-gold"
+        },
+        {
+          "name": "Slate Titanium",
+          "hex": "#47423d",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_11_titanium_slate__f2836i54v8yi_large_2x.jpg",
+          "imageKey": "watch-series-11-titanium-slate"
+        }
+      ],
+      "storages": [
+        "42mm",
+        "46mm"
+      ],
+      "priceToken": null,
+      "specs": [
+        "46mm or 42mm aluminum or titanium case",
+        "Always-On Retina display",
+        "Up to 2000 nits",
+        "Wide-angle OLED",
+        "LTPO3",
+        "HRV",
+        "Heart rate tracking",
+        "Hypertension notifications",
+        "ECG app",
+        "High and low heart rate notifications",
+        "Irregular rhythm notifications",
+        "Low cardio fitness notifications",
+        "Blood Oxygen app",
+        "Sleep tracking",
+        "Sleep apnea notifications",
+        "Sleep score",
+        "Vitals app featuring heart rate, respiratory rate, wrist temperature, and sleep duration",
+        "Wrist temperature sensing",
+        "Cycle Tracking",
+        "Improved period predictions",
+        "Fertile window estimates",
+        "Retrospective ovulation estimates",
+        "Perimenopause and menopause support",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "International emergency calling",
+        "Fall Detection and Crash Detection",
+        "Water resistant 50m",
+        "Swim, snorkel",
+        "Depth gauge to 6m",
+        "Water temperature sensor",
+        "GPS",
+        "Cellular options",
+        "5G capable",
+        "S10 chip",
+        "Wrist flick gesture",
+        "Double tap gesture",
+        "Precision Finding for iPhone",
+        "Up to 24 hours",
+        "Up to 38 hours in Low Power Mode",
+        "Fast-charge capable (0–80% in about 30 minutes; 15 minutes for up to 8 hours)"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "Apple Watch Ultra 3",
+      "hero": "https://www.apple.com/v/watch/compare/ai/images/overview/all_models_watch_ultra_3__qc7kwjt8c7ee_large_2x.jpg",
+      "colors": [
+        {
+          "name": "Natural Titanium",
+          "hex": "#e3ddd7",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_ultra_3_titanium_natural__f4e1mwataoa6_large_2x.jpg",
+          "imageKey": "watch-ultra-3-titanium-natural"
+        },
+        {
+          "name": "Black Titanium",
+          "hex": "#0f0e0e",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_ultra_3_titanium_black__et3o71qjhxg2_large_2x.jpg",
+          "imageKey": "watch-ultra-3-titanium-black"
+        }
+      ],
+      "storages": [
+        "49mm"
+      ],
+      "priceToken": null,
+      "specs": [
+        "49mm titanium case",
+        "Always-On Retina display",
+        "Up to 3000 nits",
+        "Wide-angle OLED",
+        "LTPO3",
+        "HRV",
+        "Heart rate tracking",
+        "Hypertension notifications",
+        "ECG app",
+        "High and low heart rate notifications",
+        "Irregular rhythm notifications",
+        "Low cardio fitness notifications",
+        "Blood Oxygen app",
+        "Sleep tracking",
+        "Sleep apnea notifications",
+        "Sleep score",
+        "Vitals app featuring heart rate, respiratory rate, wrist temperature, and sleep duration",
+        "Wrist temperature sensing",
+        "Cycle Tracking",
+        "Improved period predictions",
+        "Fertile window estimates",
+        "Retrospective ovulation estimates",
+        "Perimenopause and menopause support",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "Emergency SOS via satellite",
+        "International emergency calling",
+        "Fall Detection and Crash Detection",
+        "Siren",
+        "Water resistant 100m",
+        "Swim, snorkel, scuba, high-speed water sports",
+        "Depth gauge to 40m",
+        "Water temperature sensor",
+        "Precision dual-frequency GPS",
+        "Cellular and satellite",
+        "5G capable",
+        "S10 chip",
+        "Wrist flick gesture",
+        "Double tap gesture",
+        "Precision Finding for iPhone",
+        "Up to 42 hours",
+        "Up to 72 hours in Low Power Mode",
+        "Fast-charge capable (0–80% in about 45 minutes; 15 minutes for up to 12 hours)"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "Apple Watch SE 2",
+      "hero": "https://www.apple.com/v/watch/compare/ai/images/overview/all_models_watch_se_gen2__e003vtroucgi_large_2x.jpg",
+      "colors": [
+        {
+          "name": "Midnight Aluminum",
+          "hex": "#1a2530",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_se_gen2_aluminum_midnight__bl3wyc9yo17m_large_2x.jpg",
+          "imageKey": "watch-se-gen2-aluminum-midnight"
+        },
+        {
+          "name": "Starlight Aluminum",
+          "hex": "#ded6d1",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_se_gen2_aluminum_starlight__mt6b6z7vuaie_large_2x.jpg",
+          "imageKey": "watch-se-gen2-aluminum-starlight"
+        },
+        {
+          "name": "Silver Aluminum",
+          "hex": "#e0e0e0",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_se_gen2_aluminum_silver__cvybwwt1hr0i_large_2x.jpg",
+          "imageKey": "watch-se-gen2-aluminum-silver"
+        }
+      ],
+      "storages": [
+        "40mm",
+        "44mm"
+      ],
+      "priceToken": null,
+      "specs": [
+        "44mm or 40mm aluminum case",
+        "Retina display",
+        "Up to 1000 nits",
+        "OLED",
+        "LTPO",
+        "HRV",
+        "Heart rate tracking",
+        "High and low heart rate notifications",
+        "Irregular rhythm notifications",
+        "Low cardio fitness notifications",
+        "Sleep tracking",
+        "Sleep score",
+        "Vitals app featuring heart rate, respiratory rate, and sleep duration",
+        "Cycle Tracking",
+        "Apple Intelligence",
+        "Emergency SOS",
+        "International emergency calling",
+        "Fall Detection and Crash Detection",
+        "Water resistant 50m",
+        "Swim",
+        "GPS",
+        "Cellular options",
+        "S8 chip",
+        "Siri",
+        "Find iPhone",
+        "Up to 18 hours",
+        "Low Power Mode"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "Apple Watch Series 10",
+      "hero": "https://www.apple.com/v/watch/compare/ai/images/overview/all_models_watch_series_10__cbcya4xwu1py_large_2x.jpg",
+      "colors": [
+        {
+          "name": "Jet Black Aluminum",
+          "hex": "#010203",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_10_aluminum_jet_black__e3j9hbp2elkm_large_2x.jpg",
+          "imageKey": "watch-series-10-aluminum-jet-black"
+        },
+        {
+          "name": "Rose Gold Aluminum",
+          "hex": "#eacfc8",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_10_aluminum_rose_gold__e3b1fh9c5i4i_large_2x.jpg",
+          "imageKey": "watch-series-10-aluminum-rose-gold"
+        },
+        {
+          "name": "Silver Aluminum",
+          "hex": "#e0e0e0",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_10_aluminum_silver__e1wgggayppyu_large_2x.jpg",
+          "imageKey": "watch-series-10-aluminum-silver"
+        },
+        {
+          "name": "Slate Titanium",
+          "hex": "#47423d",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_10_titanium_slate__daa0wvh4cuky_large_2x.jpg",
+          "imageKey": "watch-series-10-titanium-slate"
+        },
+        {
+          "name": "Gold Titanium",
+          "hex": "#f4dec8",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_10_titanium_gold__eqxb5zc3w3cm_large_2x.jpg",
+          "imageKey": "watch-series-10-titanium-gold"
+        },
+        {
+          "name": "Natural Titanium",
+          "hex": "#e3ddd7",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_10_titanium_natural__ehgpv03edrki_large_2x.jpg",
+          "imageKey": "watch-series-10-titanium-natural"
+        }
+      ],
+      "storages": [
+        "42mm",
+        "46mm"
+      ],
+      "priceToken": null,
+      "specs": [
+        "46mm or 42mm aluminum or titanium case",
+        "Always-On Retina display",
+        "Up to 2000 nits",
+        "Wide-angle OLED",
+        "LTPO3",
+        "HRV",
+        "Heart rate tracking",
+        "Hypertension notifications",
+        "ECG app",
+        "High and low heart rate notifications",
+        "Irregular rhythm notifications",
+        "Low cardio fitness notifications",
+        "Blood Oxygen app",
+        "Sleep tracking",
+        "Sleep apnea notifications",
+        "Sleep score",
+        "Vitals app featuring heart rate, respiratory rate, wrist temperature, and sleep duration",
+        "Wrist temperature sensing",
+        "Cycle Tracking",
+        "Improved period predictions",
+        "Fertile window estimates",
+        "Retrospective ovulation estimates",
+        "Perimenopause and menopause support",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "International emergency calling",
+        "Fall Detection and Crash Detection",
+        "Water resistant 50m",
+        "Swim, snorkel",
+        "Depth gauge to 6m",
+        "Water temperature sensor",
+        "GPS",
+        "Cellular options",
+        "S10 chip",
+        "Wrist flick gesture",
+        "Double tap gesture",
+        "Precision Finding for iPhone",
+        "Up to 18 hours",
+        "Up to 36 hours in Low Power Mode",
+        "Fast-charge capable (0–80% in about 30 minutes)"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "Apple Watch Ultra 2",
+      "hero": "https://www.apple.com/v/watch/compare/ai/images/overview/all_models_watch_ultra_2__two5m8hr0yym_large_2x.jpg",
+      "colors": [
+        {
+          "name": "Black Titanium",
+          "hex": "#0f0e0e",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_ultra_2_titanium_black__dsta75z7pp0m_large_2x.jpg",
+          "imageKey": "watch-ultra-2-titanium-black"
+        },
+        {
+          "name": "Natural Titanium",
+          "hex": "#e3ddd7",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_ultra_2_titanium_natural__gi7chzvb6dua_large_2x.jpg",
+          "imageKey": "watch-ultra-2-titanium-natural"
+        }
+      ],
+      "storages": [
+        "49mm"
+      ],
+      "priceToken": null,
+      "specs": [
+        "49mm titanium case",
+        "Always-On Retina display",
+        "Up to 3000 nits",
+        "OLED",
+        "LTPO2",
+        "HRV",
+        "Heart rate tracking",
+        "Hypertension notifications",
+        "ECG app",
+        "High and low heart rate notifications",
+        "Irregular rhythm notifications",
+        "Low cardio fitness notifications",
+        "Blood Oxygen app",
+        "Sleep tracking",
+        "Sleep apnea notifications",
+        "Sleep score",
+        "Vitals app featuring heart rate, respiratory rate, wrist temperature, and sleep duration",
+        "Wrist temperature sensing",
+        "Cycle Tracking",
+        "Improved period predictions",
+        "Fertile window estimates",
+        "Retrospective ovulation estimates",
+        "Perimenopause and menopause support",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "International emergency calling",
+        "Fall Detection and Crash Detection",
+        "Siren",
+        "Water resistant 100m",
+        "Swim, snorkel, scuba, high-speed water sports",
+        "Depth gauge to 40m",
+        "Water temperature sensor",
+        "Precision dual-frequency GPS",
+        "Cellular",
+        "S9 chip",
+        "Wrist flick gesture",
+        "Double tap gesture",
+        "Precision Finding for iPhone",
+        "Up to 36 hours",
+        "Up to 72 hours in Low Power Mode",
+        "Fast-charge capable (0–80% in about 1 hour)"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "Apple Watch Series 9",
+      "hero": "https://www.apple.com/v/watch/compare/ai/images/overview/all_models_watch_series_9__h09h75uo43ma_large_2x.jpg",
+      "colors": [
+        {
+          "name": "Midnight Aluminum",
+          "hex": "#1a2530",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_9_aluminum_midnight__e3y0323cydci_large_2x.jpg",
+          "imageKey": "watch-series-9-aluminum-midnight"
+        },
+        {
+          "name": "Starlight Aluminum",
+          "hex": "#ded6d1",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Silver Aluminum",
+          "hex": "#e0e0e0",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Pink Aluminum",
+          "hex": "#fadcde",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Product Red Aluminum",
+          "hex": "#c6464a",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Silver Stainless",
+          "hex": "#e6e6e7",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Graphite Stainless",
+          "hex": "#3e3a36",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Gold Stainless",
+          "hex": "#d4bda1",
+          "image": null,
+          "imageKey": null
+        }
+      ],
+      "storages": [
+        "41mm",
+        "45mm"
+      ],
+      "priceToken": null,
+      "specs": [
+        "45mm or 41mm aluminum or stainless steel case",
+        "Always-On Retina display",
+        "Up to 2000 nits",
+        "OLED",
+        "LTPO",
+        "HRV",
+        "Heart rate tracking",
+        "Hypertension notifications",
+        "ECG app",
+        "High and low heart rate notifications",
+        "Irregular rhythm notifications",
+        "Low cardio fitness notifications",
+        "Blood Oxygen app",
+        "Sleep tracking",
+        "Sleep apnea notifications",
+        "Sleep score",
+        "Vitals app featuring heart rate, respiratory rate, wrist temperature, and sleep duration",
+        "Wrist temperature sensing",
+        "Cycle Tracking",
+        "Improved period predictions",
+        "Fertile window estimates",
+        "Retrospective ovulation estimates",
+        "Perimenopause and menopause support",
+        "Apple Intelligence",
+        "Siri AI",
+        "Emergency SOS",
+        "International emergency calling",
+        "Fall Detection and Crash Detection",
+        "Water resistant 50m",
+        "Swim",
+        "GPS",
+        "Cellular options",
+        "S9 chip",
+        "Wrist flick gesture",
+        "Double tap gesture",
+        "Precision Finding for iPhone",
+        "Up to 18 hours",
+        "Up to 36 hours in Low Power Mode",
+        "Fast-charge capable (0–80% in 45 minutes)"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "Apple Watch Ultra",
+      "hero": "https://www.apple.com/v/watch/compare/ai/images/overview/all_models_watch_ultra__e5hyhii50n8m_large_2x.jpg",
+      "colors": [
+        {
+          "name": "Natural Titanium",
+          "hex": "#e3ddd7",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_ultra_titanium_natural__0jxdmqykxn66_large_2x.jpg",
+          "imageKey": "watch-ultra-titanium-natural"
+        }
+      ],
+      "storages": [
+        "49mm"
+      ],
+      "priceToken": null,
+      "specs": [
+        "49mm titanium case",
+        "Always-On Retina display",
+        "Up to 2000 nits",
+        "OLED",
+        "LTPO2",
+        "HRV",
+        "Heart rate tracking",
+        "ECG app",
+        "High and low heart rate notifications",
+        "Irregular rhythm notifications",
+        "Low cardio fitness notifications",
+        "Blood Oxygen app",
+        "Sleep tracking",
+        "Sleep score",
+        "Vitals app featuring heart rate, respiratory rate, wrist temperature, blood oxygen, and sleep duration",
+        "Wrist temperature sensing",
+        "Cycle Tracking",
+        "Improved period predictions",
+        "Fertile window estimates",
+        "Retrospective ovulation estimates",
+        "Perimenopause and menopause support",
+        "Apple Intelligence",
+        "Emergency SOS",
+        "International emergency calling",
+        "Fall Detection and Crash Detection",
+        "Siren",
+        "Water resistant 100m",
+        "Swim, snorkel, scuba, high-speed water sports",
+        "Depth gauge to 40m",
+        "Water temperature sensor",
+        "Precision dual-frequency GPS",
+        "Cellular",
+        "S8 chip",
+        "Siri",
+        "Find iPhone",
+        "Up to 36 hours",
+        "Up to 72 hours in Low Power Mode",
+        "Fast-charge capable (0–80% in about 1 hour)"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "Apple Watch Series 8",
+      "hero": "https://www.apple.com/v/watch/compare/ai/images/overview/all_models_watch_series_8__bqplwqv8ogeq_large_2x.jpg",
+      "colors": [
+        {
+          "name": "Midnight Aluminum",
+          "hex": "#1a2530",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_8_aluminum_midnight__bhifsjzxv9g2_large_2x.jpg",
+          "imageKey": "watch-series-8-aluminum-midnight"
+        },
+        {
+          "name": "Starlight Aluminum",
+          "hex": "#ded6d1",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Silver Aluminum",
+          "hex": "#e0e0e0",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Product Red Aluminum",
+          "hex": "#c6464a",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Silver Stainless",
+          "hex": "#e6e6e7",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Graphite Stainless",
+          "hex": "#3e3a36",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Gold Stainless",
+          "hex": "#d4bda1",
+          "image": null,
+          "imageKey": null
+        }
+      ],
+      "storages": [
+        "41mm",
+        "45mm"
+      ],
+      "priceToken": null,
+      "specs": [
+        "45mm or 41mm aluminum or stainless steel case",
+        "Always-On Retina display",
+        "Up to 1000 nits",
+        "OLED",
+        "LTPO",
+        "HRV",
+        "Heart rate tracking",
+        "ECG app",
+        "High and low heart rate notifications",
+        "Irregular rhythm notifications",
+        "Low cardio fitness notifications",
+        "Blood Oxygen app",
+        "Sleep tracking",
+        "Sleep score",
+        "Vitals app featuring heart rate, respiratory rate, wrist temperature, blood oxygen, and sleep duration",
+        "Wrist temperature sensing",
+        "Cycle Tracking",
+        "Improved period predictions",
+        "Fertile window estimates",
+        "Retrospective ovulation estimates",
+        "Apple Intelligence",
+        "Emergency SOS",
+        "International emergency calling",
+        "Fall Detection and Crash Detection",
+        "Water resistant 50m",
+        "Swim",
+        "GPS",
+        "Cellular options",
+        "S8 chip",
+        "Siri",
+        "Find iPhone",
+        "Up to 18 hours",
+        "Low Power Mode",
+        "Fast-charge capable (0–80% in 45 minutes)"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "Apple Watch Series 7",
+      "hero": "https://www.apple.com/v/watch/compare/ai/images/overview/all_models_watch_series_7__cbx3nw7d5dci_large_2x.jpg",
+      "colors": [
+        {
+          "name": "Green Aluminum",
+          "hex": "#36382b",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_7_aluminum_green__fe2itxftdqi6_large_2x.jpg",
+          "imageKey": "watch-series-7-aluminum-green"
+        },
+        {
+          "name": "Midnight Aluminum",
+          "hex": "#1a2530",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Starlight Aluminum",
+          "hex": "#ded6d1",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Blue Aluminum",
+          "hex": "#3e4b6c",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Product Red Aluminum",
+          "hex": "#c6464a",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Silver Stainless",
+          "hex": "#e6e6e7",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Graphite Stainless",
+          "hex": "#3e3a36",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Gold Stainless",
+          "hex": "#d4bda1",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Titanium",
+          "hex": "#dedbd9",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Space Black Titanium",
+          "hex": "#47433f",
+          "image": null,
+          "imageKey": null
+        }
+      ],
+      "storages": [
+        "41mm",
+        "45mm"
+      ],
+      "priceToken": null,
+      "specs": [
+        "45mm or 41mm aluminum, stainless steel, or titanium case",
+        "Always-On Retina display",
+        "Up to 1000 nits",
+        "OLED",
+        "LTPO",
+        "HRV",
+        "Heart rate tracking",
+        "ECG app",
+        "High and low heart rate notifications",
+        "Irregular rhythm notifications",
+        "Low cardio fitness notifications",
+        "Blood Oxygen app",
+        "Sleep tracking",
+        "Sleep score",
+        "Vitals app featuring heart rate, respiratory rate, blood oxygen, and sleep duration",
+        "Cycle Tracking",
+        "Apple Intelligence",
+        "Emergency SOS",
+        "International emergency calling",
+        "Fall Detection",
+        "Water resistant 50m",
+        "Swim",
+        "GPS",
+        "Cellular options",
+        "S7 chip",
+        "Siri",
+        "Find iPhone",
+        "Up to 18 hours",
+        "Low Power Mode",
+        "Fast-charge capable (0–80% in 45 minutes)"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "Apple Watch Series 6",
+      "hero": "https://www.apple.com/v/watch/compare/ai/images/overview/all_models_watch_series_6__chdkw2jyf39e_large_2x.jpg",
+      "colors": [
+        {
+          "name": "Blue Aluminum",
+          "hex": "#3e4b6c",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_series_6_aluminum_blue__e67e2v4a2g66_large_2x.jpg",
+          "imageKey": "watch-series-6-aluminum-blue"
+        },
+        {
+          "name": "Silver Aluminum",
+          "hex": "#e0e0e0",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Space Gray Aluminum",
+          "hex": "#727272",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Brush Gold Aluminum",
+          "hex": "#f4d4c6",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Product Red Aluminum",
+          "hex": "#c6464a",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Silver Stainless",
+          "hex": "#e6e6e7",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Graphite Stainless",
+          "hex": "#3e3a36",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Gold Stainless",
+          "hex": "#d4bda1",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Titanium",
+          "hex": "#dedbd9",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Space Black Titanium",
+          "hex": "#47433f",
+          "image": null,
+          "imageKey": null
+        }
+      ],
+      "storages": [
+        "40mm",
+        "44mm"
+      ],
+      "priceToken": null,
+      "specs": [
+        "44mm or 40mm aluminum or stainless steel case",
+        "Always-On Retina display",
+        "Up to 1000 nits",
+        "OLED",
+        "LTPO",
+        "HRV",
+        "Heart rate tracking",
+        "ECG app",
+        "High and low heart rate notifications",
+        "Irregular rhythm notifications",
+        "Low cardio fitness notifications",
+        "Blood Oxygen app",
+        "Sleep tracking",
+        "Sleep score",
+        "Vitals app featuring heart rate, respiratory rate, blood oxygen, and sleep duration",
+        "Cycle Tracking",
+        "Apple Intelligence",
+        "Emergency SOS",
+        "International emergency calling",
+        "Fall Detection",
+        "Water resistant 50m",
+        "Swim",
+        "GPS",
+        "Cellular options",
+        "S6 chip",
+        "Siri",
+        "Find iPhone",
+        "Up to 18 hours",
+        "Low Power Mode"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "Apple Watch SE",
+      "hero": "https://www.apple.com/v/watch/compare/ai/images/overview/all_models_watch_se_gen1__dra1u8sb9mye_large_2x.jpg",
+      "colors": [
+        {
+          "name": "Brush Gold Aluminum",
+          "hex": "#f4d4c6",
+          "image": "https://www.apple.com/v/watch/compare/ai/images/overview/compare_watch_se_gen1_aluminum_brush_gold__efof1ek2u62q_large_2x.jpg",
+          "imageKey": "watch-se-gen1-aluminum-brush-gold"
+        },
+        {
+          "name": "Silver Aluminum",
+          "hex": "#e0e0e0",
+          "image": null,
+          "imageKey": null
+        },
+        {
+          "name": "Space Gray Aluminum",
+          "hex": "#727272",
+          "image": null,
+          "imageKey": null
+        }
+      ],
+      "storages": [
+        "40mm",
+        "44mm"
+      ],
+      "priceToken": null,
+      "specs": [
+        "44mm or 40mm aluminum case",
+        "Retina display",
+        "Up to 1000 nits",
+        "OLED",
+        "LTPO",
+        "HRV",
+        "Heart rate tracking",
+        "High and low heart rate notifications",
+        "Irregular rhythm notifications",
+        "Low cardio fitness notifications",
+        "Sleep tracking",
+        "Cycle Tracking",
+        "Emergency SOS",
+        "International emergency calling",
+        "Fall Detection",
+        "Water resistant 50m",
+        "Swim",
+        "GPS",
+        "Cellular options",
+        "S5 chip",
+        "Siri",
+        "Find iPhone",
+        "Up to 18 hours",
+        "Low Power Mode"
+      ]
+    }
+  ],
+  "mac": [
+    {
+      "index": 0,
+      "name": "MacBook Neo (A18 Pro)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_neo_a18_silver__d23cbmwh42eu_large_2x.jpg",
+          "imageKey": "macbook-neo-a18-pro-silver"
+        },
+        {
+          "name": "Blush",
+          "hex": "#e8d0d0",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_neo_a18_blush__daz2o3t268qe_large_2x.jpg",
+          "imageKey": "macbook-neo-a18-pro-blush"
+        },
+        {
+          "name": "Citrus",
+          "hex": "#dddc8c",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_neo_a18_citrus__25g9b9zbiwiu_large_2x.jpg",
+          "imageKey": "macbook-neo-a18-pro-citrus"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#596680",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_neo_a18_indigo__q3w7yzdxc2im_large_2x.jpg",
+          "imageKey": "macbook-neo-a18-pro-indigo"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB"
+      ],
+      "priceToken": "MBN_2026_MAIN",
+      "specs": [
+        "Apple A18 Pro chip\">6-core CPU with 2 performance cores and 4 efficiency cores 5-core GPU Hardware-accelerated ray tracing 16-core Neural Engine 60GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode",
+        "8GB",
+        "13.0-inch (diagonal) Liquid Retina display",
+        "Liquid Retina display",
+        "2408 by 1506 pixels",
+        "500 nits brightness",
+        "sRGB",
+        "Up to 11 hours wireless web",
+        "Up to 16 hours video streaming",
+        "Integrated 36.5-watt-hour lithium-ion battery",
+        "20W USB-C Power Adapter"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "MacBook Air 13-in. (M5)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Sky Blue",
+          "hex": "#c8d8e0",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_m5_skyblue__fty6fmk5v1me_large_2x.jpg",
+          "imageKey": "macbook-air-m5-skyblue"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_m5_silver__bbwooiazy7cy_large_2x.jpg",
+          "imageKey": "macbook-air-m5-silver"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#f0e4d3",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_m5_starlight__bwz8vshj17ki_large_2x.jpg",
+          "imageKey": "macbook-air-m5-starlight"
+        },
+        {
+          "name": "Midnight",
+          "hex": "#2e3642",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_m5_midnight__dsdy6ha5450m_large_2x.jpg",
+          "imageKey": "macbook-air-m5-midnight"
+        }
+      ],
+      "storages": [
+        "512GB",
+        "1TB",
+        "2TB",
+        "4TB"
+      ],
+      "priceToken": "MDH74",
+      "specs": [
+        "M5 chip\">10-core CPU with 4 super cores and 6 efficiency cores Up to 10-core GPU Neural Accelerators Hardware-accelerated ray tracing 16-core Neural Engine 153GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode",
+        "16GB 24GB 32GB",
+        "13.6-inch (diagonal) Liquid Retina display",
+        "Liquid Retina display",
+        "2560 by 1664 pixels",
+        "500 nits brightness",
+        "Wide color (P3)",
+        "True Tone technology",
+        "Up to 15 hours wireless web",
+        "Up to 18 hours video streaming",
+        "Integrated 53.8-watt-hour lithium-polymer battery",
+        "40W Dynamic Power Adapter with 60W Max",
+        "Fast-charge capable with 70W or higher USB PD power source"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "MacBook Air 15-in. (M5)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Sky Blue",
+          "hex": "#c8d8e0",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_m5_15_skyblue__bvkzzp9qmdjm_large_2x.jpg",
+          "imageKey": "macbook-air-m5-15-skyblue"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_m5_15_silver__gdgd4la8qemq_large_2x.jpg",
+          "imageKey": "macbook-air-m5-15-silver"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#f0e4d3",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_m5_15_starlight__f89sxr5uo1qq_large_2x.jpg",
+          "imageKey": "macbook-air-m5-15-starlight"
+        },
+        {
+          "name": "Midnight",
+          "hex": "#2e3642",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_m5_15_midnight__fhljrimm88i2_large_2x.jpg",
+          "imageKey": "macbook-air-m5-15-midnight"
+        }
+      ],
+      "storages": [
+        "512GB",
+        "1TB",
+        "2TB",
+        "4TB"
+      ],
+      "priceToken": "MDV94",
+      "specs": [
+        "M5 chip\">10-core CPU with 4 super cores and 6 efficiency cores 10-core GPU Neural Accelerators Hardware-accelerated ray tracing 16-core Neural Engine 153GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode",
+        "16GB 24GB 32GB",
+        "15.3-inch (diagonal) Liquid Retina display",
+        "Liquid Retina display",
+        "2880 by 1864 pixels",
+        "500 nits brightness",
+        "Wide color (P3)",
+        "True Tone technology",
+        "Up to 15 hours wireless web",
+        "Up to 18 hours video streaming",
+        "Integrated 66.5-watt-hour lithium-polymer battery",
+        "40W Dynamic Power Adapter with 60W Max",
+        "Fast-charge capable with 70W or higher USB PD power source"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "MacBook Pro 14-in. (M5)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_m5_14_spaceblack__e8bg1b4hasii_large_2x.jpg",
+          "imageKey": "macbook-pro-14-m5-pro-spaceblack"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_m5_14_silver__gjpnrwj6g4qe_large_2x.jpg",
+          "imageKey": "macbook-pro-14-m5-pro-silver"
+        }
+      ],
+      "storages": [
+        "1TB",
+        "2TB",
+        "4TB"
+      ],
+      "priceToken": "MACBOOKPRO_M5_MAIN_2026",
+      "specs": [
+        "M5 chip\">10-core CPU with 4 super cores and 6 efficiency cores 10-core GPU Neural Accelerators Hardware-accelerated ray tracing 16-core Neural Engine 153GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode",
+        "16GB 24GB 32GB",
+        "14.2-inch (diagonal) mini-LED backlit display",
+        "Liquid Retina XDR display",
+        "3024 by 1964 pixels",
+        "XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)",
+        "SDR brightness: up to 1000 nits (outdoor)",
+        "Wide color (P3)",
+        "True Tone technology",
+        "ProMotion technology for adaptive refresh rates up to 120Hz",
+        "Up to 16 hours wireless web",
+        "Up to 24 hours video streaming",
+        "Integrated 72.4-watt-hour lithium-polymer battery",
+        "70W USB-C Power Adapter",
+        "Fast-charge capable with 96W or higher USB PD power source"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "MacBook Pro 14-in. (M5 Pro)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_m5_14_spaceblack__e8bg1b4hasii_large_2x.jpg",
+          "imageKey": "macbook-pro-14-m5-pro-spaceblack"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_m5_14_silver__gjpnrwj6g4qe_large_2x.jpg",
+          "imageKey": "macbook-pro-14-m5-pro-silver"
+        }
+      ],
+      "storages": [
+        "1TB",
+        "2TB",
+        "4TB"
+      ],
+      "priceToken": "MGDN4",
+      "specs": [
+        "M5 Pro chip\">Up to 18-core CPU with 6 super cores and 12 performance cores Up to 20-core GPU Neural Accelerators Hardware-accelerated ray tracing 16-core Neural Engine 307GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode",
+        "24GB 48GB 64GB",
+        "14.2-inch (diagonal) mini-LED backlit display",
+        "Liquid Retina XDR display",
+        "3024 by 1964 pixels",
+        "XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)",
+        "SDR brightness: up to 1000 nits (outdoor)",
+        "Wide color (P3)",
+        "True Tone technology",
+        "ProMotion technology for adaptive refresh rates up to 120Hz",
+        "Up to 14 hours wireless web",
+        "Up to 22 hours video streaming",
+        "Integrated 72.4-watt-hour lithium-polymer battery",
+        "70W USB-C Power Adapter (included with M5 Pro with 15-core CPU)",
+        "96W USB-C Power Adapter (included with M5 Pro with 18-core CPU, configurable with M5 Pro with 15-core CPU)",
+        "Fast-charge capable with 96W or higher USB PD power source"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "MacBook Pro 14-in. (M5 Max)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_m5_14_spaceblack__e8bg1b4hasii_large_2x.jpg",
+          "imageKey": "macbook-pro-14-m5-pro-spaceblack"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_m5_14_silver__gjpnrwj6g4qe_large_2x.jpg",
+          "imageKey": "macbook-pro-14-m5-pro-silver"
+        }
+      ],
+      "storages": [
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "priceToken": "MGDQ4",
+      "specs": [
+        "M5 Max chip\">18-core CPU with 6 super cores and 12 performance cores Up to 40-core GPU Neural Accelerators Hardware-accelerated ray tracing 16-core Neural Engine Up to 614GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Two video encode engines Two ProRes encode and decode engines AV1 decode",
+        "36GB (M5 Max with 32-core GPU) 48GB (M5 Max with 40-core GPU) 64GB (M5 Max with 40-core GPU) 128GB (M5 Max with 40-core GPU)",
+        "14.2-inch (diagonal) mini-LED backlit display",
+        "Liquid Retina XDR display",
+        "3024 by 1964 pixels",
+        "XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)",
+        "SDR brightness: up to 1000 nits (outdoor)",
+        "Wide color (P3)",
+        "True Tone technology",
+        "ProMotion technology for adaptive refresh rates up to 120Hz",
+        "Up to 13 hours wireless web",
+        "Up to 20 hours video streaming",
+        "Integrated 72.4-watt-hour lithium-polymer battery",
+        "96W USB-C Power Adapter",
+        "Fast-charge capable with 96W or higher USB PD power source"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "MacBook Pro 16-in. (M5 Pro)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_m5_16_spaceblack__81ui3u6gyuqu_large_2x.jpg",
+          "imageKey": "macbook-pro-16-m5-pro-spaceblack"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_m5_16_silver__egqckriiesia_large_2x.jpg",
+          "imageKey": "macbook-pro-16-m5-pro-silver"
+        }
+      ],
+      "storages": [
+        "1TB",
+        "2TB",
+        "4TB"
+      ],
+      "priceToken": "MGE44",
+      "specs": [
+        "M5 Pro chip\">18-core CPU with 6 super cores and 12 performance cores 20-core GPU Neural Accelerators Hardware-accelerated ray tracing 16-core Neural Engine 307GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode",
+        "24GB 48GB 64GB",
+        "16.2-inch (diagonal) mini-LED backlit display",
+        "Liquid Retina XDR display",
+        "3456 by 2234 pixels",
+        "XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)",
+        "SDR brightness: up to 1000 nits (outdoor)",
+        "Wide color (P3)",
+        "True Tone technology",
+        "ProMotion technology for adaptive refresh rates up to 120Hz",
+        "Up to 17 hours wireless web",
+        "Up to 24 hours video streaming",
+        "Integrated 100-watt-hour lithium-polymer battery",
+        "140W USB-C Power Adapter",
+        "Fast-charge capable with 140W or higher USB PD power source"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "MacBook Pro 16-in. (M5 Max)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_m5_16_spaceblack__81ui3u6gyuqu_large_2x.jpg",
+          "imageKey": "macbook-pro-16-m5-pro-spaceblack"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_m5_16_silver__egqckriiesia_large_2x.jpg",
+          "imageKey": "macbook-pro-16-m5-pro-silver"
+        }
+      ],
+      "storages": [
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "priceToken": "MGE74",
+      "specs": [
+        "M5 Max chip\">18-core CPU with 6 super cores and 12 performance cores Up to 40-core GPU Neural Accelerators Hardware-accelerated ray tracing 16-core Neural Engine 614GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Two video encode engines Two ProRes encode and decode engines AV1 decode",
+        "36GB (M5 Max with 32-core GPU) 48GB (M5 Max with 40-core GPU) 64GB (M5 Max with 40-core GPU) 128GB (M5 Max with 40-core GPU)",
+        "16.2-inch (diagonal) mini-LED backlit display",
+        "Liquid Retina XDR display",
+        "3456 by 2234 pixels",
+        "XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)",
+        "SDR brightness: up to 1000 nits (outdoor)",
+        "Wide color (P3)",
+        "True Tone technology",
+        "ProMotion technology for adaptive refresh rates up to 120Hz",
+        "Up to 16 hours wireless web",
+        "Up to 22 hours video streaming",
+        "Integrated 100-watt-hour lithium-polymer battery",
+        "140W USB-C Power Adapter",
+        "Fast-charge capable with 140W or higher USB PD power source"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "MacBook Air 13-in. (M4)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Sky Blue",
+          "hex": "#c8d8e0",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_mx_skyblue__ewtkcxzt8hme_large_2x.jpg",
+          "imageKey": "macbook-air-m4-skyblue"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_mx_silver__6nbuljz40wym_large_2x.jpg",
+          "imageKey": "macbook-air-m4-silver"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#f0e4d3",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_mx_starlight__f4zo7jj82de2_large_2x.jpg",
+          "imageKey": "macbook-air-m4-starlight"
+        },
+        {
+          "name": "Midnight",
+          "hex": "#2e3642",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_mx_midnight__ftl6nurjmvyy_large_2x.jpg",
+          "imageKey": "macbook-air-m4-midnight"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "M4 chip\">10-core CPU with 4 performance cores and 6 efficiency cores Up to 10-core GPU Hardware-accelerated ray tracing 16-core Neural Engine 120GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode",
+        "16GB 24GB 32GB",
+        "13.6-inch (diagonal) Liquid Retina display",
+        "Liquid Retina display",
+        "2560 by 1664 pixels",
+        "500 nits brightness",
+        "Wide color (P3)",
+        "True Tone technology",
+        "Up to 15 hours wireless web",
+        "Up to 18 hours video streaming",
+        "Integrated 53.8-watt-hour lithium-polymer battery",
+        "30W USB-C Power Adapter (included with M4 with 8-core GPU)",
+        "35W Dual USB-C Port Compact Power Adapter (included with M4 with 10-core GPU; configurable with M4 with 8-core GPU)",
+        "Fast-charge capable with 70W USB-C Power Adapter or higher"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "MacBook Air 15-in. (M4)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Sky Blue",
+          "hex": "#c8d8e0",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_mx_15_skyblue__ge4xgamh8te2_large_2x.jpg",
+          "imageKey": "macbook-air-m4-15-skyblue"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_mx_15_silver__bthqnr9v8po2_large_2x.jpg",
+          "imageKey": "macbook-air-m4-15-silver"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#f0e4d3",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_mx_15_starlight__dvxwvxnk8282_large_2x.jpg",
+          "imageKey": "macbook-air-m4-15-starlight"
+        },
+        {
+          "name": "Midnight",
+          "hex": "#2e3642",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_mx_15_midnight__c2xkdctmuwq6_large_2x.jpg",
+          "imageKey": "macbook-air-m4-15-midnight"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "M4 chip\">10-core CPU with 4 performance cores and 6 efficiency cores Up to 10-core GPU Hardware-accelerated ray tracing 16-core Neural Engine 120GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode",
+        "16GB 24GB 32GB",
+        "15.3-inch (diagonal) Liquid Retina display",
+        "Liquid Retina display",
+        "2880 by 1864 pixels",
+        "500 nits brightness",
+        "Wide color (P3)",
+        "True Tone technology",
+        "Up to 15 hours wireless web",
+        "Up to 18 hours video streaming",
+        "Integrated 66.5-watt-hour lithium-polymer battery",
+        "35W Dual USB-C Port Compact Power Adapter",
+        "Fast-charge capable with 70W USB-C Power Adapter or higher"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "MacBook Pro 14-in. (M4 Max)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_14_spaceblack__bcacn5s80i9u_large_2x.jpg",
+          "imageKey": "macbook-pro-14-m4-pro-spaceblack"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_14_silver__i4mzeamc5aa2_large_2x.jpg",
+          "imageKey": "macbook-pro-14-m4-pro-silver"
+        }
+      ],
+      "storages": [
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "M4 Max chip\">Up to 16-core CPU with 12 performance cores and 4 efficiency cores Up to 40-core GPU Hardware-accelerated ray tracing 16-core Neural Engine Up to 546GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Two video encode engines Two ProRes encode and decode engines AV1 decode",
+        "36GB (M4 Max with 14-core CPU) 48GB (M4 Max with 16-core CPU) 64GB (M4 Max with 16-core CPU) 128GB (M4 Max with 16-core CPU)",
+        "14.2-inch (diagonal) mini-LED backlit display",
+        "Liquid Retina XDR display",
+        "3024 by 1964 pixels",
+        "XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)",
+        "SDR brightness: up to 1000 nits (outdoor)",
+        "Wide color (P3)",
+        "True Tone technology",
+        "ProMotion technology for adaptive refresh rates up to 120Hz",
+        "Up to 13 hours wireless web",
+        "Up to 18 hours video streaming",
+        "Integrated 72.4-watt-hour lithium-polymer battery",
+        "96W USB-C Power Adapter",
+        "Fast-charge capable with included 96W USB-C Power Adapter or higher"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "MacBook Pro 14-in. (M4 Pro)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_14_spaceblack__bcacn5s80i9u_large_2x.jpg",
+          "imageKey": "macbook-pro-14-m4-pro-spaceblack"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_14_silver__i4mzeamc5aa2_large_2x.jpg",
+          "imageKey": "macbook-pro-14-m4-pro-silver"
+        }
+      ],
+      "storages": [
+        "512GB",
+        "1TB",
+        "2TB",
+        "4TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "M4 Pro chip\">Up to 14-core CPU with 10 performance cores and 4 efficiency cores Up to 20-core GPU Hardware-accelerated ray tracing 16-core Neural Engine 273GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode",
+        "24GB 48GB",
+        "14.2-inch (diagonal) mini-LED backlit display",
+        "Liquid Retina XDR display",
+        "3024 by 1964 pixels",
+        "XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)",
+        "SDR brightness: up to 1000 nits (outdoor)",
+        "Wide color (P3)",
+        "True Tone technology",
+        "ProMotion technology for adaptive refresh rates up to 120Hz",
+        "Up to 14 hours wireless web",
+        "Up to 22 hours video streaming",
+        "Integrated 72.4-watt-hour lithium-polymer battery",
+        "70W USB-C Power Adapter (included with M4 Pro with 12-core CPU)",
+        "96W USB-C Power Adapter (included with M4 Pro with 14-core CPU, configurable with M4 Pro with 12-core CPU)",
+        "Fast-charge capable with 96W USB-C Power Adapter or higher"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "MacBook Pro 14-in. (M4)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_14_spaceblack__bcacn5s80i9u_large_2x.jpg",
+          "imageKey": "macbook-pro-14-m4-pro-spaceblack"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_14_silver__i4mzeamc5aa2_large_2x.jpg",
+          "imageKey": "macbook-pro-14-m4-pro-silver"
+        }
+      ],
+      "storages": [
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "M4 chip\">10-core CPU with 4 performance cores and 6 efficiency cores 10-core GPU Hardware-accelerated ray tracing 16-core Neural Engine 120GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode engine",
+        "16GB 24GB 32GB",
+        "14.2-inch (diagonal) mini-LED backlit display",
+        "Liquid Retina XDR display",
+        "3024 by 1964 pixels",
+        "XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)",
+        "SDR brightness: up to 1000 nits (outdoor)",
+        "Wide color (P3)",
+        "True Tone technology",
+        "ProMotion technology for adaptive refresh rates up to 120Hz",
+        "Up to 16 hours wireless web",
+        "Up to 24 hours video streaming",
+        "Integrated 72.4-watt-hour lithium-polymer battery",
+        "70W USB-C Power Adapter",
+        "Fast-charge capable with 96W USB-C Power Adapter or higher"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "MacBook Pro 16-in. (M4 Max)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_16_spaceblack__f89510vnuemq_large_2x.jpg",
+          "imageKey": "macbook-pro-16-m4-pro-spaceblack"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_16_silver__d4gi8ytb772a_large_2x.jpg",
+          "imageKey": "macbook-pro-16-m4-pro-silver"
+        }
+      ],
+      "storages": [
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "M4 Max chip\">Up to 16-core CPU with 12 performance cores and 4 efficiency cores Up to 40-core GPU Hardware-accelerated ray tracing 16-core Neural Engine Up to 546GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Two video encode engines Two ProRes encode and decode engines AV1 decode",
+        "36GB (M4 Max with 14-core CPU) 48GB (M4 Max with 16-core CPU) 64GB (M4 Max with 16-core CPU) 128GB (M4 Max with 16-core CPU)",
+        "16.2-inch (diagonal) mini-LED backlit display",
+        "Liquid Retina XDR display",
+        "3456 by 2234 pixels",
+        "XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)",
+        "SDR brightness: up to 1000 nits (outdoor)",
+        "Wide color (P3)",
+        "True Tone technology",
+        "ProMotion technology for adaptive refresh rates up to 120Hz",
+        "Up to 14 hours wireless web",
+        "Up to 21 hours video streaming",
+        "Integrated 100-watt-hour lithium-polymer battery",
+        "140W USB-C Power Adapter",
+        "Fast-charge capable with included 140W USB-C Power Adapter"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "MacBook Pro 16-in. (M4 Pro)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_16_spaceblack__f89510vnuemq_large_2x.jpg",
+          "imageKey": "macbook-pro-16-m4-pro-spaceblack"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_16_silver__d4gi8ytb772a_large_2x.jpg",
+          "imageKey": "macbook-pro-16-m4-pro-silver"
+        }
+      ],
+      "storages": [
+        "512GB",
+        "1TB",
+        "2TB",
+        "4TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "M4 Pro chip\">14-core CPU with 10 performance cores and 4 efficiency cores 20-core GPU Hardware-accelerated ray tracing 16-core Neural Engine 273GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode",
+        "24GB 48GB",
+        "16.2-inch (diagonal) mini-LED backlit display",
+        "Liquid Retina XDR display",
+        "3456 by 2234 pixels",
+        "XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)",
+        "SDR brightness: up to 1000 nits (outdoor)",
+        "Wide color (P3)",
+        "True Tone technology",
+        "ProMotion technology for adaptive refresh rates up to 120Hz",
+        "Up to 17 hours wireless web",
+        "Up to 24 hours video streaming",
+        "Integrated 100-watt-hour lithium-polymer battery",
+        "140W USB-C Power Adapter",
+        "Fast-charge capable with included 140W USB-C Power Adapter"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "MacBook Air 13-in. (M3)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Midnight",
+          "hex": "#2e3642",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_mx_midnight__ftl6nurjmvyy_large_2x.jpg",
+          "imageKey": "macbook-air-m3-midnight"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#f0e4d3",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_mx_starlight__f4zo7jj82de2_large_2x.jpg",
+          "imageKey": "macbook-air-m3-starlight"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "#7d7e80",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_mx_spacegray__hki19guzdwuq_large_2x.jpg",
+          "imageKey": "macbook-air-m3-spacegray"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_mx_silver__6nbuljz40wym_large_2x.jpg",
+          "imageKey": "macbook-air-m3-silver"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "M3 chip\">8-core CPU with 4 performance cores and 4 efficiency cores Up to 10-core GPU Hardware-accelerated ray tracing 16-core Neural Engine 100GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode",
+        "8GB 16GB 24GB",
+        "13.6-inch (diagonal) Liquid Retina display",
+        "Liquid Retina display",
+        "2560 by 1664 pixels",
+        "500 nits brightness",
+        "Wide color (P3)",
+        "True Tone technology",
+        "Up to 15 hours wireless web",
+        "Up to 18 hours Apple TV app movie playback",
+        "Integrated 52.6-watt-hour lithium-polymer battery",
+        "30W USB-C Power Adapter (included with M3 with 8-core GPU)",
+        "35W Dual USB-C Port Compact Power Adapter (included with M3 with 10-core GPU and 512GB storage, configurable with M3 with 8-core GPU)",
+        "Fast-charge capable with 70W USB-C Power Adapter or higher"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "MacBook Air 15-in. (M3)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Midnight",
+          "hex": "#2e3642",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_mx_15_midnight__c2xkdctmuwq6_large_2x.jpg",
+          "imageKey": "macbook-air-m3-15-midnight"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#f0e4d3",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_mx_15_starlight__dvxwvxnk8282_large_2x.jpg",
+          "imageKey": "macbook-air-m3-15-starlight"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "#7d7e80",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_mx_15_spacegray__1u6jpyc431uy_large_2x.jpg",
+          "imageKey": "macbook-air-m3-15-spacegray"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_air_mx_15_silver__bthqnr9v8po2_large_2x.jpg",
+          "imageKey": "macbook-air-m3-15-silver"
+        }
+      ],
+      "storages": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "M3 chip\">8-core CPU with 4 performance cores and 4 efficiency cores 10-core GPU Hardware-accelerated ray tracing 16-core Neural Engine 100GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode",
+        "16GB 24GB",
+        "15.3-inch (diagonal) Liquid Retina display",
+        "Liquid Retina display",
+        "2880 by 1864 pixels",
+        "500 nits brightness",
+        "Wide color (P3)",
+        "True Tone technology",
+        "Up to 15 hours wireless web",
+        "Up to 18 hours Apple TV app movie playback",
+        "Integrated 66.5-watt-hour lithium-polymer battery",
+        "35W Dual USB-C Port Compact Power Adapter",
+        "Fast-charge capable with 70W USB-C Power Adapter or higher"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "MacBook Pro 14-in. (M3)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#7d7e80",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_14_spacegray__bs4ph4qrvs76_large_2x.jpg",
+          "imageKey": "macbook-pro-14-m3-spacegray"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_14_silver__i4mzeamc5aa2_large_2x.jpg",
+          "imageKey": "macbook-pro-14-m3-silver"
+        }
+      ],
+      "storages": [
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "M3 chip\">8-core CPU with 4 performance cores and 4 efficiency cores 10-core GPU Hardware-accelerated ray tracing 16-core Neural Engine 100GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode",
+        "8GB 16GB 24GB",
+        "14.2-inch (diagonal) mini-LED backlit display",
+        "Liquid Retina XDR display",
+        "3024 by 1964 pixels",
+        "XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)",
+        "SDR brightness: 600 nits max",
+        "Wide color (P3)",
+        "True Tone technology",
+        "ProMotion technology for adaptive refresh rates up to 120Hz",
+        "Up to 15 hours wireless web",
+        "Up to 22 hours Apple TV app movie playback",
+        "Integrated 70-watt-hour lithium-polymer battery",
+        "70W USB-C Power Adapter",
+        "Fast-charge capable with 96W USB-C Power Adapter or higher"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "MacBook Pro 14-in. (M3 Pro or M3 Max)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_14_spaceblack__bcacn5s80i9u_large_2x.jpg",
+          "imageKey": "macbook-pro-14-m3-spaceblack"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_14_silver__i4mzeamc5aa2_large_2x.jpg",
+          "imageKey": "macbook-pro-14-m3-silver"
+        }
+      ],
+      "storages": [
+        "512GB",
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "M3 Pro chip\">Up to 12-core CPU with 6 performance cores and 6 efficiency cores Up to 18-core GPU Hardware-accelerated ray tracing 16-core Neural Engine 150GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode",
+        "Up to 16-core CPU with 12 performance cores and 4 efficiency cores Up to 40-core GPU Hardware-accelerated ray tracing 16-core Neural Engine Up to 400GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Two video encode engines Two ProRes encode and decode engines AV1 decode",
+        "18GB 36GB (M3 Pro or M3 Max with 14-core CPU) 48GB (M3 Max with 16-core CPU) 64GB (M3 Max with 16-core CPU) 96GB (M3 Max with 14-core CPU) 128GB (M3 Max with 16-core CPU)",
+        "14.2-inch (diagonal) mini-LED backlit display",
+        "Liquid Retina XDR display",
+        "3024 by 1964 pixels",
+        "XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)",
+        "SDR brightness: 600 nits max",
+        "Wide color (P3)",
+        "True Tone technology",
+        "ProMotion technology for adaptive refresh rates up to 120Hz",
+        "Up to 12 hours wireless web",
+        "Up to 18 hours Apple TV app movie playback",
+        "Integrated 72.4-watt-hour lithium-polymer battery",
+        "70W USB-C Power Adapter (included with M3 Pro with 11-core CPU)",
+        "96W USB-C Power Adapter (included with M3 Pro with 12-core CPU or M3 Max, configurable with M3 Pro with 11-core CPU)",
+        "Fast-charge capable with 96W USB-C Power Adapter or higher"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "MacBook Pro 16-in. (M3 Pro or M3 Max)",
+      "hero": null,
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_16_spaceblack__f89510vnuemq_large_2x.jpg",
+          "imageKey": "macbook-pro-16-m3-spaceblack"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c7c8ca",
+          "image": "https://www.apple.com/v/mac/compare/ah/images/overview/compare_macbook_pro_16_silver__d4gi8ytb772a_large_2x.jpg",
+          "imageKey": "macbook-pro-16-m3-silver"
+        }
+      ],
+      "storages": [
+        "512GB",
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "priceToken": null,
+      "specs": [
+        "M3 Pro chip\">12-core CPU with 6 performance cores and 6 efficiency cores 18-core GPU Hardware-accelerated ray tracing 16-core Neural Engine 150GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Video encode engine ProRes encode and decode engine AV1 decode",
+        "Up to 16-core CPU with 12 performance cores and 4 efficiency cores Up to 40-core GPU Hardware-accelerated ray tracing 16-core Neural Engine Up to 400GB/s memory bandwidth",
+        "Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW Video decode engine Two video encode engines Two ProRes encode and decode engines AV1 decode",
+        "18GB 36GB (M3 Pro or M3 Max with 14-core CPU) 48GB (M3 Max with 16-core CPU) 64GB (M3 Max with 16-core CPU) 96GB (M3 Max with 14-core CPU) 128GB (M3 Max with 16-core CPU)",
+        "16.2-inch (diagonal) mini-LED backlit display",
+        "Liquid Retina XDR display",
+        "3456 by 2234 pixels",
+        "XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)",
+        "SDR brightness: 600 nits max",
+        "Wide color (P3)",
+        "True Tone technology",
+        "ProMotion technology for adaptive refresh rates up to 120Hz",
+        "Up to 15 hours wireless web",
+        "Up to 22 hours Apple TV app movie playback",
+        "Integrated 100-watt-hour lithium-polymer battery",
+        "140W USB-C Power Adapter",
+        "Fast-charge capable with included 140W USB-C Power Adapter"
+      ]
+    }
+  ]
+}

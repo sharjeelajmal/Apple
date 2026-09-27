@@ -1,6 +1,8 @@
 import HeroBanner from "@/components/features/home/HeroBanner";
 import PromoSection from "@/components/features/home/PromoSection";
 import ProductShowcase from "@/components/features/home/ProductShowcase";
+import PromoGrid from "@/components/features/home/PromoGrid";
+import EntertainmentGallery from "@/components/features/home/EntertainmentGallery";
 
 export default function Home() {
   return (
@@ -17,6 +19,8 @@ export default function Home() {
       />
       <PromoSection />
       <ProductShowcase />
+      <PromoGrid />
+      <EntertainmentGallery />
     </main>
   );
 }

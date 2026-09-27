@@ -17,7 +17,7 @@ export default function ProductShowcase({
   return (
     <section 
       aria-labelledby="product-showcase-headline"
-      className="relative flex flex-col items-center pt-[40px] md:pt-[56px] bg-gradient-to-b from-[#e0f2fe] to-[#F5F5F7] overflow-hidden w-full isolate"
+      className="relative flex flex-col items-center pt-[40px] md:pt-[56px] min-h-[400px] md:min-h-[692px] bg-[#F5F5F7] overflow-hidden w-full isolate"
     >
       {/* Content Layer */}
       <div className="relative z-10 flex flex-col items-center w-full max-w-[570px] px-4 shrink-0">
@@ -34,26 +34,20 @@ export default function ProductShowcase({
           <Button href="/macbook-air" variant="primary">
             Learn more
           </Button>
-          <Button href="/shop/buy-mac" variant="outline">
+          <Button href="/shop/buy-mac" variant="secondary">
             Buy
           </Button>
         </div>
       </div>
 
       {/* Visuals Layer */}
-      {/* 
-        Using aspect-video or explicit height to prevent CLS.
-        Negative margin pulls the image up to close the gap with the buttons.
-        object-contain is used as strictly requested to maintain the floating effect without cropping edges.
-        scale-[1.20] origin-bottom increases the laptop size while keeping it anchored to the bottom.
-      */}
-      <div className="relative w-full aspect-[2/1] md:aspect-[3/1] max-w-[3008px] mx-auto mt-[60px] sm:mt-[40px] md:mt-[-30px] z-0 pointer-events-none flex justify-center">
+      <div className="absolute inset-x-0 top-0 bottom-[-20px] z-0 flex justify-center items-end pointer-events-none">
         <Image
           src={mediaUrl}
           alt={mediaAlt}
           fill
           priority
-          className="object-contain object-bottom scale-[2.5] md:scale-[1.20] origin-bottom"
+          className="object-contain object-bottom scale-[2.2] sm:scale-[1.5] md:scale-[0.95] origin-bottom"
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1200px"
         />
       </div>
