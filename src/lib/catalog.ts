@@ -75,14 +75,6 @@ export async function getCategoryCounts() {
   return Object.fromEntries(results.map(({ _id, count }) => [_id, count])) as Partial<Record<CategorySlug, number>>;
 }
 
-export async function searchProducts(query: string, limit: number) {
-  const documents = await productsCollection
-    .find({ status: "active", title: { $regex: escapeRegex(query), $options: "i" } })
-    .limit(limit)
-    .toArray();
-  return documents.map(toCatalogProduct);
-}
-
 export async function getAdminProducts({ search, category }: { search?: string; category?: CategorySlug }) {
   const filter: Filter<ProductDocument> = {
     ...(category && { category }),

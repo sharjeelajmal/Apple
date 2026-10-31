@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export default function useImageUpload() {
+export default function useImageUpload(endpoint = "/api/admin/upload") {
   const [isUploading, setIsUploading] = useState(false);
   const [error, setError] = useState("");
 
@@ -11,7 +11,7 @@ export default function useImageUpload() {
     try {
       const body = new FormData();
       body.append("file", file);
-      const response = await fetch("/api/admin/upload", { method: "POST", body });
+      const response = await fetch(endpoint, { method: "POST", body });
       const result = await response.json();
 
       if (!response.ok) {

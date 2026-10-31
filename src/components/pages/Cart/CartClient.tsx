@@ -8,6 +8,8 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/Button";
 import CartNotices from "@/components/shared/CartNotices";
+import RecentlyViewed from "@/components/shared/RecentlyViewed";
+import CartAdvisor from "@/components/ai/CartAdvisor";
 import { useRouter } from "next/navigation";
 
 const containerVariants: Variants = {
@@ -27,7 +29,7 @@ const itemVariants: Variants = {
   }
 };
 
-export default function CartClient() {
+export default function CartClient({ isAssistantEnabled }: { isAssistantEnabled: boolean }) {
   const { cartItems, updateQuantity, removeFromCart, subtotal } = useCart();
   const [mounted, setMounted] = useState(false);
   const [termsAccepted, setTermsAccepted] = useState(false);
@@ -148,6 +150,7 @@ export default function CartClient() {
                   ))}
                 </AnimatePresence>
               </div>
+              {isAssistantEnabled && <CartAdvisor items={cartItems} />}
             </div>
 
             {/* Order Summary */}
@@ -200,6 +203,8 @@ export default function CartClient() {
           </motion.div>
         )}
       </AnimatePresence>
+
+      <RecentlyViewed title="Pick up where you left off" />
     </div>
   );
 }

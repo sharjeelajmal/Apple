@@ -52,3 +52,34 @@ export const adminConfig = {
     return readEnv("BETTER_AUTH_SECRET");
   },
 };
+
+export type AssistantProvider = {
+  name: "openrouter" | "anthropic";
+  model: string;
+  voiceModel: string;
+  apiKey: string | null;
+  authToken: string | null;
+  baseURL?: string;
+};
+
+export const assistantConfig = {
+  get provider(): AssistantProvider | null {
+    const openRouterKey = readOptionalEnv("OPENROUTER_API_KEY");
+    if (openRouterKey) {
+      return {
+        name: "openrouter",
+        model: readOptionalEnv("OPENROUTER_MODEL") ?? "anthropic/claude-opus-5.5",
+        voiceModel: readOptionalEnv("OPENROUTER_VOICE_MODEL") ?? "anthropic/claude-sonnet-5.5",
+        apiKey: null,
+        authToken: openRouterKey,
+        baseURL: "https://openrouter.ai/api",
+      };
+    }
+
+    const anthropicKey = readOptionalEnv("ANTHROPIC_API_KEY");
+    return anthropicKey ? { name: "anthropic", model: "claude-opus-5-5", voiceModel: "claude-sonnet-5-5", apiKey: anthropicKey, authToken: null } : null;
+  },
+  get isEnabled() {
+    return Boolean(this.provider);
+  },
+};

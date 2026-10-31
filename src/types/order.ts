@@ -40,6 +40,21 @@ export type CheckoutDetails = {
   card: CardSummary | null;
 };
 
+export type ReturnStatus = "requested" | "approved" | "rejected";
+
+export type ReturnRequest = {
+  status: ReturnStatus;
+  reason: string;
+  requestedAt: string;
+  resolvedAt?: string;
+};
+
+export const returnStatusLabels: Record<ReturnStatus, string> = {
+  requested: "Return requested",
+  approved: "Return approved",
+  rejected: "Return declined",
+};
+
 export type Order = {
   id: string;
   items: CartItem[];
@@ -52,6 +67,7 @@ export type Order = {
   shippingAddress?: OrderAddress;
   billingAddress?: OrderAddress;
   card?: CardSummary | null;
+  returnRequest?: ReturnRequest | null;
 };
 
 export const paymentMethodLabels: Record<PaymentMethod, string> = {

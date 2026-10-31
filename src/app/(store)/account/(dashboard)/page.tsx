@@ -6,13 +6,16 @@ import OrderList from "@/components/pages/Account/OrderList";
 import SectionCard from "@/components/shared/dashboard/SectionCard";
 import StatCard from "@/components/shared/dashboard/StatCard";
 import WishlistStatCard from "@/components/pages/Account/WishlistStatCard";
+import ForYouSection from "@/components/ai/ForYouSection";
+import { assistantConfig } from "@/config/env";
 import { getAddressesForUser } from "@/lib/addresses";
 import { formatPrice } from "@/lib/format";
 import { getOrdersForUser } from "@/lib/orders";
 import { requireSession } from "@/lib/session";
+import { siteConfig } from "@/config/site";
 
 export const metadata: Metadata = {
-  title: "Your Account | Apple",
+  title: `Your Account | ${siteConfig.name}`,
 };
 
 const RECENT_ORDERS_LIMIT = 3;
@@ -37,6 +40,8 @@ export default async function AccountOverviewPage() {
         <WishlistStatCard />
         <StatCard icon={MapPin} label="Saved addresses" value={String(addresses.length)} href="/account/addresses" />
       </div>
+
+      {assistantConfig.isEnabled && <ForYouSection variant="account" />}
 
       <SectionCard
         title="Recent Orders"

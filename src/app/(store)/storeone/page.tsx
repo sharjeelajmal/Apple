@@ -12,9 +12,10 @@ import {
   EXPERIENCE_SHELF,
   SAVINGS_SHELF,
 } from "@/config/storeData";
+import { siteConfig } from "@/config/site";
 
 export const metadata: Metadata = {
-  title: "Apple Store Online - Apple",
+  title: `Store | ${siteConfig.name}`,
   description:
     "Shop the latest Apple products, accessories, and offers. Compare models, get expert shopping help, plus flexible payment and delivery options.",
 };

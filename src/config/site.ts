@@ -11,13 +11,13 @@ export const allowedHosts = [
 ];
 
 export const siteConfig = {
-  name: "Aplee",
+  name: "Apple Official",
   tagline: "Your destination for everything Apple.",
   url: process.env.NEXT_PUBLIC_SITE_URL || siteUrls.production,
   contact: {
-    email: "contact@aplee.com",
-    supportEmail: "support@aplee.com",
-    careersEmail: "careers@aplee.com",
+    email: "contact@appleofficial.com",
+    supportEmail: "support@appleofficial.com",
+    careersEmail: "careers@appleofficial.com",
     phone: "+1-613-555-0182",
     address: "Shop 009A, Level 4, Block A, Demo Park, Ottawa",
     hours: "Mon – Sat, 9:00 AM – 8:00 PM EST",

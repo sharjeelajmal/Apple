@@ -2,10 +2,12 @@
 
 import { ObjectId } from "mongodb";
 import { revalidatePath } from "next/cache";
+import { isArModelUrl } from "@/config/arModels";
 import { isCategorySlug } from "@/config/categories";
 import { isAllowedImageUrl } from "@/config/imageHosts";
 import { starterCatalog } from "@/data/seed/starterCatalog";
 import { assertAdmin } from "@/lib/adminAuth";
+import { processProductAlerts } from "@/lib/alerts";
 import { productsCollection } from "@/lib/catalog";
 import { slugify } from "@/lib/slugify";
 import type { ProductInput, ProductVariant } from "@/types/catalog";
@@ -49,6 +51,7 @@ const sanitizeProduct = (input: ProductInput): ProductInput => {
       .map((color) => ({ name: toText(color.name), hex: toText(color.hex), image: toText(color.image) || undefined }))
       .filter((color) => color.name && color.hex),
     variants: (input.variants ?? []).map(sanitizeVariant),
+    arModel: toText(input.arModel),
   };
 };
 
@@ -65,6 +68,7 @@ const validateProduct = (product: ProductInput) => {
     ...product.variants.map((variant) => variant.image).filter(Boolean),
   ];
   if (!imageUrls.every(isAllowedImageUrl)) return "Please upload images instead of linking to other websites.";
+  if (product.arModel && !isArModelUrl(product.arModel)) return "Please upload the AR model as a .usdz file.";
 
   return "";
 };
@@ -79,18 +83,29 @@ export async function saveProduct(input: ProductInput, productId?: string): Prom
   if (error) return { error };
 
   const id = productId && ObjectId.isValid(productId) ? new ObjectId(productId) : undefined;
+  const existing = id ? await productsCollection.findOne({ _id: id }, { projection: { rating: 1, totalReviews: 1 } }) : null;
+  if (id && !existing) return { error: "This product no longer exists." };
+
   const duplicate = await productsCollection.findOne({ handle: product.handle, ...(id && { _id: { $ne: id } }) });
   if (duplicate) return { error: `Another product already uses the handle "${product.handle}".` };
 
   const now = new Date();
 
-  if (id) {
-    await productsCollection.updateOne({ _id: id }, { $set: { ...product, updatedAt: now } });
+  if (id && existing) {
+    const updated = { ...product, rating: existing.rating, totalReviews: existing.totalReviews };
+    await productsCollection.updateOne({ _id: id }, { $set: { ...updated, updatedAt: now } });
+    await processProductAlerts(String(id), updated);
     refreshStorefront();
     return { error: "", id: String(id) };
   }
 
-  const { insertedId } = await productsCollection.insertOne({ ...product, createdAt: now, updatedAt: now });
+  const { insertedId } = await productsCollection.insertOne({
+    ...product,
+    rating: 0,
+    totalReviews: 0,
+    createdAt: now,
+    updatedAt: now,
+  });
   refreshStorefront();
   return { error: "", id: String(insertedId) };
 }

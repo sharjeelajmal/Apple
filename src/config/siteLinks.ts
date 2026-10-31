@@ -1,3 +1,5 @@
+import { siteConfig } from "@/config/site";
+
 export type SiteLink = {
   label: string;
   href: string;
@@ -21,6 +23,8 @@ export const footerLinkGroups: SiteLinkGroup[] = [
   {
     title: "Information",
     links: [
+      { label: "AI Features", href: "/ai-features" },
+      { label: "Help Me Choose", href: "/help-me-choose" },
       { label: "Blog", href: "/blogs/news" },
       { label: "Jobs", href: "/pages/jobs" },
       { label: "FAQ", href: "/pages/faq" },
@@ -36,6 +40,7 @@ export const sitemapGroups: SiteLinkGroup[] = [
       { label: "Home", href: "/" },
       { label: "Store", href: "/storeone" },
       { label: "All Products", href: "/collections/all" },
+      { label: "Help Me Choose", href: "/help-me-choose" },
       { label: "Mac", href: "/collections/macbook" },
       { label: "iPhone", href: "/collections/iphone" },
       { label: "Shopping Bag", href: "/cart" },
@@ -54,7 +59,7 @@ export const sitemapGroups: SiteLinkGroup[] = [
     ],
   },
   {
-    title: "About Aplee",
+    title: `About ${siteConfig.name}`,
     links: [
       { label: "About Us", href: "/pages/about" },
       { label: "Contact Us", href: "/pages/contact" },

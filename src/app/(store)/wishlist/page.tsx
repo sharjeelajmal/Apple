@@ -1,9 +1,10 @@
 import { Metadata } from "next";
 import Breadcrumb from "@/components/pages/Product/Breadcrumb";
 import WishlistClient from "@/components/pages/Wishlist/WishlistClient";
+import { siteConfig } from "@/config/site";
 
 export const metadata: Metadata = {
-  title: "Your Wishlist | Apple Store",
+  title: `Your Wishlist | ${siteConfig.name}`,
   description: "View and manage your saved products.",
 };
 

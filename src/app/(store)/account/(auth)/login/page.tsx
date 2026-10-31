@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
 import LoginView from "@/components/pages/Auth/LoginView";
 import { enabledSocialProviders } from "@/lib/auth";
+import { siteConfig } from "@/config/site";
 
 export const metadata: Metadata = {
-  title: "Sign In | Apple",
-  description: "Sign in to your Apple Store account for faster checkout and order tracking.",
+  title: `Sign In | ${siteConfig.name}`,
+  description: `Sign in to your ${siteConfig.name} account for faster checkout and order tracking.`,
 };
 
 export default async function LoginPage({ searchParams }: PageProps<"/account/login">) {

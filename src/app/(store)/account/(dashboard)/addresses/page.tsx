@@ -3,9 +3,10 @@ import AccountPageHeader from "@/components/pages/Account/AccountPageHeader";
 import AddressBook from "@/components/pages/Account/AddressBook";
 import { getAddressesForUser } from "@/lib/addresses";
 import { requireSession } from "@/lib/session";
+import { siteConfig } from "@/config/site";
 
 export const metadata: Metadata = {
-  title: "Your Addresses | Apple",
+  title: `Your Addresses | ${siteConfig.name}`,
 };
 
 export default async function AddressesPage() {

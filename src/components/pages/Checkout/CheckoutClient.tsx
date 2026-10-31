@@ -11,7 +11,7 @@ import CheckoutOrderSummary from "./CheckoutOrderSummary";
 import ShippingForm from "./ShippingForm";
 import { checkoutContainerVariants, checkoutItemVariants } from "./checkoutAnimations";
 
-export default function CheckoutClient() {
+export default function CheckoutClient({ checkAddressWithAi }: { checkAddressWithAi: boolean }) {
   const { cartItems, subtotal } = useCart();
   const isClient = useIsClient();
 
@@ -36,7 +36,7 @@ export default function CheckoutClient() {
               <h2 className="mb-6 text-[28px] font-semibold tracking-tight text-ink md:text-[32px]">
                 Where should we send your order?
               </h2>
-              <ShippingForm />
+              <ShippingForm checkAddressWithAi={checkAddressWithAi} />
             </motion.div>
 
             <motion.div variants={checkoutItemVariants} className="lg:col-span-5 xl:col-span-4">

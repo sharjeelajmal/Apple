@@ -6,6 +6,8 @@ import TrendingProducts from "@/components/pages/HomeOne/TrendingProducts/Trendi
 import CountdownBanner from "@/components/pages/HomeOne/CountdownBanner/CountdownBanner";
 import Testimonials from "@/components/pages/HomeOne/Testimonials/Testimonials";
 import NewsletterSection from "@/components/pages/HomeOne/NewsletterSection/NewsletterSection";
+import ForYouSection from "@/components/ai/ForYouSection";
+import { assistantConfig } from "@/config/env";
 import { getCategoryName, type CategorySlug } from "@/config/categories";
 import { siteConfig } from "@/config/site";
 import { getProductsByHandles, getStorefrontProducts, toCardProduct } from "@/lib/catalog";
@@ -45,6 +47,7 @@ export default async function HomePage() {
         subtitle={carousel.subtitle}
         products={carouselProducts.map(toCardProduct)}
       />
+      {assistantConfig.isEnabled && <ForYouSection />}
       <TrendingProducts
         title={trending.title}
         categories={Object.keys(trendingTabs)}

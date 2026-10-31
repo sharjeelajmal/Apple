@@ -32,6 +32,7 @@ export type ProductInput = {
   availableStorages: string[];
   availableColors: ProductColor[];
   variants: ProductVariant[];
+  arModel?: string;
 };
 
 export type CatalogProduct = ProductInput & {
@@ -53,4 +54,9 @@ export type ProductCardData = {
   hoverImage?: string;
   isSoldOut?: boolean;
   colors?: string[];
+};
+
+export type BundleProduct = ProductCardData & {
+  variantLabel: string | null;
+  variant: { storage: string; colorHex: string; colorName: string } | null;
 };

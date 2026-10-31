@@ -7,9 +7,10 @@ import ProfileForm from "@/components/pages/Account/ProfileForm";
 import SectionCard from "@/components/shared/dashboard/SectionCard";
 import { auth, enabledSocialProviders } from "@/lib/auth";
 import { requireSession } from "@/lib/session";
+import { siteConfig } from "@/config/site";
 
 export const metadata: Metadata = {
-  title: "Account Settings | Apple",
+  title: `Account Settings | ${siteConfig.name}`,
 };
 
 export default async function SettingsPage() {

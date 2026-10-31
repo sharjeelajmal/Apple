@@ -3,8 +3,8 @@
 import { useState, useEffect } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { Search, User, Heart, ShoppingBag, Menu, X } from "lucide-react";
-import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter, FaYoutube } from "react-icons/fa";
+import { Heart, Menu, Search, ShoppingBag, Sparkles, User, X } from "lucide-react";
+import { FiFacebook, FiInstagram, FiLinkedin, FiTwitter, FiYoutube } from "react-icons/fi";
 import SearchOverlay from "./SearchOverlay";
 import { useWishlist } from "@/context/WishlistContext";
 import { useCart } from "@/context/CartContext";
@@ -66,11 +66,11 @@ export default function Header() {
               </div>
             </div>
             <div className="flex items-center gap-4 text-gray-500">
-              <a href="#" className="hover:text-[#d3122a] transition-colors"><FaTwitter size={14} /></a>
-              <a href="#" className="hover:text-[#d3122a] transition-colors"><FaInstagram size={14} /></a>
-              <a href="#" className="hover:text-[#d3122a] transition-colors"><FaLinkedin size={14} /></a>
-              <a href="#" className="hover:text-[#d3122a] transition-colors"><FaYoutube size={14} /></a>
-              <a href="#" className="hover:text-[#d3122a] transition-colors"><FaFacebook size={14} /></a>
+              <a href="#" className="hover:text-[#d3122a] transition-colors"><FiTwitter size={14} className="icon-outline" /></a>
+              <a href="#" className="hover:text-[#d3122a] transition-colors"><FiInstagram size={14} className="icon-outline" /></a>
+              <a href="#" className="hover:text-[#d3122a] transition-colors"><FiLinkedin size={14} className="icon-outline" /></a>
+              <a href="#" className="hover:text-[#d3122a] transition-colors"><FiYoutube size={14} className="icon-outline" /></a>
+              <a href="#" className="hover:text-[#d3122a] transition-colors"><FiFacebook size={14} className="icon-outline" /></a>
             </div>
           </div>
         </div>
@@ -102,6 +102,10 @@ export default function Header() {
               <Link href="/" className="hover:text-[#d3122a] transition-colors uppercase">Home</Link>
               <Link href="/collections/macbook" className="hover:text-[#d3122a] transition-colors uppercase">Mac</Link>
               <Link href="/collections/iphone" className="hover:text-[#d3122a] transition-colors uppercase">iPhone</Link>
+              <Link href="/ai-features" className="flex items-center gap-1 text-accent hover:text-[#d3122a] transition-colors uppercase">
+                <Sparkles size={14} />
+                AI Features
+              </Link>
               <Link href="/pages/about" className="hover:text-[#d3122a] transition-colors uppercase">About Us</Link>
               <Link href="/pages/contact" className="hover:text-[#d3122a] transition-colors uppercase">Contact</Link>
             </nav>
@@ -165,15 +169,16 @@ export default function Header() {
               <Link href="/" className="border-b pb-3 uppercase">Home</Link>
               <Link href="/collections/macbook" className="border-b pb-3 uppercase">Mac</Link>
               <Link href="/collections/iphone" className="border-b pb-3 uppercase">iPhone</Link>
+              <Link href="/ai-features" className="border-b pb-3 uppercase text-accent">AI Features</Link>
               <Link href="/pages/about" className="border-b pb-3 uppercase">About Us</Link>
               <Link href="/pages/contact" className="border-b pb-3 uppercase">Contact</Link>
             </nav>
             <div className="mt-8 flex justify-center gap-4 text-gray-500">
-              <a href="#"><FaTwitter size={18} /></a>
-              <a href="#"><FaInstagram size={18} /></a>
-              <a href="#"><FaLinkedin size={18} /></a>
-              <a href="#"><FaYoutube size={18} /></a>
-              <a href="#"><FaFacebook size={18} /></a>
+              <a href="#"><FiTwitter size={18} className="icon-outline" /></a>
+              <a href="#"><FiInstagram size={18} className="icon-outline" /></a>
+              <a href="#"><FiLinkedin size={18} className="icon-outline" /></a>
+              <a href="#"><FiYoutube size={18} className="icon-outline" /></a>
+              <a href="#"><FiFacebook size={18} className="icon-outline" /></a>
             </div>
           </div>
         </div>

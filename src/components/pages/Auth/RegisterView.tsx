@@ -4,6 +4,7 @@ import AuthDivider from "./AuthDivider";
 import RegisterForm from "./RegisterForm";
 import SocialAuthButtons from "./SocialAuthButtons";
 import { AUTH_ROUTES, type SocialProvider } from "@/config/auth";
+import { siteConfig } from "@/config/site";
 
 interface RegisterViewProps {
   enabledProviders: SocialProvider[];
@@ -16,7 +17,7 @@ export default function RegisterView({ enabledProviders }: RegisterViewProps) {
       highlight="store account."
       description="Track orders, save your favorites, and check out in seconds. It only takes a minute."
       cardTitle="Create Your Account"
-      cardSubtitle="One account for everything Apple Store."
+      cardSubtitle={`One account for everything at ${siteConfig.name}.`}
       footer={
         <>
           Already have an account?{" "}

@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { Home, Phone, Mail, ArrowRight } from "lucide-react";
-import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
+import { FiFacebook, FiInstagram, FiLinkedin, FiTwitter } from "react-icons/fi";
 import { siteConfig } from "@/config/site";
 import { footerLinkGroups } from "@/config/siteLinks";
 
@@ -55,10 +55,10 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <h5 className="text-[#1d1d1f] font-semibold text-[16px] mb-6 tracking-tight">Social Media</h5>
             <ul className="flex flex-col gap-3.5 text-[14px] text-[#6e6e73]">
-              <li><a href={siteConfig.social.facebook} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#1d1d1f] transition-colors"><FaFacebook size={18} /> Facebook</a></li>
-              <li><a href={siteConfig.social.instagram} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#1d1d1f] transition-colors"><FaInstagram size={18} /> Instagram</a></li>
-              <li><a href={siteConfig.social.linkedin} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#1d1d1f] transition-colors"><FaLinkedin size={18} /> LinkedIn</a></li>
-              <li><a href={siteConfig.social.twitter} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#1d1d1f] transition-colors"><FaTwitter size={18} /> Twitter</a></li>
+              <li><a href={siteConfig.social.facebook} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#1d1d1f] transition-colors"><FiFacebook size={18} className="icon-outline" /> Facebook</a></li>
+              <li><a href={siteConfig.social.instagram} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#1d1d1f] transition-colors"><FiInstagram size={18} className="icon-outline" /> Instagram</a></li>
+              <li><a href={siteConfig.social.linkedin} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#1d1d1f] transition-colors"><FiLinkedin size={18} className="icon-outline" /> LinkedIn</a></li>
+              <li><a href={siteConfig.social.twitter} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#1d1d1f] transition-colors"><FiTwitter size={18} className="icon-outline" /> Twitter</a></li>
             </ul>
           </div>
 

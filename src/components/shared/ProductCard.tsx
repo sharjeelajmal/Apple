@@ -8,6 +8,7 @@ import { useWishlist } from '@/context/WishlistContext';
 import { useCart } from '@/context/CartContext';
 import { useState } from 'react';
 import QuickViewModal from './QuickViewModal';
+import CompareToggle from '@/components/compare/CompareToggle';
 import type { FullProduct, ProductCardData } from '@/types/catalog';
 
 export type Product = ProductCardData;
@@ -131,6 +132,9 @@ export default function ProductCard({ product }: ProductCardProps) {
           >
             <Search size={18} className="font-medium" />
           </button>
+        </span>
+        <span className="opacity-100 translate-x-0 lg:opacity-0 lg:translate-x-4 lg:group-hover:opacity-100 lg:group-hover:translate-x-0 transition-all duration-700 ease-out lg:delay-[200ms]">
+          <CompareToggle item={{ handle: product.handle, title: product.title, image: product.image }} />
         </span>
       </div>
 

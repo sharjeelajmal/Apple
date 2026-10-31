@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { Star } from "lucide-react";
+import StarRating from "./reviews/StarRating";
 import { motion, type Variants } from "framer-motion";
 import type { FullProduct } from "@/types/catalog";
 import VariantSelector from "./VariantSelector";
@@ -108,16 +108,12 @@ export default function ProductInfo({ product }: { product: FullProduct }) {
         <h1 className="text-[32px] md:text-[40px] font-semibold text-[#1d1d1f] mb-3 leading-tight tracking-tight">
           {product.title}
         </h1>
-        <div className="flex items-center gap-2">
-          <div className="flex text-[#f5c518]">
-            {[...Array(5)].map((_, i) => (
-              <Star key={i} size={16} fill={i < Math.floor(product.rating) ? "currentColor" : "none"} />
-            ))}
-          </div>
-          <span className="text-[13px] text-[#0071e3] hover:underline cursor-pointer font-medium">
-            {product.totalReviews} Reviews
+        <a href="#reviews" className="flex w-fit items-center gap-2">
+          <StarRating rating={product.rating} />
+          <span className="text-[13px] text-[#0071e3] hover:underline font-medium">
+            {product.totalReviews ? `${product.totalReviews} ${product.totalReviews === 1 ? "Review" : "Reviews"}` : "Write the first review"}
           </span>
-        </div>
+        </a>
       </motion.div>
 
       {/* Price */}

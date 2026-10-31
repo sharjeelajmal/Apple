@@ -1,23 +1,28 @@
 "use client";
 
-import { useState, type FormEvent } from "react";
+import { useState, useTransition, type FormEvent } from "react";
 import { useRouter } from "next/navigation";
+import { checkShippingAddress } from "@/actions/aiActions";
 import { Button } from "@/components/ui/Button";
+import type { AddressReview } from "@/lib/ai/features/checkoutHelpers";
 import { fieldLimits, sanitizers } from "@/lib/checkout/addressValidation";
 import { validateAddress, validateContact } from "@/lib/checkout/validateAddress";
 import { emptyAddress, emptyContact, readShippingDetails, saveShippingDetails } from "@/services/checkoutStorage";
 import type { CheckoutContact, OrderAddress } from "@/types/order";
 import AddressFields, { getStateOptions, type AddressErrors } from "./AddressFields";
+import AddressReviewCard from "./AddressReviewCard";
 import CheckoutField from "./CheckoutField";
 
 type ContactErrors = Partial<Record<keyof CheckoutContact, string>>;
 
-export default function ShippingForm() {
+export default function ShippingForm({ checkAddressWithAi }: { checkAddressWithAi: boolean }) {
   const router = useRouter();
   const [contact, setContact] = useState<CheckoutContact>(() => readShippingDetails()?.contact ?? emptyContact);
   const [address, setAddress] = useState<OrderAddress>(() => readShippingDetails()?.address ?? emptyAddress());
   const [contactErrors, setContactErrors] = useState<ContactErrors>({});
   const [addressErrors, setAddressErrors] = useState<AddressErrors>({});
+  const [addressReview, setAddressReview] = useState<AddressReview | null>(null);
+  const [isCheckingAddress, startAddressCheck] = useTransition();
 
   const updateContact = (patch: Partial<CheckoutContact>) => {
     setContact((prev) => ({ ...prev, ...patch }));
@@ -25,6 +30,7 @@ export default function ShippingForm() {
   };
 
   const updateAddress = (patch: Partial<OrderAddress>) => {
+    setAddressReview(null);
     setAddress((prev) => ({ ...prev, ...patch }));
     setAddressErrors((prev) => ({ ...prev, ...Object.fromEntries(Object.keys(patch).map((key) => [key, ""])) }));
   };
@@ -38,8 +44,31 @@ export default function ShippingForm() {
 
     if (Object.keys(nextContactErrors).length || Object.keys(nextAddressErrors).length) return;
 
-    saveShippingDetails({ contact, address });
+    if (!checkAddressWithAi) {
+      continueToPayment(address);
+      return;
+    }
+
+    startAddressCheck(async () => {
+      const result = await checkShippingAddress(address);
+      if (result.data?.status === "needs_attention" && result.data.issues.length) {
+        setAddressReview(result.data);
+      } else {
+        continueToPayment(address);
+      }
+    });
+  };
+
+  const continueToPayment = (finalAddress: OrderAddress) => {
+    saveShippingDetails({ contact, address: finalAddress });
     router.push("/checkout/payment");
+  };
+
+  const useSuggestedAddress = () => {
+    if (!addressReview) return;
+    const suggested = { ...addressReview.suggested, country: address.country };
+    setAddress(suggested);
+    continueToPayment(suggested);
   };
 
   return (
@@ -87,9 +116,23 @@ export default function ShippingForm() {
       <h3 className="mb-6 mt-10 text-[19px] font-semibold text-ink">Shipping Address</h3>
       <AddressFields value={address} errors={addressErrors} onChange={updateAddress} />
 
+      {addressReview && (
+        <AddressReviewCard
+          issues={addressReview.issues}
+          current={address}
+          suggested={addressReview.suggested}
+          onUseSuggested={useSuggestedAddress}
+          onKeepMine={() => continueToPayment(address)}
+        />
+      )}
+
       <div className="mt-8 flex justify-end border-t border-line pt-6">
-        <Button type="submit" className="h-[54px] w-full rounded-full px-8 text-[17px] font-medium md:w-auto">
-          Continue to Payment
+        <Button
+          type="submit"
+          disabled={isCheckingAddress}
+          className="h-[54px] w-full rounded-full px-8 text-[17px] font-medium md:w-auto"
+        >
+          {isCheckingAddress ? "Checking address…" : "Continue to Payment"}
         </Button>
       </div>
     </form>

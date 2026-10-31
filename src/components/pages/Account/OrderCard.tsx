@@ -6,6 +6,7 @@ import { ChevronDown } from "lucide-react";
 import OrderItemsList from "@/components/shared/order/OrderItemsList";
 import OrderProgress from "@/components/shared/order/OrderProgress";
 import OrderStatusBadge from "@/components/shared/order/OrderStatusBadge";
+import ReturnBadge from "@/components/shared/order/ReturnBadge";
 import { formatDate, formatPrice, resolveImageUrl } from "@/lib/format";
 import { paymentMethodLabels, type Order } from "@/types/order";
 
@@ -54,6 +55,7 @@ export default function OrderCard({ order, defaultExpanded = false }: OrderCardP
         </div>
 
         <OrderStatusBadge status={order.status} />
+        {order.returnRequest && <ReturnBadge status={order.returnRequest.status} />}
         <span className="text-[17px] font-semibold text-ink">{formatPrice(order.subtotal)}</span>
         <ChevronDown
           size={20}

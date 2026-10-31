@@ -3,7 +3,7 @@ import { betterAuth } from "better-auth";
 import { mongodbAdapter } from "better-auth/adapters/mongodb";
 import { nextCookies } from "better-auth/next-js";
 import { authConfig } from "@/config/env";
-import { allowedHosts, siteUrls } from "@/config/site";
+import { allowedHosts, siteConfig, siteUrls } from "@/config/site";
 import type { SocialProvider } from "@/config/auth";
 import { db, mongoClient } from "./mongodb";
 
@@ -12,7 +12,7 @@ const { google } = authConfig;
 export const enabledSocialProviders: SocialProvider[] = google ? ["google"] : [];
 
 export const auth = betterAuth({
-  appName: "Apple Store",
+  appName: siteConfig.name,
   baseURL: {
     allowedHosts,
     fallback: siteUrls.production,

@@ -3,9 +3,10 @@ import AccountPageHeader from "@/components/pages/Account/AccountPageHeader";
 import OrderList from "@/components/pages/Account/OrderList";
 import { getOrdersForUser } from "@/lib/orders";
 import { requireSession } from "@/lib/session";
+import { siteConfig } from "@/config/site";
 
 export const metadata: Metadata = {
-  title: "Your Orders | Apple",
+  title: `Your Orders | ${siteConfig.name}`,
 };
 
 export default async function OrdersPage() {

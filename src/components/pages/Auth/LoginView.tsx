@@ -5,6 +5,7 @@ import LoginForm from "./LoginForm";
 import SocialAuthButtons from "./SocialAuthButtons";
 import FormAlert from "@/components/ui/FormAlert";
 import { AUTH_ROUTES, type SocialProvider } from "@/config/auth";
+import { siteConfig } from "@/config/site";
 
 interface LoginViewProps {
   enabledProviders: SocialProvider[];
@@ -17,7 +18,7 @@ export default function LoginView({ enabledProviders, socialError }: LoginViewPr
       headline="Sign in for"
       highlight="faster checkout."
       description="One account for everything you love. Pick up right where you left off, on any device."
-      cardTitle="Sign in to Apple Store"
+      cardTitle={`Sign in to ${siteConfig.name}`}
       cardSubtitle="Use your email or Google account to continue."
       footer={
         <>

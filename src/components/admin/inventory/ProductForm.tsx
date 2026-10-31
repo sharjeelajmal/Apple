@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useState, useTransition, type FormEvent } from "react";
 import { useRouter } from "next/navigation";
 import { ExternalLink, Trash2 } from "lucide-react";
@@ -10,6 +11,7 @@ import { slugify } from "@/lib/slugify";
 import { buildVariants } from "@/lib/variants";
 import type { CatalogProduct, ProductInput } from "@/types/catalog";
 import Field from "../form/Field";
+import ArModelField from "../form/ArModelField";
 import ImageListField from "../form/ImageListField";
 import SaveBar, { type SaveStatus } from "../form/SaveBar";
 import TagsField from "../form/TagsField";
@@ -28,7 +30,7 @@ const emptyProduct: ProductInput = {
   basePrice: 0,
   description: "",
   images: [],
-  rating: 5,
+  rating: 0,
   totalReviews: 0,
   availableStorages: [],
   availableColors: [],
@@ -57,6 +59,7 @@ const toInput = (product: CatalogProduct): ProductInput => ({
   availableStorages: product.availableStorages,
   availableColors: product.availableColors,
   variants: product.variants,
+  arModel: product.arModel ?? "",
 });
 
 interface ProductFormProps {
@@ -130,7 +133,10 @@ export default function ProductForm({ product }: ProductFormProps) {
           </SectionCard>
 
           <SectionCard title="Images">
-            <ImageListField label="Product photos" value={values.images} onChange={(images) => update({ images })} />
+            <div className="grid gap-6">
+              <ImageListField label="Product photos" value={values.images} onChange={(images) => update({ images })} />
+              <ArModelField value={values.arModel ?? ""} handle={values.handle} onChange={(arModel) => update({ arModel })} />
+            </div>
           </SectionCard>
 
           <SectionCard title="Options" description="Add storage sizes and colors. Variants are created automatically.">
@@ -190,26 +196,17 @@ export default function ProductForm({ product }: ProductFormProps) {
           </SectionCard>
 
           <SectionCard title="Reviews">
-            <div className="grid grid-cols-2 gap-4">
-              <Field label="Rating (0–5)">
-                <TextInput
-                  type="number"
-                  min={0}
-                  max={5}
-                  step="0.1"
-                  value={values.rating}
-                  onChange={(event) => update({ rating: Number(event.target.value) })}
-                />
-              </Field>
-              <Field label="Review count">
-                <TextInput
-                  type="number"
-                  min={0}
-                  value={values.totalReviews}
-                  onChange={(event) => update({ totalReviews: Number(event.target.value) })}
-                />
-              </Field>
-            </div>
+            <p className="text-[15px] text-ink">
+              {values.totalReviews
+                ? `${values.rating.toFixed(1)} out of 5 from ${values.totalReviews} ${values.totalReviews === 1 ? "review" : "reviews"}`
+                : "No reviews yet"}
+            </p>
+            <p className="mt-1 text-[13px] text-ink-muted">
+              Calculated from customer reviews.{" "}
+              <Link href="/admin/reviews" className="text-accent hover:underline">
+                Manage reviews
+              </Link>
+            </p>
           </SectionCard>
         </div>
       </div>

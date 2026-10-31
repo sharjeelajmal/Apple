@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
 import AccountPageHeader from "@/components/pages/Account/AccountPageHeader";
 import WishlistPanel from "@/components/pages/Account/WishlistPanel";
+import { siteConfig } from "@/config/site";
 
 export const metadata: Metadata = {
-  title: "Your Wishlist | Apple",
+  title: `Your Wishlist | ${siteConfig.name}`,
 };
 
 export default function AccountWishlistPage() {

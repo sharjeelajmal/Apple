@@ -1,7 +1,7 @@
 import "server-only";
 import type { ObjectId } from "mongodb";
 import type { CartItem } from "@/context/CartContext";
-import type { CardSummary, CheckoutContact, Order, OrderAddress, OrderStatus, PaymentMethod } from "@/types/order";
+import type { CardSummary, CheckoutContact, Order, OrderAddress, OrderStatus, PaymentMethod, ReturnStatus } from "@/types/order";
 import { db } from "./mongodb";
 
 export type OrderDocument = {
@@ -18,6 +18,13 @@ export type OrderDocument = {
   shippingAddress?: OrderAddress;
   billingAddress?: OrderAddress;
   card?: CardSummary | null;
+  deliveredAt?: Date;
+  returnRequest?: {
+    status: ReturnStatus;
+    reason: string;
+    requestedAt: Date;
+    resolvedAt?: Date;
+  } | null;
 };
 
 export const ordersCollection = db.collection<OrderDocument>("orders");
@@ -34,6 +41,14 @@ export const toOrder = (document: OrderDocument): Order => ({
   shippingAddress: document.shippingAddress,
   billingAddress: document.billingAddress,
   card: document.card ?? null,
+  returnRequest: document.returnRequest
+    ? {
+        status: document.returnRequest.status,
+        reason: document.returnRequest.reason,
+        requestedAt: document.returnRequest.requestedAt.toISOString(),
+        resolvedAt: document.returnRequest.resolvedAt?.toISOString(),
+      }
+    : null,
 });
 
 export const getOrdersForUser = async (userId: string) => {

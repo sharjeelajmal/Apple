@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 import { FaApple } from "react-icons/fa";
 import { ShieldCheck } from "lucide-react";
 import AuthBenefits from "./AuthBenefits";
+import { siteConfig } from "@/config/site";
 
 const fadeUp = {
   hidden: { opacity: 0, y: 24 },
@@ -50,7 +51,7 @@ export default function AuthShell({
           className="text-center lg:text-left"
         >
           <p className="text-[14px] font-semibold uppercase tracking-[0.2em] text-accent">
-            Apple Store Account
+            {siteConfig.name} Account
           </p>
           <h1 className="mt-4 text-[40px] font-semibold leading-[1.05] tracking-tight text-ink md:text-[56px]">
             {headline}{" "}

@@ -7,6 +7,7 @@ import { formatDate, formatPrice } from "@/lib/format";
 import { paymentMethodLabels, type Order } from "@/types/order";
 import OrderCustomerDetails from "./OrderCustomerDetails";
 import OrderStatusSelect from "./OrderStatusSelect";
+import ReturnRequestPanel from "./ReturnRequestPanel";
 
 interface AdminOrderRowProps {
   order: Order & { isGuest: boolean };
@@ -39,6 +40,7 @@ export default function AdminOrderRow({ order }: AdminOrderRowProps) {
         <span className="w-24 text-right text-[16px] font-semibold text-ink">{formatPrice(order.subtotal)}</span>
         <OrderStatusSelect orderNumber={order.id} status={order.status} />
       </div>
+      {order.returnRequest && <ReturnRequestPanel orderNumber={order.id} request={order.returnRequest} />}
       {isExpanded && (
         <div className="flex flex-col gap-6 border-t border-line-light p-5">
           <OrderCustomerDetails order={order} />

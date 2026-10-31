@@ -1,19 +1,11 @@
 "use server";
 
 import { revalidatePath } from "next/cache";
-import { db } from "@/lib/mongodb";
 import { getSession } from "@/lib/session";
+import { getWishlistForUser, wishlistsCollection } from "@/lib/wishlist";
 import type { ProductCardData } from "@/types/catalog";
 
 const MAX_WISHLIST_ITEMS = 100;
-
-type WishlistDocument = {
-  userId: string;
-  items: ProductCardData[];
-  updatedAt: Date;
-};
-
-const wishlistsCollection = db.collection<WishlistDocument>("wishlists");
 
 const sanitizeItem = ({ id, title, handle, price, image, hoverImage }: ProductCardData): ProductCardData => ({
   id: String(id),
@@ -28,8 +20,7 @@ export async function getSavedWishlist(): Promise<ProductCardData[]> {
   const session = await getSession();
   if (!session) return [];
 
-  const document = await wishlistsCollection.findOne({ userId: session.user.id });
-  return document?.items ?? [];
+  return getWishlistForUser(session.user.id);
 }
 
 export async function saveWishlist(items: ProductCardData[]) {
